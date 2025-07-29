@@ -1,0 +1,95 @@
+{
+    "GAME": {
+        "ANTI_GROWLAUNCHER": false,
+        "ANTI_PROXY": false,
+        "AUTOFARM_DELAY": 200,
+        "CREATOR_LIST": [
+            "Oxygen",
+            "Lunaa",
+            "Ayano",
+            "Vito"
+        ],
+        "JOYSTICK": false,
+        "STORE_STOCK_ERAY": 7,
+        "STORE_STOCK_GRAY": 8,
+        "STORE_STOCK_MAG": 1,
+        "WORLD_BG": 14,
+        "WORLD_FG": 2,
+        "WORLD_LAVA": 4,
+        "WORLD_ROCK": 10,
+        "WORLD_WEATHER": 4
+    },
+    "NEWBIE_GET": {
+        "ITEMS": [
+            {
+                "Coin": 0,
+                "Gemss": 20000,
+                "Seasonals_Token": 0,
+                "items": [
+                    [
+                        7188,
+                        25
+                    ],
+                    [
+                        9726,
+                        1
+                    ],
+                    [
+                        9852,
+                        1
+                    ],
+                    [
+                        5136,
+                        20
+                    ],
+                    [
+                        14596,
+                        20
+                    ],
+                    [
+                        5638,
+                        2
+                    ],
+                    [
+                        6946,
+                        1
+                    ],
+                    [
+                        6948,
+                        1
+                    ],
+                    [
+                        340,
+                        200
+                    ],
+                    [
+                        9602,
+                        1
+                    ],
+                    [
+                        3432,
+                        25
+                    ],
+                    [
+                        10262,
+                        1
+                    ]
+                ]
+            }
+        ]
+    },
+    "SERVER": {
+        "APIKEY_AI": "YJM85881B",
+        "CLIENT_VERSION": "5.11",
+        "DEPOSIT_WORLD": "-",
+        "DISCORD_URL": "https://timeps.web.id",
+        "IP": "68.183.236.202",
+        "NAME": "`2V-Genz``",
+        "OSM_LINK": "osm.growplus.asia:3000",
+        "OSM_PATH": "cache/",
+        "PROTOCOL": "216",
+        "SERVER_VERSION": "5.18",
+        "WEBSITE_URL": "https://timeps.web.id",
+        "WHATSAPP_URL": "https://timeps.web.id"
+    }
+}

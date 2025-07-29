@@ -1,0 +1,149 @@
+{
+    "GAME": {
+        "ANTI_GROWLAUNCHER": false,
+        "ANTI_PROXY": false,
+        "AUTOFARM_DELAY": 850,
+        "SET_FARMS": true,
+        "CREATOR_LIST": [
+            "Oxygen",
+            "Raki",
+            "Kyrooo",
+	        "Hilal",
+            "Ditzz",
+            "MasAmba",
+            "Venzz",
+            "Panshwin"
+        ],
+        "JOYSTICK": false,
+        "STAFF_BAN": true,
+        "STORE_STOCK_ERAY": 0,
+        "STORE_STOCK_GRAY": 0,
+        "STORE_STOCK_MAG": 0,
+        "STORE_STOCK_LRAY": 0,
+        "STORE_STOCK_MRAY": 0,
+        "STORE_STOCK_WLPACK": 0,
+        "STORE_STOCK_WLOCK": 0,
+        "STORE_STOCK_DLOCK": 0,
+        "STORE_STOCK_BGLOCK": 0,
+        "WORLD_BG": 14,
+        "WORLD_FG": 2,
+        "WORLD_LAVA": 4,
+        "WORLD_ROCK": 10,
+        "WORLD_WEATHER": 0
+    },
+    "NEWBIE_GET": {
+        "ITEMS": [
+            {
+                "Coin": 10,
+                "Gemss": 50000,
+                "Seasonals_Token": 0,
+                "items": [
+                    [
+                        7188,
+                        25
+                    ],
+                    [
+                        5638,
+                        2
+                    ],
+                    [
+                        9726,
+                        1
+                    ],
+                    [
+                        9602,
+                        1
+                    ],
+                    [
+                        9928,
+                        200
+                    ],
+                    [
+                        9874,
+                        1
+                    ],
+                    [
+                        3010,
+                        1
+                    ],
+                    [
+                        3432,
+                        100
+                    ],
+                    [
+                        5136,
+                        20
+                    ],
+                    [
+                        14596,
+                        20
+                    ],
+                    [
+                        7960,
+                        20
+                    ],
+                    [
+                        528,
+                        10
+                    ],
+                    [
+                        1488,
+                        20
+                    ],
+                    [
+                        2204,
+                        1
+                    ]
+                ]
+            }
+        ]
+    },
+    "SERVER": {
+        "APIKEY_AI": "YJM85881B",
+        "NAME": "Gemtopia",
+        "HIGH_CLIST": "Oxygen",
+        "DEPOSIT_WORLD": "",
+        "CLIENT_VERSION": "5.21",
+        "SERVER_VERSION": "5.21",
+        "PROTOCOL": "211",
+        "IP": "152.42.200.71",
+        "PORT": 17091,
+        "OSM_LINK": "osm.growplus.asia:3000",
+        "OSM_PATH": "cache/",
+        "BD_THEMED": "112,86,191,255",
+        "BG_THEMED": "43,34,74,200",
+        "WEBSITE_URL": "https://",
+        "DISCORD_URL": "https://",
+        "WHATSAPP_URL": "https://",
+        "CONFIG_PASSWORD": "NAGAWIBU123",
+        "VIP_COLOR": "`1",
+        "MOD_COLOR": "`#@",
+        "DEV_COLOR": "`9@",
+        "SDEV_COLOR": "`6@",
+        "UDEV_COLOR": "`b@",
+        "DEVM_COLOR": "`s@",
+        "STAF_COLOR": "`4@",
+        "OWN_COLOR": "`c@",
+        "FIND_COLOR": "[/f]",
+        "SEARCH_COLOR": "[/s]",
+        "BUILDER_COLOR": "[BUILDER]",
+        "BOOST_COLOR": "`4[BOOSTER]",
+        "SBOOST_COLOR": "`4[SUPER BOOSTER]",
+        "DEVMX_COLOR": "`s[MAX]",
+        "VIP_CHAT_COLOR": "`1",
+        "MOD_CHAT_COLOR": "`#",
+        "DEV_CHAT_COLOR": "`9",
+        "SDV_CHAT_COLOR": "`6",
+        "UDV_CHAT_COLOR": "`b",
+        "DMX_CHAT_COLOR": "`s",
+        "STF_CHAT_COLOR": "`4",
+        "OWN_CHAT_COLOR": "`c",
+        "AMAZINGNPC_SPAWN": "",
+        "GTPSSALESMAN_SPAWN": "",
+        "HEADING_COLOR": "-17282728818181",
+        "PINNED_COLOR": "-17282728818181",
+        "RECENTLY_COLOR": "-9189918100118",
+        "RANDOMWORLD_COLOR": "-9189918100118"
+
+    }
+}

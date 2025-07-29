@@ -1,0 +1,24 @@
+set_default_color|
+add_label_with_icon|big|Break For Gems Rent Price:|left|4490|
+add_spacer|small|
+add_label_with_icon|small|Normal Rayman's Fist|left|5480|
+add_smalltext|`oAbility? : 3 Far Break.|left|
+add_smalltext|`o1 Hour / 10 Diamond Locks.|left|
+add_spacer|small|
+add_label_with_icon|small|Dark Evil Rayman's Fist|left|9778|
+add_smalltext|`oAbility? : 4 Far Break, 4 Far Place, 1 Hit, 10x Gems, 2x Xp.|left|
+add_smalltext|`o1 Hour / 20 Diamond Locks.|left|
+add_spacer|small|
+add_label_with_icon|small|Golden Rayman's Fist|left|9770|
+add_smalltext|`oAbility? : 7 Far Break, 7 Far Place, 1 Hit, 25x Gems, 5x Xp.|left|
+add_smalltext|`o1 Hour / 30 Diamond Locks.|left|
+add_spacer|small|
+add_label_with_icon|small|Flame Eldritch Rayman's Fist|left|9772|
+add_smalltext|`oAbility? : 10 Far Break, 10 Far Place, 1 Hit, 30x Gems, 5x Xp.|left|
+add_smalltext|`o1 Hour / 40 Diamond Locks.|left|
+add_spacer|small|
+add_label_with_icon|small|The Plasma of Dawn|left|10384|
+add_smalltext|`oAbility? : 12 Far Break, 12 Far Place, 1 Hit, 150x Gems, 5x Xp.|left|
+add_smalltext|`o1 Hour / 70 Diamond Locks.|left|
+add_spacer|small|
+end_dialog||Thanks for info!||\nadd_quick_exit|");

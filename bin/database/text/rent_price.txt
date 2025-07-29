@@ -1,0 +1,5 @@
+set_border_color|112,86,191,255|
+set_bg_color|43,34,74,200|
+add_label_with_icon|big|Soon!|left|4490|
+add_spacer|small|
+end_dialog||Thanks for info!||\nadd_quick_exit|");

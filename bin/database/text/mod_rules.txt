@@ -1,0 +1,23 @@
+set_border_color|112,86,191,255|
+set_bg_color|43,34,74,200|
+add_label_with_icon|big|`wModerator Rules|left|18|
+add_spacer|small|
+add_textbox|`wTo keep this place fun we've go some ground rules to check out:|left|
+add_spacer|small|
+add_label_with_icon|small|`wDon't ban anyone, unless you have proof of them breaking the rules.
+⤷ YOU ARE NOT ALLOWED TO punish MODERATORS, unlezs they're banning people for no reason.|left|20|
+add_label_with_icon|small|`wPost proof of all users you've banned within 12 hours.|left|20|
+add_label_with_icon|small|`wAny kind of disrespectful behaviour towards anyone will result demotion.|left|20|
+add_label_with_icon|small|`wYou can only speak English in mod chat that's in the game and on Discord.|left|20|
+add_label_with_icon|small|`wDo not post proof of users who were banned for having an inappropriate username (this does not include players who were using /nick)|left|20|
+add_label_with_icon|small|`wIf you're posting chat proof of someone breaking the rules, you HAVE to post a screenshot of the full chat. Cutting or editing pictures of such will lead to demotion.|left|20|
+add_label_with_icon|small|`wYou can't ban someone for ban evading without staff approval.|left|20|
+add_label_with_icon|small|`wAny rules that applies to normal players apply to you as well, you won't get away with breaking rules.|left|20|
+add_label_with_icon|small|`wScreenshots are NOT accepted for scammers or auto-farmers/bots, only videos! Posting screenshots of such leads to immediate demotion!|left|20|
+add_label_with_icon|small|`wGetting caught advertising Discord Servers of any sort will result permanent ban.|left|20|
+add_label_with_icon|small|`wModerators MUST use their (In Game Name) as their nickname on Discord.|left|20|
+add_label_with_icon|small|`wModerators are not allowed to share Moderator only informations.|left|20|
+add_label_with_icon|small|`wIs your responsibility to secure your own in-game/discord account, if u got hack and the user did something very awful, it will be instant demote.|left|20|
+add_label_with_icon|small|`wI don't care if you code/own a private server, as long you didn't mention it in your current account / advertise it you are save unless you been secretly inviting people.|left|20|
+add_spacer|small|
+add_button|News1|`wI accept these rules!|0|0|

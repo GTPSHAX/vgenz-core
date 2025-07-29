@@ -1,0 +1,14 @@
+{
+    "roles": {
+        "ADMINISTRATOR": false,
+        "BOOST": false,
+        "CHEATER": false,
+        "DEVELOPER": false,
+        "GOD": false,
+        "MODERATOR": true,
+        "OWNER": false,
+        "SUPER_BOOST": false,
+        "UNLIMITED": false,
+        "VIP": false
+    }
+}

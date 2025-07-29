@@ -1,0 +1,16 @@
+{
+    "exchanges": [
+        {
+            "from_count": 1,
+            "from_id": 7188,
+            "to_count": 100,
+            "to_id": 1796
+        },
+        {
+            "from_count": 1,
+            "from_id": 1796,
+            "to_count": 100,
+            "to_id": 240
+        }
+    ]
+}

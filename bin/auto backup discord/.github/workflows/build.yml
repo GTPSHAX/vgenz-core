@@ -1,0 +1,120 @@
+name: Build Executable
+
+on:
+    push:
+        paths-ignore:
+            - 'README.md'
+            - 'LICENSE'
+            - 'config.js.example'
+            - 'docs.md'
+            - 'build.yml'
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@v2
+              with:
+                  fetch-depth: 0
+
+            - name: Setup Node.js
+              uses: actions/setup-node@v2
+              with:
+                  node-version: '18'
+
+            - name: Install pkg
+              run: npm install -g pkg
+
+            - name: Install dependencies
+              run: npm install
+
+            - name: Build Linux Executable
+              run: pkg . --targets node18-linux-x64 --output backup-linux
+
+            - name: Build Windows Executable
+              run: pkg . --targets node18-win-x64 --output backup-win.exe
+
+            - name: Zip executables and specified files
+              run: |
+                  mkdir gtps-backup-linux
+                  mkdir gtps-backup-linux/Backup
+                  cp LICENSE gtps-backup-linux
+                  cp config.js.example gtps-backup-linux
+                  cp -r misc gtps-backup-linux/misc
+                  cp README.md gtps-backup-linux
+                  cp backup-linux gtps-backup-linux
+                  zip -r gtps-backup-linux.zip gtps-backup-linux/*
+                  mkdir gtps-backup-win
+                  mkdir gtps-backup-win/Backup
+                  cp LICENSE gtps-backup-win
+                  cp config.js.example gtps-backup-win
+                  cp -r misc gtps-backup-win/misc
+                  cp README.md gtps-backup-win
+                  cp backup-win.exe gtps-backup-win
+                  zip -r gtps-backup-win.zip gtps-backup-win/*
+
+            - name: Get version
+              id: packagejson
+              uses: martinbeentjes/npm-get-version-action@v1.1.0
+
+            - name: Create Release
+              id: create_release
+              uses: actions/create-release@v1
+              env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+              with:
+                  tag_name: v${{ steps.packagejson.outputs.current-version }}
+                  release_name: GTPS-Backup v${{ steps.packagejson.outputs.current-version }}
+                  body: Creating release...
+                  draft: false
+                  prerelease: false
+
+            - name: Get latest release
+              id: latest_release
+              uses: actions/github-script@v4
+              with:
+                  script: |
+                      const { data } = await github.repos.listReleases({
+                        owner: context.repo.owner,
+                        repo: context.repo.repo,
+                        per_page: 100
+                      });
+                      const sortedTags = data.map(release => release.tag_name).sort((a, b) => b.localeCompare(a, undefined, { numeric: true, ignorePunctuation: true }));
+                      return sortedTags[0];
+
+            - name: Update Release
+              id: update_release
+              uses: actions/github-script@v4
+              with:
+                  script: |
+                      const latestVersion = `${{ steps.latest_release.outputs.result }}`.replace(/"/g, '');
+                      await github.repos.updateRelease({
+                        owner: context.repo.owner,
+                        repo: context.repo.repo,
+                        release_id: ${{ steps.create_release.outputs.id }},
+                        body: `# 🔄️ Changelog
+
+                        **Full Changelog: [\`${latestVersion}...v${{ steps.packagejson.outputs.current-version }}\`](https://github.com/YoruAkio/GTPS-Backup/compare/${latestVersion}...v${{ steps.packagejson.outputs.current-version }})**`
+                      });
+
+            - name: Upload Linux Zip
+              uses: actions/upload-release-asset@v1
+              env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+              with:
+                  upload_url: ${{ steps.create_release.outputs.upload_url }}
+                  asset_path: ./gtps-backup-linux.zip
+                  asset_name: gtps-backup-linux.zip
+                  asset_content_type: application/zip
+
+            - name: Upload Windows Zip
+              uses: actions/upload-release-asset@v1
+              env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+              with:
+                  upload_url: ${{ steps.create_release.outputs.upload_url }}
+                  asset_path: ./gtps-backup-win.zip
+                  asset_name: gtps-backup-win.zip
+                  asset_content_type: application/zip

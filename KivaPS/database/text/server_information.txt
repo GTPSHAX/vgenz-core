@@ -1,0 +1,36 @@
+set_default_color|`o
+add_label_with_icon|big|`wInformation of Magical|left|7974|
+add_spacer|small|
+add_textbox|Enjoy Playing in our Server, Goodluck and Have Fun.|left|
+add_spacer|small|
+add_textbox|`7Server Owner : `6@Freth``|left|
+add_textbox|`7Coder : `6@Raymon``|left|
+add_spacer|small|
+add_textbox|`7Price Role|left|
+add_smalltext|VIP :		Rp 5.000|left|
+add_smalltext|MODS :		FREE|left|
+add_smalltext|ADMIN :		Rp 30.000|left|
+add_smalltext|DEVELOPER :	Rp 60.000|left|
+add_smalltext|RESELLER : 150.000|left|
+add_smalltext|UNLIMITED : 180.000|left|
+add_smalltext|OWNER (UNLI + MORE ABILITY) :Rp 200.000|left|
+add_small_font_button|privacy_policy|`wPrivacy Policy|0|0|
+add_small_font_button|cmd_check|`wCheck Commands|0|0|
+add_spacer|small|
+add_textbox|`7Price Title|left|
+add_smalltext|Dr. Title : 200 World Locks Real Growtopia / Rp 10.000|left|
+add_smalltext|Legend Title : 300 World Locks Real Growtopia / Rp 15.000|left|
+add_smalltext|Grow4Good Title : 300 World Locks Real Growtopia / Rp 15.000|left|
+add_smalltext|Mentor Title : 300 World Locks Real Growtopia / Rp 15.000|left|
+add_spacer|small|
+add_textbox|`7Price Locks|left|
+add_smalltext|Platinum Gem Locks : Rp 5.000|left|
+add_spacer|small|
+add_textbox|Find more details in our Offical Website here:|left|
+add_image_button|iotm_layout|interface/large/gazette/website.rttex|3imageslayout|https://www.eternity.site|Do you want to open the EterNity Website?|
+add_image_button|cc_program|interface/large/gazette/gazette_3columns_btn04.rttex|3imageslayout|||
+add_image_button|featured_server|interface/large/gazette/features.rttex|3imageslayout|||
+add_spacer|small|
+add_quick_exit|
+add_button||`wClose|
+end_dialog|Server_Info|||

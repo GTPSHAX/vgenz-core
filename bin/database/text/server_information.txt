@@ -1,0 +1,32 @@
+set_border_color|112,86,191,255|
+set_bg_color|43,34,74,200|
+add_label_with_icon|big|`wServer Informations|left|12438|
+add_spacer|small|
+add_textbox|`oServer realesed since `22/05/2006 `o, our server has more than 300+ custom items and is diligent in updating so that your playing experience is not boring. For further information, you can see some quotes below.|left|
+add_spacer|small|
+add_textbox|`oRoles in-game:|left|
+add_smalltext|`1VIP `o/ `#@Moderator `o/ `9@Developer `o/ `6@Super Developer `o/ `s@Developer Max `o/ `4@Game Helper/Staff `o/ `c@Owner|left|
+add_textbox|Roles Informations:|left|
+add_smalltext|`c@Owner `o(This role is not for sale and only the server owner has this role)|left|
+add_smalltext|`4@Game Helper/Staff `o(This role is specifically for our server assistants or server administrators and is not for sale)|left|
+add_smalltext|`s@Developer Max `o(These roles have special commands that can access items for free this roles is purchase able)|left|
+add_smalltext|`6@Super Developer `o(Have special commands and can and caning special commands and can access `250%` items for free, this role is purchase able|left|
+add_smalltext|`9@Developer `o has more commands than the roles below it and has special features for these roles this roles is purchas able|left|
+add_smalltext|`#@Moderator `o roles that have different abilities from ordinary players in general this roles is purchase able|left|
+add_smalltext|`1VIP `o different color and superior to ordinary players this roles is purchase able|left|
+add_smalltext|`oIf you are interested in buying theese purchase able roles, you can buy it by making a deposit type `2/deposit `oand getting `9Premium World Locks `oto buy roles in `2/shop`o.|left|
+add_spacer|small|
+add_textbox|About Purchase Policy & Roles Commands:|left|
+add_smalltext|Please view urchasing anything on this siivacy policy before purchasing anything on our servers.|left|
+add_small_font_button|privacy_policy|`wPrivacy Policy|0|0|
+add_smalltext|View commands for all roles in our game:|left|
+add_small_font_button|cmd_check|`wCheck Commands|0|0|
+add_spacer|small|
+add_textbox|Find more details in our Offical Website here:|left|
+add_image_button|iotm_layout|interface/large/gazette/website.rttex|3imageslayout|https://www.eternity.site|Do you want to open the EterNity Website?|
+add_image_button|cc_program|interface/large/gazette/gazette_3columns_btn04.rttex|3imageslayout|||
+add_image_button|featured_server|interface/large/gazette/features.rttex|3imageslayout|||
+add_spacer|small|
+add_quick_exit|
+add_button||`wClose|
+end_dialog|Server_Info|||

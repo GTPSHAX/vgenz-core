@@ -1,0 +1,71 @@
+Last CCH: 25.01.2025 10:14 [NAME] zyro [IP ADDRESS] 125.166.17.20 [EVENT TYPE] 3 [EVENT PACKET TYPE] 2 [TEXT POINTER] action|input
+|text|gua bikin in
+Last World: BFGS
+last in CASE NET_MESSAGE_GAME_PACKET: [PACKET TYPE]: 3
+Last CCH: 25.01.2025 21:30 [NAME] ItoshiSae [IP ADDRESS] 103.166.212.3 [EVENT TYPE] 3 [EVENT PACKET TYPE] 2 [TEXT POINTER] action|dialog_return
+dialog_name|acceptaccess
+
+Last World: AKUSUKACOLI
+last in CASE NET_MESSAGE_GAME_PACKET: [PACKET TYPE]: 11
+Last CCH: 
+Last World: 
+last in CASE NET_MESSAGE_GAME_PACKET: 
+Last CCH: 26.01.2025 01:03 [NAME] Azz [IP ADDRESS] 36.69.116.61 [EVENT TYPE] 3 [EVENT PACKET TYPE] 2 [TEXT POINTER] action|dialog_return
+dialog_name|cheats
+itemid|5640
+autofarm_slot|5
+checkbox_cheat_hide_players|0
+checkbox_cheat_hide_particle|0
+checkbox_cheat_autofish|0
+checkbox_cheat_autocollect|1
+checkbox_cheat_fastdrop|1
+checkbox_cheat_fasttrash|1
+checkbox_cheat_antibounce|0
+checkbox_cheat_speed|0
+checkbox_cheat_double_jump|0
+checkbox_cheat_jump|0
+checkbox_cheat_heat_resist|0
+checkbox_cheat_strong_punch|0
+checkbox_cheat_long_punch|0
+checkbox_cheat_long_build|0
+
+Last World: REMAN
+last in CASE NET_MESSAGE_GAME_PACKET: [PACKET TYPE]: 0
+Last CCH: 
+Last World: 
+last in CASE NET_MESSAGE_GAME_PACKET: 
+Last CCH: 23.02.2025 06:18 [NAME]  [IP ADDRESS] 180.243.45.108 [EVENT TYPE] 3 [EVENT PACKET TYPE] 2 [TEXT POINTER] protocol|214
+ltoken|X3Rva2VuPU5PTkUmZ3Jvd0lkPUdyb3dMeURldiZwYXNzd29yZD1AdGhlb3BybzAx
+platformID|0,1,1
+
+Last World: POLYSSS1
+last in CASE NET_MESSAGE_GAME_PACKET: [PACKET TYPE]: 18
+Last CCH: 23.02.2025 06:20 [NAME]  [IP ADDRESS] 180.243.45.108 [EVENT TYPE] 3 [EVENT PACKET TYPE] 2 [TEXT POINTER] protocol|214
+ltoken|X3Rva2VuPU5PTkUmZ3Jvd0lkPUdyb3dMeURldiZwYXNzd29yZD1AdGhlb3BybzAx
+platformID|0,1,1
+
+Last World: 
+last in CASE NET_MESSAGE_GAME_PACKET: 
+Last CCH: 27.02.2025 07:12 [NAME] GrowLyDev [IP ADDRESS] 180.190.255.217 [EVENT TYPE] 3 [EVENT PACKET TYPE] 2 [TEXT POINTER] action|enter_game
+
+Last World: BFG
+last in CASE NET_MESSAGE_GAME_PACKET: [PACKET TYPE]: 18
+Last CCH: 27.02.2025 18:02 [NAME] Miz [IP ADDRESS] 119.94.177.197 [EVENT TYPE] 3 [EVENT PACKET TYPE] 2 [TEXT POINTER] action|input
+|text|/find
+Last World: BFG
+last in CASE NET_MESSAGE_GAME_PACKET: [PACKET TYPE]: 18
+Last CCH: 
+Last World: 
+last in CASE NET_MESSAGE_GAME_PACKET: 
+Last CCH: 
+Last World: 
+last in CASE NET_MESSAGE_GAME_PACKET: 
+Last CCH: 
+Last World: 
+last in CASE NET_MESSAGE_GAME_PACKET: 
+Last CCH: 
+Last World: 
+last in CASE NET_MESSAGE_GAME_PACKET: 
+Last CCH: 
+Last World: 
+last in CASE NET_MESSAGE_GAME_PACKET: 

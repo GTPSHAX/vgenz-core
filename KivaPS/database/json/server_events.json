@@ -1,0 +1,157 @@
+{
+    "Anniversary": false,
+    "Anniversary_Time": 0,
+    "Carnival": false,
+    "Disable_Items": [
+        1008,
+        4516,
+        5136,
+        5930,
+        9380,
+        9386,
+        9772,
+        9874,
+        9906,
+        10384,
+        14084,
+        14596,
+        15216,
+        15226,
+        15232,
+        15254,
+        15290,
+        15294,
+        15298,
+        15300,
+        15302,
+        15382,
+        15384,
+        15874,
+        16196,
+        16204,
+        16206,
+        16212,
+        19852,
+        19854,
+        19856,
+        19862,
+        19866,
+        19870,
+        19878,
+        19880,
+        19882,
+        19890,
+        19894,
+        19962
+    ],
+    "Exchange_Event": false,
+    "Fake_Online": false,
+    "Gems_Event": true,
+    "Growganoth": false,
+    "Harvest_Festival": false,
+    "Npc_MarketPlace": [],
+    "Player_Report": [],
+    "Summerfest": false,
+    "Valentine": false,
+    "WOTD": [],
+    "WOTW": [],
+    "WinterFest.Active": false,
+    "WinterFest.Bonanza_Sold": 0,
+    "WinterFest.Bonanza_Stock": 300,
+    "WinterFest.Calendar_Sold": 0,
+    "WinterFest.Calendar_Stock": 400,
+    "WinterFest.GiftedGrowch": 0,
+    "WinterFest.Growch_Happy": false,
+    "WinterFest.Growch_Happy_Time": 0,
+    "WinterFest.Heart_Size": 0,
+    "WinterFest.Progress_Gifted": 0,
+    "World_Report": [],
+    "Xp_Event": true,
+    "blacklist": [],
+    "ridbans": [],
+    "top_anniversary": [],
+    "top_mines": [],
+    "top_online": [],
+    "top_punch": [],
+    "top_richest": [
+        [
+            399535586,
+            "Rajasuki"
+        ],
+        [
+            200509805,
+            "panshwin"
+        ],
+        [
+            200200904,
+            "Kys"
+        ],
+        [
+            199374996,
+            "HowToBeJAWA"
+        ],
+        [
+            797865,
+            "MasAmba"
+        ],
+        [
+            453323,
+            "Axel"
+        ],
+        [
+            409363,
+            "pahei"
+        ],
+        [
+            278118,
+            "Haruka"
+        ],
+        [
+            250000,
+            "Raki"
+        ],
+        [
+            167997,
+            "Kyrooo"
+        ],
+        [
+            54766,
+            "Bella"
+        ],
+        [
+            28005,
+            "kyoo"
+        ]
+    ],
+    "top_royalpass": [
+        [
+            430,
+            "Rajasuki"
+        ],
+        [
+            400,
+            "Haruka"
+        ],
+        [
+            200,
+            "MasAmba"
+        ],
+        [
+            180,
+            "panshwin"
+        ]
+    ],
+    "top_wls": [],
+    "total_wls_recycled": 0,
+    "verifed_csn_world": [],
+    "waiting_verif_csn": [],
+    "wls_event_time": 0,
+    "world_menu": [],
+    "world_rating": [],
+    "x_exchange": 1,
+    "x_exchange_time": 0,
+    "x_gems": 20,
+    "x_gems_time": 1753539497,
+    "x_xp": 15,
+    "x_xp_time": 1753532326
+}

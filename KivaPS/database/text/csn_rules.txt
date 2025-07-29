@@ -1,0 +1,11 @@
+add_label_with_icon|big|`wCasino Rules|left|758|
+add_spacer|small|
+add_label_with_icon|small|`wEvery world owner must have Security Camera and use donation box to avoid user genta.|left|20|
+add_label_with_icon|small|`wEvery admin must have a guarantee and pay every (day/week) depending on the world owner to solve the refund problem.|left|20|
+add_label_with_icon|small|`wGambling using items is strictly prohibited, only required locks (wl, dl, pgl, rgl).|left|20|
+add_label_with_icon|small|`wMinimum player and hoster must be above level 10 if below the specified level it will be banned immediately.|left|20|
+add_label_with_icon|small|`w(non verif) World without verification will immediately get a penalty in the form of a nuke and all users, admins, and owners are banned (if the slightest problem occurs), How can I verify it? type /reqverify to request verification.|left|20|
+add_label_with_icon|small|`wevery staff on the server only helps or only receives reports will not provide refunds.|left|20|
+add_label_with_icon|small|`wIf you don't follow the existing rules, your world will be destroyed. This is done for mutual comfort and security|left|20|
+add_spacer|small|
+add_button|News1|`wI accept these rules!|0|0|

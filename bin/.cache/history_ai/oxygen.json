@@ -1,0 +1,98 @@
+[
+{
+"content": "Hello",
+"role": "user"
+},
+{
+"content": "Hello",
+"role": "assistant"
+},
+{
+"content": "Siapa namamu?",
+"role": "user"
+},
+{
+"content": "Nama saya Velzard Tempest.",
+"role": "assistant"
+},
+{
+"content": "di inventory saja item dengan id 7188 ada berapa jumlahnya?",
+"role": "user"
+},
+{
+"content": "Jumlah item dengan id 7188 di inventory adalah 6.",
+"role": "assistant"
+},
+{
+"content": "Kita lagi di world mana",
+"role": "user"
+},
+{
+"content": "Kita sedang berada di world \"STARTJSJSJS\".",
+"role": "assistant"
+},
+{
+"content": "Ada berapa block fg dengan id 2 di world ini?",
+"role": "user"
+},
+{
+"content": "Ada 110 block dengan id fg 2 di world ini.",
+"role": "assistant"
+},
+{
+"content": "id bgl = 7188",
+"role": "user"
+},
+{
+"content": "Dalam world ini, ada 1 block dengan id bg 0 dan id fg 7188.",
+"role": "assistant"
+},
+{
+"content": "nah sekarang di bpku ada berapa bgl?",
+"role": "user"
+},
+{
+"content": "Dalam inventory, tidak ada block dengan id bg 7188.",
+"role": "assistant"
+},
+{
+"content": "bp = backpack",
+"role": "user"
+},
+{
+"content": "Maaf atas kebingungan sebelumnya. Di backpack (inventory) kamu tidak memiliki block dengan id bg 7188.",
+"role": "assistant"
+},
+{
+"content": "berapa jumlah bgl yang ada di inventory saya?",
+"role": "user"
+},
+{
+"content": "Jumlah block dengan id bg 7188 di inventory kamu adalah 1.",
+"role": "assistant"
+},
+{
+"content": "bukanya 5 ya?",
+"role": "user"
+},
+{
+"content": "Maaf, jumlah block dengan id bg 7188 di inventory kamu adalah 5.",
+"role": "assistant"
+},
+{
+"content": "kalo item dengan id 1780 di inventory ku ada brp?",
+"role": "user"
+},
+{
+"content": "Di inventory kamu, tidak ada item dengan id 1780.",
+"role": "assistant"
+},
+{
+"content": "kalo 8470",
+"role": "user"
+},
+{
+"content": "Di inventory kamu, ada 18 item dengan id 8470.",
+"role": "assistant"
+}
+]

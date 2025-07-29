@@ -1,0 +1,32 @@
+{
+    "logs": [
+        [
+            "Nick",
+            "`003:09 7/26: `oHowToBeJAWA Change Name To -> @Hilal``\n`003:10 7/26: `oHowToBeJAWA Change Name To -> Mr.Ximus``\n`003:26 7/26: `oKyrooo Change Name To -> `404``\n`003:26 7/26: `oKyrooo Change Name To -> `2404``\n`004:15 7/26: `oRajasuki Change Name To -> AJAM``\n`004:15 7/26: `oRajasuki Change Name To -> AJAM LOVE TIA FOREVER``\n`004:15 7/26: `oRajasuki Change Name To -> Dimbut``\n`004:20 7/26: `oRajasuki Change Name To -> AJAM LOVE TIA FOREVER``\n`004:20 7/26: `oRajasuki Change Name To -> DIMBUT``\n"
+        ],
+        [
+            "Find Items",
+            "`003:10 7/26: `oHowToBeJAWA succesfully add 200 Shoryu`` Blazing Scythe to inventory [/find]``\n`003:14 7/26: `oHaruka succesfully add 200 Paintbrush to inventory [/find]``\n`003:14 7/26: `oHaruka succesfully add 200 Paint Bucket - Green to inventory [/find]``\n`003:19 7/26: `oHaruka succesfully add 200 Telephone to inventory [/find]``\n`003:20 7/26: `oMasAmba succesfully add 200 Malaya Scythe to inventory [/find]``\n`003:21 7/26: `oMasAmba succesfully add 200 Spikey Anime Hair to inventory [/find]``\n`003:21 7/26: `oMasAmba succesfully add 200 Cat Eyes to inventory [/find]``\n`003:23 7/26: `oMasAmba succesfully add 200 No-Face to inventory [/find]``\n`003:32 7/26: `oMasAmba succesfully add 200 Flame Eldritch Rayman's Fist  to inventory [/find]``\n`003:34 7/26: `oMasAmba succesfully add 200 Golden Block to inventory [/find]``\n`003:37 7/26: `oMasAmba succesfully add 200 Kaido Hybrid to inventory [/find]``\n`003:41 7/26: `oMasAmba succesfully add 200 Golden Block to inventory [/find]``\n`003:54 7/26: `oHaruka succesfully add 200 Air Vent to inventory [/find]``\n`004:01 7/26: `oHaruka succesfully add 200 Growmoji Terrified Face to inventory [/find]``\n`004:28 7/26: `oHaruka succesfully add 200 Valentine to inventory [/find]``\n"
+        ],
+        [
+            "Give Role",
+            "`003:26 7/26: `oKyrooo Give Role to kyoo: \n- VIP\n- Moderator\n- Administrator\n- Developer\n- Cheater``\n`003:27 7/26: `oKyrooo Give Role to Bella: \n- Moderator``\n"
+        ],
+        [
+            "Give Assets",
+            "`003:27 7/26: `oKyrooo Give Doctor Title to `#@Bella``.``\n"
+        ],
+        [
+            "Give Custom Wrench",
+            "`003:45 7/26: `oMasAmba Give Custom Wrench to MasAmba: \n- Icy Wrench Style``\n`004:16 7/26: `oHaruka Give Custom Wrench to Haruka: \n- Beautiful Wrench Decoration``\n"
+        ],
+        [
+            "Drop Item",
+            "`003:45 7/26: `oBella in [BFGKY] Dropped  `w180  Diamond Lock``.``\n`003:59 7/26: `opahei in [BURIKMEMEKANJ] Dropped  `w1  Weekend Raver Hair``.``\n`003:59 7/26: `opahei in [BURIKMEMEKANJ] Dropped  `w1  Sniper Rifle``.``\n`003:59 7/26: `opahei in [BURIKMEMEKANJ] Dropped  `w1  Gatling Gum``.``\n`004:06 7/26: `okyoo in [MOMOQS] Dropped  `w1  Scarlet Rider's Bike``.``\n`004:18 7/26: `oKys in [BFGKY] Dropped  `w20  Blue Gem Lock``.``\n"
+        ],
+        [
+            "Vending Machine Buying",
+            "`004:21 7/26: `oBella buy 20x The Dark Stone for 500000 World Locks in World: [VEND]``\n`004:21 7/26: `oBella buy 200x Energy Drink for 6000 World Locks in World: [VEND]``\n`004:21 7/26: `oBella buy 200x Arroz Con Pollo for 4000 World Locks in World: [VEND]``\n"
+        ]
+    ]
+}

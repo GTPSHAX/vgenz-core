@@ -1,0 +1,10 @@
+[Fri Jul 25 11:27:21 2025] CommandManager.h:1227:CommandManager::handle_ai::<lambda_1>::operator () | Error while requesting OpenRouter: Unknown error when requesting API.
+[Fri Jul 25 11:34:55 2025] CommandManager.h:1229:CommandManager::handle_ai::<lambda_1>::operator () | Error while requesting OpenRouter: Unknown error when requesting API.
+[Fri Jul 25 11:42:48 2025] CommandManager.h:1229:CommandManager::handle_ai::<lambda_1>::operator () | Error while requesting OpenRouter: Unknown error when requesting API.
+[Fri Jul 25 11:43:21 2025] CommandManager.h:1229:CommandManager::handle_ai::<lambda_1>::operator () | Error while requesting OpenRouter: Unknown error when requesting API.
+[Fri Jul 25 19:34:59 2025] CommandManager.h:1231:CommandManager::handle_ai::<lambda_1>::operator () | Error while requesting OpenRouter: Failed to parse JSON response: [json.exception.type_error.308] cannot use push_back() with object. Server response was: 
+         
+{"id":"gen-1753497298-stDKxu2iVYziOvd5RcSA","provider":"OpenAI","model":"openai/gpt-4o-mini","object":"chat.completion","created":1753497298,"choices":[{"logprobs":null,"finish_reason":"stop","native_finish_reason":"stop","index":0,"message":{"role":"assistant","content":"Hello! How can I assist you today?","refusal":null,"reasoning":null}}],"system_fingerprint":"fp_34a54ae93c","usage":{"prompt_tokens":663,"completion_tokens":9,"total_tokens":672,"prompt_tokens_details":{"cached_tokens":0},"completion_tokens_details":{"reasoning_tokens":0}}}
+[Fri Jul 25 20:12:06 2025] CommandManager.h:1241:CommandManager::handle_ai::<lambda_1>::operator () | Error while requesting OpenRouter: Cannot open file: database / players / Oxygen_.json
+[Fri Jul 25 20:24:32 2025] CommandManager.h:1243:CommandManager::handle_ai::<lambda_1>::operator () | Error while requesting OpenRouter: Cannot open file: database/players/ Oxygen_.json
+[Fri Jul 25 20:30:52 2025] CommandManager.h:1243:CommandManager::handle_ai::<lambda_1>::operator () | Error while requesting OpenRouter: Cannot open file: database/players/ Oxygen_.json

@@ -1,0 +1,97 @@
+set_border_color|112,86,191,255|
+set_bg_color|43,34,74,200|
+add_label_with_icon|big|`wFeatured & Updates|left|13814|
+add_spacer|small|
+add_textbox|`$Our gtps is updated every single day, we do provide huge updates every few weeks but update the game everyday and we apply bug fixes really fast!``|left|
+add_spacer|small|
+add_textbox|`5Features:``|left|
+add_custom_textbox|`$Tutorial fully work like real Growtopia |size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$Gacha System like Genshin Impact with Fate|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$Achievement Block|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$Pet Trainer & Whistle|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$Lock-Bot & Remote|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$Pet Battle Cage & Leash|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$Howler & Trickster|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$Adventure Items, Begins, Ends, Gateway|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$Fish Tank & Fish Wall Mount|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$Fully Working Sewing Machine|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$Npc (Non Player Character) in world (START, REC, TRADE, BFG, TIPS)|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$World Architec|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$Now Npc (Ringmaster and Legendary Wizard) can be accessed by punch and can be broken without being spammed with dialogue|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$visual to all Npc that if you wrench or punch the Npc, the Npc will face your character when Npc is not facing you|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$New UI My Worlds, Home World, Favorite Worlds, and all Security Camera|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$Phonebooth|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$Adventure items, gateway to adventure, adventure ends, and adventure the begins|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$Infinity Weather Machine|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$Weather Machine - Guild|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`2Gems Storage `$- Stored gems without limit!|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`2Daily Login `$- Claim Prize until 7 days|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`2Wrench Custom `$- Fully working like rgt|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`2Trade-Scan `$- check price items|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`2Roles Quest `$- Fully working, Quest, Rewards, Title|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`2Grow Pass `$- full Grow Pass revamp! New rewards, tasks & monthly event!|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`2Daily Challenge `$- participate in daily challenges!|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`2Life Goals`` `$- complete Life Goals to increase awesomeness and better rewards!|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`2Biweekly Quest`$ - Added Biweekly Quests!|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`2Valentine `$- new valentine items, quests & more.|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`2Mines `$- explore mines & exchange gemstones!|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`2Cave `$- explore cave worlds & collect ores with gorgeous new pickaxes!|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`2Pet's `$- purchase a pet, level it up & upgrade to get cool benefints in exchange!|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`2Marketplace`` `$- sell or purchase items from anywhere in the world!|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`2Fishing`` `$- Added full fishing rod's functionality & more``|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`2Growpedia`` `$- Growpedia new categories:`` `5Geiger``/`5Fishing``/`5Surgery``/`5Forging``|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`2Blasts`` `$- SurgWorld Blast & Mini Blast has been added!``|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`2Item Of The Month?`` `$- every week you will receive a random offer of IOTM in your store only for you!``|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`2Salesman NPC`` `$- Salesman spawning every few minutes in random worlds``|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`2Winterfest`` `$- WinterFest update, Winterfest Bingo, Giving Tree, new items & calendar``|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$Added new `2Growganoth & Halloween`` `$updates|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$Implemented new `2username`` `$system to allow users use symbols such as '`2.`$' or '`2_`$'|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`2Growtokens!`` `$- a huge update for Growtokens Gacha & Subscribtion + more!``|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`8Grow Pass `$is a feature which was fully implemented in the game: `2Receive Item Of The Season|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$Rubble salesman is waiting for you in `8TRASH`` with awesome offers``:`` `2Rubble``|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$Janeway the Buyer is waiting for you in `8TRADE`` with awesome offers and rewards``:`` `2Janeway``|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$Fully with awesome prizes``:`` `2Egg-Hunting Basket``|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$Set your world session time``:`` `2World Session Timer``|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$Full functions``:`` `2Infinity Crown, Crown of Seasons, Banner Bandolier``|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$Full functions & available in premium shop``:`` `2Magic Magnet, Grow Air Balloon, Golem's Gift``|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$Exchange your items or World Locks``:`` `2Golden Ticket Booth``|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$Extract`` `8DNA's`` `$from`` `$Amber Blocks, Dino Ribcages, T-Rex Skulls or Ancient Plant Seeds``:`` `2DNA Extractor``|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$Combine your`` `8DNA's`` `$in:`` `2DNA Processor``|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$Available through locke store & functions of:`` `2Ancient Altar``|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$Available through gems voucher store & functions of:`` `2Kranken's Galactic Block``|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$Available through gems store & functions of:`` `2Rift Wings/Cape``|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$Available via Locke and functions:`` `2Lock-Bot``|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$All of the quests and one`` `8custom quest```$:`` `2Legendary Wizard``|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$Available via Locke & functions of:`` `2Extractor Dynamo``|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$Availabla through gems store & works only for DigiVend Machine:`` `2Vending Hub``|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$Full of exotic cheats & cool interface and only available via premium world locks shop:`` `2Cheater Role``|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$Rate /5.99! Set up your world category and gain some ratings:`` `2World Rating``|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$Fully working guild events & updated personal events, the prize is amazing aswell:`` `2Guild Events``|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$Maximum Level 1000|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$Trasnmutabooth|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$Washing Machine|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$Mail|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$Custom Boombox|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$Vending Machine Price|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$New Rayman|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$Winterfest|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$Guild|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$Subscribtion|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$Cheats|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$Wolf World|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$Growganoth|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$Fire|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$Guidebook|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$Offering Table|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$Harvest Festival|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$Ultra World Spray|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$Tesseract Manipulator & Heart of Gaia|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$Zombie Apocalypse & Infection|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$Comet Dust Event|size:small;color:52,235,131,200;icon:13814;|
+add_custom_textbox|`$Special Event|size:small;color:52,235,131,200;icon:13814;|
+add_spacer|small|
+set_custom_spacing|x:40;y:10|
+add_custom_button||image:interface/large/news_buttons.rttex;image_size:680,143;frame:0,3;width:0.3;|
+set_custom_spacing|x:0;y:0|
+end_dialog|gazette|
+add_quick_exit|

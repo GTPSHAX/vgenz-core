@@ -1,0 +1,196 @@
+{
+    "Anniversary": false,
+    "Anniversary_Time": 0,
+    "Carnival": false,
+    "Disable_Items": [],
+    "Fake_Online": false,
+    "Gems_Event": false,
+    "Growganoth": false,
+    "Harvest_Festival": false,
+    "Npc_TheAmazingSalesman": [],
+    "Player_Report": [],
+    "Summerfest": true,
+    "Valentine": false,
+    "WOTD": [
+        [
+            "BFGKY",
+            "Kys"
+        ]
+    ],
+    "WOTW": [
+        [
+            "H",
+            "MasAmba"
+        ]
+    ],
+    "WinterFest.Active": false,
+    "WinterFest.Bonanza_Sold": 0,
+    "WinterFest.Bonanza_Stock": 300,
+    "WinterFest.Calendar_Sold": 0,
+    "WinterFest.Calendar_Stock": 400,
+    "WinterFest.GiftedGrowch": 0,
+    "WinterFest.Growch_Happy": false,
+    "WinterFest.Growch_Happy_Time": 0,
+    "WinterFest.Heart_Size": 0,
+    "WinterFest.Progress_Gifted": 0,
+    "World_Report": [],
+    "Xp_Event": false,
+    "blacklist": [
+        "Zamsikma",
+        "Vision"
+    ],
+    "ridbans": [
+        "36.50.92.121"
+    ],
+    "top_anniversary": [],
+    "top_mines": [],
+    "top_online": [],
+    "top_punch": [],
+    "top_richest": [
+        [
+            200331393,
+            "Rajasuki"
+        ],
+        [
+            812419,
+            "MasAmba"
+        ],
+        [
+            739662,
+            "Glenn"
+        ],
+        [
+            521269,
+            "Hilal"
+        ],
+        [
+            508164,
+            "Zamsikma"
+        ],
+        [
+            476671,
+            "Astiiluvv"
+        ],
+        [
+            409718,
+            "Kys"
+        ],
+        [
+            269989,
+            "lambada"
+        ],
+        [
+            47922,
+            "Kyrooo"
+        ],
+        [
+            27137,
+            "Ximus"
+        ],
+        [
+            13994,
+            "Kiba"
+        ],
+        [
+            9592,
+            "pahei"
+        ],
+        [
+            9272,
+            "Moli"
+        ],
+        [
+            8502,
+            "exx"
+        ],
+        [
+            5786,
+            "Blue"
+        ],
+        [
+            5444,
+            "Vision"
+        ],
+        [
+            4791,
+            "WindyPlay"
+        ],
+        [
+            2674,
+            "Oxygen"
+        ],
+        [
+            1,
+            "Bella"
+        ],
+        [
+            0,
+            "Raki"
+        ],
+        [
+            0,
+            "Azroby"
+        ],
+        [
+            0,
+            "Ojan"
+        ],
+        [
+            0,
+            "zjzjsjjsjs"
+        ],
+        [
+            -722066,
+            "panshwin"
+        ],
+        [
+            -1536243785,
+            "Ditzz"
+        ]
+    ],
+    "top_royalpass": [
+        [
+            430,
+            "Rajasuki"
+        ],
+        [
+            360,
+            "Kiba"
+        ],
+        [
+            260,
+            "Astiiluvv"
+        ],
+        [
+            220,
+            "Hilal"
+        ],
+        [
+            160,
+            "Zamsikma"
+        ],
+        [
+            160,
+            "Ditzz"
+        ],
+        [
+            150,
+            "panshwin"
+        ],
+        [
+            150,
+            "MasAmba"
+        ]
+    ],
+    "top_wls": [],
+    "total_wls_recycled": 0,
+    "wls_event_time": 0,
+    "world_menu": [],
+    "world_rating": [],
+    "x_exchange": 1,
+    "x_exchange_time": 0,
+    "x_gems": 200,
+    "x_gems_time": 0,
+    "x_xp": 1,
+    "x_xp_time": 0
+}

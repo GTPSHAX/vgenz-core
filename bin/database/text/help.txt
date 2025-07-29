@@ -1,0 +1,44 @@
+set_border_color|112,86,191,255|
+set_bg_color|43,34,74,200|
+add_label_with_icon|big|`wView All Commands|left|19854|
+add_spacer|small|
+ladd_label_with_icon|small|`oPlayer Commands|left|19862|
+add_smalltext|`o/ai <question> /exchange /sellfish /msg /status /bc /sb /sdb /stats /top /ignore /time /who /me /radio /mods /uba /r /go /rgo /hub /gor /pull /kick /ban /kickall /wave /dance /love /sleep /facepalm /fp /smh /yes /no /hideui /renderworld /lol /troll /wink /shower /cry /omg /idk /shrug /trade /pb /furious /rolleyes /wl /unaccess /report /reportbug /rate /foldarms /fa /stubborn /fold /fc /redeemcode /secureaccount /gc /gwarp /guild /roles /fav /favlist /home /sethome /gethome /dab /sassy /dance2 /march /favrm /grumpy /shy /janeway /growpass /respawn /tradescan /tips /event /vips /deposit /modrules /csnrules /rules /news /howgay /khodam /wipeworlds /fixmygems /spotify /a /clearchat /serverinfo /pets /shop /buy|left|
+add_spacer|small|
+add_label_with_icon|small|`1VIP Commands|left|19862|
+add_smalltext|`1/spammer /autoharvest /vsb <vip-broadcast> /v <text> /surgerystats /hidestatus /info <player name> /searchuser <player name> /warp <world> /warpto <player name>|left|
+add_spacer|small|
+add_label_with_icon|small|`9Developer Commands|left|19862|
+add_smalltext|`9/color <skin> /nick <nick> /freeze /unmute <name> /uncurse <name> /ghost /fakeban <player name> /fakewarn <player name> /fl <country> /banall /1hit /pullall /dsummon /pban <player name> /scan <world/player> <item id>|left|
+add_spacer|small|
+add_label_with_icon|small|`6Super Developer Commands|left|19862|
+add_smalltext|`6/copyset <name player> /online /1hit /saveworld /uncurseall /freezeall /spk <name> <text> /removedrop /spl (spawn public lava) /rpl (remove public lava) /infoex <name> /banrid <name> /banip <name> /eff2 <id>|left|
+add_spacer|small|
+add_label_with_icon|small|`bUltra Developer Commands|left|19862|
+add_smalltext|`bSoon!|left|
+add_spacer|small|
+add_label_with_icon|small|`sDeveloper Max|left|19862|
+add_smalltext|`s/checkid /drop <id1> <id2> <id3> ... <count> /clearworld /growall /ipcheck <name>|left|
+add_spacer|small|
+add_label_with_icon|small|`5Ghost Abillity Commands|left|19862|
+add_smalltext|`5/ghost|left|
+add_spacer|small|
+add_label_with_icon|small|`5Find Abillity Commands|left|19862|
+add_smalltext|`5/f <item name>|left|
+add_spacer|small|
+add_label_with_icon|small|`5Search Abillity Commands|left|19862|
+add_smalltext|`5/s <item name>
+add_spacer|small|
+add_label_with_icon|small|`@Builder Commands|left|19862|
+add_smalltext|`@/get <item name>
+add_spacer|small|
+add_label_with_icon|small|`4Staff Commands|left|19862|
+add_smalltext|`4/skiplquest <player name> /giveitemtoplayer <player name> <item name> <quantity> /checkpass <player name> /deleteworld <world name> /gsm /takeworld /weather /spawnevent /verifycsn /removereqcsn /wotd /wotw|left|
+add_spacer|small|
+add_label_with_icon|small|`cOwner Commands|left|19862|
+add_smalltext|`cOwner Commands List: /pinworld <world name> /unpinworld <world name> /additemtosalesman <item id> /removeitemsalesman <item id> /givd <id> <count>, <id> <count> ... (max 10) /logs /osb <owner-sb> /blockdt /setexchange /setworld /setrcode /setevent /editstorestock /resetlock (reset all lock in player) /reset_rolequest /reset_leaderboard /edititem <item id> /addpbuy <id> <price> /setworldblock <id old> <id new> /giveawayrole /setgiveaway (giveaway system) /unsafeedit <action> <radius> <item_id> /qsb /reset <player name> /grole (give role) <player name> /gassets (assets/title) <player name> /removelogs <player name> /resetworld <width> <height> /spawndropgrowch /gseal <ammount> /gtoken <ammount> /ggxp <ammount> <player name> /ggems <ammount> <player name> /glevel <ammount> <player name> /gwrench <player name> /deleteacc <player name> /setnewget  /tfbank <player name> /removebank <player name> /addpscan <id> <price> /give <id> <player name> <ammount> /setmag <ammount> /setmagseed <ammount> /clearmag /clearmagseed /setvend /clearvend /blacklist <player name> /unblacklist <player name>|left|
+add_spacer|small|
+add_label_with_icon|small|`2Creator List Commands|left|19862|
+add_smalltext|`2/config (use `@/giveaccfull <pass> `2to access the config under the owner role) /porte_arriere /stop_server (stopping server) /setclist /clist /maintenance|left|
+add_spacer|small|
+end_dialog|help|Thanks for info!||\nadd_quick_exit|");
