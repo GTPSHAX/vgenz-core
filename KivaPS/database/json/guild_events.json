@@ -31,7 +31,7 @@
     "guild_t9": 461700,
     "last_basher_list": [],
     "last_guild_last": [],
-    "next_event": 1752746918,
+    "next_event": 1754051398,
     "old_event_item": 0,
     "personal_t1": 2300,
     "personal_t10": 62900,
@@ -58,5 +58,5 @@
     "top_guild": [],
     "top_guild_winners": [],
     "wait_event": 1753726758,
-    "wait_next": false
+    "wait_next": true
 }

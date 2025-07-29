@@ -46,7 +46,7 @@
     ],
     "Exchange_Event": false,
     "Fake_Online": false,
-    "Gems_Event": true,
+    "Gems_Event": false,
     "Growganoth": false,
     "Harvest_Festival": false,
     "Npc_MarketPlace": [],
@@ -66,7 +66,7 @@
     "WinterFest.Heart_Size": 0,
     "WinterFest.Progress_Gifted": 0,
     "World_Report": [],
-    "Xp_Event": true,
+    "Xp_Event": false,
     "blacklist": [],
     "ridbans": [],
     "top_anniversary": [],
@@ -87,8 +87,20 @@
             "Kys"
         ],
         [
+            200200010,
+            "Lunaa"
+        ],
+        [
             199374996,
             "HowToBeJAWA"
+        ],
+        [
+            2517303,
+            "Nniel"
+        ],
+        [
+            1340688,
+            "bila"
         ],
         [
             797865,
@@ -99,6 +111,10 @@
             "Axel"
         ],
         [
+            413600,
+            "Pakcik96"
+        ],
+        [
             409363,
             "pahei"
         ],
@@ -107,8 +123,28 @@
             "Haruka"
         ],
         [
+            250095,
+            "Sewa"
+        ],
+        [
+            250000,
+            "Kuro"
+        ],
+        [
             250000,
             "Raki"
+        ],
+        [
+            249601,
+            "Manzz"
+        ],
+        [
+            231438,
+            "KIRITO"
+        ],
+        [
+            219983,
+            "Paksu96"
         ],
         [
             167997,
@@ -121,6 +157,10 @@
         [
             28005,
             "kyoo"
+        ],
+        [
+            22,
+            "PakBean"
         ]
     ],
     "top_royalpass": [
