@@ -65,7 +65,7 @@
     "KitPass_Prize": [],
     "Legendary_Keys": 0,
     "LiyueHtouFly": false,
-    "Masterless_Starglitter": 30,
+    "Masterless_Starglitter": 31,
     "Mines_Score": 0,
     "Need_To_Required": 0,
     "Number_License": 1,
@@ -93,7 +93,7 @@
     "Slot_Credits": 0,
     "Slot_Far": 1,
     "Slot_Points": 0,
-    "St_Regen_Time": 1753808730,
+    "St_Regen_Time": 1753811304,
     "StarglitterTask_Prize": [],
     "Title.Award_Winning": false,
     "Title.ContentCBadge": false,
@@ -724,7 +724,7 @@
         ]
     ],
     "invis": false,
-    "ip": "140.213.55.178",
+    "ip": "140.213.55.208",
     "is_day": 0,
     "is_legend": false,
     "kit_level": 4,
@@ -755,7 +755,7 @@
     "lifegoals_2": false,
     "lifegoals_3": false,
     "lifegoals_reset_day": 0,
-    "lo": "7/29/2025 10:21:5",
+    "lo": "7/29/2025 15:21:13",
     "lr": [],
     "lvl125": 0,
     "lvlKit_S2": 0,
@@ -787,7 +787,7 @@
     "next_guild_event": false,
     "note": "",
     "on": 0,
-    "opc": 20,
+    "opc": 21,
     "p1_1": 0,
     "p1_2": 0,
     "p_1": false,
@@ -813,7 +813,7 @@
     "pet_xp": 0,
     "pg_bank": 0,
     "pgl_bank_amount": 0,
-    "player_token": "BdJMfZzCbyyb6tUk91VW",
+    "player_token": "kIlY3YkIdPkgDA04eZsq",
     "playmods": [
         {
             "id": 143,
@@ -836,17 +836,12 @@
             "user": "Pakcik96"
         },
         {
-            "id": 53,
-            "time": 1753808713,
-            "user": "Pakcik96"
-        },
-        {
             "id": 113,
             "time": 1753808715,
             "user": "Pakcik96"
         }
     ],
-    "playtime": 10193,
+    "playtime": 28143,
     "playtime_items": [],
     "punch": 615,
     "quest_number": 0,
@@ -857,7 +852,7 @@
     "raw5_legendary_claim": false,
     "rb": 0,
     "received_recycle_prize": false,
-    "recovery_token": "MyJMRTr1fr",
+    "recovery_token": "DbFljKBa19",
     "redeem_code": [],
     "requestedName": "VertionLabsLul",
     "reset_winterfest_quest_1": 0,
