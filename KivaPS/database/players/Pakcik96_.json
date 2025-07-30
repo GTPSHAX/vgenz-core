@@ -65,7 +65,7 @@
     "KitPass_Prize": [],
     "Legendary_Keys": 0,
     "LiyueHtouFly": false,
-    "Masterless_Starglitter": 31,
+    "Masterless_Starglitter": 49,
     "Mines_Score": 0,
     "Need_To_Required": 0,
     "Number_License": 1,
@@ -91,9 +91,9 @@
     "Role.Vip": false,
     "Silver_Donatur": false,
     "Slot_Credits": 0,
-    "Slot_Far": 1,
+    "Slot_Far": 4,
     "Slot_Points": 0,
-    "St_Regen_Time": 1753811304,
+    "St_Regen_Time": 1753845559,
     "StarglitterTask_Prize": [],
     "Title.Award_Winning": false,
     "Title.ContentCBadge": false,
@@ -357,11 +357,11 @@
     "epicq_stonefish": 0,
     "epicq_teddybear": 0,
     "epicq_woolcraft": 0,
-    "exp_goal": 0,
+    "exp_goal": 504,
     "fa_ip": "",
     "face": 11768,
     "favitem": [],
-    "feet": 11784,
+    "feet": 0,
     "ff_lvl": 0,
     "ff_p": [],
     "ff_xp": 0,
@@ -376,7 +376,7 @@
     "gb0": 64,
     "geiger": 0,
     "gem_goal": 1000,
-    "gems": 69543,
+    "gems": 747738,
     "gg0": 0,
     "ghost": false,
     "glo": 0,
@@ -428,11 +428,11 @@
         ],
         [
             7188,
-            41
+            69
         ],
         [
             1796,
-            35
+            96
         ],
         [
             12130,
@@ -451,36 +451,36 @@
             1
         ],
         [
-            5640,
-            1
+            12240,
+            2
         ],
         [
-            6946,
-            1
+            12234,
+            2
         ],
         [
             20122,
             1
         ],
         [
-            340,
-            41
+            7160,
+            200
         ],
         [
             9602,
-            2
+            1
         ],
         [
             3432,
-            186
+            164
         ],
         [
             10262,
             2
         ],
         [
-            242,
-            66
+            5666,
+            166
         ],
         [
             13692,
@@ -504,11 +504,11 @@
         ],
         [
             2580,
-            199
+            198
         ],
         [
             1474,
-            199
+            197
         ],
         [
             14258,
@@ -524,7 +524,7 @@
         ],
         [
             3798,
-            18
+            16
         ],
         [
             3550,
@@ -532,7 +532,7 @@
         ],
         [
             3438,
-            8
+            124
         ],
         [
             12356,
@@ -564,11 +564,11 @@
         ],
         [
             1004,
-            200
+            125
         ],
         [
             4604,
-            199
+            197
         ],
         [
             13240,
@@ -616,7 +616,7 @@
         ],
         [
             2270,
-            200
+            197
         ],
         [
             6904,
@@ -635,8 +635,8 @@
             1
         ],
         [
-            5240,
-            199
+            5602,
+            200
         ],
         [
             3106,
@@ -644,11 +644,11 @@
         ],
         [
             2034,
-            2
+            8
         ],
         [
             262,
-            200
+            193
         ],
         [
             2218,
@@ -675,8 +675,8 @@
             1
         ],
         [
-            10264,
-            137
+            3898,
+            200
         ],
         [
             6058,
@@ -691,16 +691,16 @@
             1
         ],
         [
-            2,
-            7
+            7520,
+            200
         ],
         [
-            2416,
-            1
+            242,
+            97
         ],
         [
-            3,
-            62
+            1746,
+            200
         ],
         [
             2694,
@@ -715,39 +715,199 @@
             1
         ],
         [
-            15,
-            6
+            2914,
+            3
         ],
         [
-            14,
+            5282,
             1
+        ],
+        [
+            1005,
+            18
+        ],
+        [
+            11864,
+            1
+        ],
+        [
+            4150,
+            1
+        ],
+        [
+            3104,
+            1
+        ],
+        [
+            10408,
+            1
+        ],
+        [
+            10542,
+            1
+        ],
+        [
+            2062,
+            1
+        ],
+        [
+            9396,
+            1
+        ],
+        [
+            13938,
+            1
+        ],
+        [
+            263,
+            1
+        ],
+        [
+            5028,
+            5
+        ],
+        [
+            98,
+            5
+        ],
+        [
+            6840,
+            1
+        ],
+        [
+            5022,
+            1
+        ],
+        [
+            1830,
+            1
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            5667,
+            4
+        ],
+        [
+            900,
+            1
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            3544,
+            21
+        ],
+        [
+            6080,
+            1
+        ],
+        [
+            12228,
+            3
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
         ]
     ],
     "invis": false,
-    "ip": "140.213.55.208",
+    "ip": "140.213.55.48",
     "is_day": 0,
     "is_legend": false,
-    "kit_level": 4,
-    "kit_xp": 1704,
+    "kit_level": 11,
+    "kit_xp": 5688,
     "la_wo": [
-        "BUYBAIT",
-        "SET",
-        "TOK9",
-        "TOKO",
-        "BUYBOW",
-        "VEND",
-        "BFG",
         "RENT",
         "RENTBFG",
-        "MANCING",
-        "DXMXMDD"
+        "VINN",
+        "CASINO",
+        "VENDZJSJSJSS",
+        "MEMEK",
+        "DDDFHHDD",
+        "DXMXMDD",
+        "FRAM",
+        "VEND",
+        "MANCING"
     ],
     "last_guild_contri": 0,
     "last_personal_contri": 0,
     "last_rank_guild": 0,
     "last_rank_per": 0,
     "legend": false,
-    "level": 28,
+    "level": 46,
     "lifegoals1": true,
     "lifegoals2": true,
     "lifegoals3": true,
@@ -755,7 +915,7 @@
     "lifegoals_2": false,
     "lifegoals_3": false,
     "lifegoals_reset_day": 0,
-    "lo": "7/29/2025 15:21:13",
+    "lo": "7/29/2025 20:19:30",
     "lr": [],
     "lvl125": 0,
     "lvlKit_S2": 0,
@@ -787,7 +947,7 @@
     "next_guild_event": false,
     "note": "",
     "on": 0,
-    "opc": 21,
+    "opc": 35,
     "p1_1": 0,
     "p1_2": 0,
     "p_1": false,
@@ -813,7 +973,7 @@
     "pet_xp": 0,
     "pg_bank": 0,
     "pgl_bank_amount": 0,
-    "player_token": "kIlY3YkIdPkgDA04eZsq",
+    "player_token": "JCYOn4qa7tx04fFdvqcA",
     "playmods": [
         {
             "id": 143,
@@ -836,14 +996,19 @@
             "user": "Pakcik96"
         },
         {
+            "id": 53,
+            "time": 1753846087,
+            "user": "Pakcik96"
+        },
+        {
             "id": 113,
-            "time": 1753808715,
+            "time": 1753846089,
             "user": "Pakcik96"
         }
     ],
-    "playtime": 28143,
+    "playtime": 34394,
     "playtime_items": [],
-    "punch": 615,
+    "punch": 1694,
     "quest_number": 0,
     "quest_required": 0,
     "quest_text": "",
@@ -852,7 +1017,7 @@
     "raw5_legendary_claim": false,
     "rb": 0,
     "received_recycle_prize": false,
-    "recovery_token": "DbFljKBa19",
+    "recovery_token": "KW073wloMe",
     "redeem_code": [],
     "requestedName": "VertionLabsLul",
     "reset_winterfest_quest_1": 0,
@@ -904,7 +1069,7 @@
     "row4_items4_claim": false,
     "row4_items5_claim": false,
     "row4_items6_claim": false,
-    "rubble": 0,
+    "rubble": 9,
     "rw_1": 3356909055,
     "rw_10": "34,35,63",
     "rw_2": 4282965247,
@@ -944,16 +1109,16 @@
     "spr3": 6,
     "spring_token": 0,
     "staged": 0,
-    "starglitter_break": 837,
+    "starglitter_break": 1000,
     "starglitter_combine": 0,
     "starglitter_crystal": 0,
     "starglitter_email": 0,
     "starglitter_enter": true,
-    "starglitter_fish": 210,
+    "starglitter_fish": 502,
     "starglitter_geiger": 0,
     "starglitter_geiger2": 0,
-    "starglitter_place": 318,
-    "starglitter_points": 10,
+    "starglitter_place": 1000,
+    "starglitter_points": 185,
     "starglitter_provider": 0,
     "starglitter_provider2": 387,
     "starglitter_reset_day": 0,
@@ -992,7 +1157,7 @@
     "vip_daily_day": 0,
     "vip_day": 0,
     "vou": 0,
-    "w_w": 41,
+    "w_w": 44,
     "winter_power": false,
     "winter_seal": 0,
     "winter_seal_branch_1": 0,
@@ -1047,10 +1212,11 @@
         "BUYBOW",
         "RENT",
         "RENTBFG",
-        "DXMXMDD"
+        "VINN",
+        "FRAM"
     ],
     "wrench_custom": 0,
     "wrench_foreground_custom": 0,
-    "xp": 1184,
+    "xp": 67546,
     "xpKit_S2": 0
 }

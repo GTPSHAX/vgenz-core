@@ -43,7 +43,7 @@
     "DrDes": false,
     "EarnFreeGems.Claim": [],
     "EarnFreeGems.Quest_1": 0,
-    "EarnFreeGems.Quest_2": 15,
+    "EarnFreeGems.Quest_2": 25,
     "EarnFreeGems.Quest_3": 0,
     "EarnFreeGems.Time": 0,
     "Gacha_History": [],
@@ -65,7 +65,7 @@
     "KitPass_Prize": [],
     "Legendary_Keys": 0,
     "LiyueHtouFly": false,
-    "Masterless_Starglitter": 5,
+    "Masterless_Starglitter": 10,
     "Mines_Score": 0,
     "Need_To_Required": 0,
     "Number_License": 1,
@@ -93,7 +93,7 @@
     "Slot_Credits": 0,
     "Slot_Far": 1,
     "Slot_Points": 0,
-    "St_Regen_Time": 1753806041,
+    "St_Regen_Time": 1753834184,
     "StarglitterTask_Prize": [],
     "Title.Award_Winning": false,
     "Title.ContentCBadge": false,
@@ -214,7 +214,7 @@
     "b_w": 0,
     "ba_f": 0,
     "ba_i": 0,
-    "back": 9394,
+    "back": 13460,
     "balloon_prize": false,
     "bank_password": 0,
     "bb": false,
@@ -376,7 +376,7 @@
     "gb0": 64,
     "geiger": 0,
     "gem_goal": 1000,
-    "gems": 24179,
+    "gems": 51061,
     "gg0": 0,
     "ghost": false,
     "glo": 0,
@@ -427,16 +427,16 @@
             1
         ],
         [
-            1796,
-            99
-        ],
-        [
             7188,
-            24
+            49
         ],
         [
-            5638,
-            2
+            1796,
+            98
+        ],
+        [
+            6224,
+            5
         ],
         [
             9874,
@@ -452,31 +452,31 @@
         ],
         [
             11622,
-            1
+            2
         ],
         [
             6946,
-            1
+            2
         ],
         [
             6948,
-            1
+            2
         ],
         [
             340,
-            110
+            200
         ],
         [
-            3,
+            9536,
             1
         ],
         [
             3432,
-            25
+            50
         ],
         [
             10262,
-            1
+            2
         ],
         [
             12184,
@@ -499,19 +499,19 @@
             1
         ],
         [
-            12412,
-            1
+            14,
+            10
         ],
         [
-            5948,
-            1
+            0,
+            0
         ],
         [
             242,
-            89
+            15
         ],
         [
-            1140,
+            13460,
             1
         ],
         [
@@ -519,35 +519,235 @@
             1
         ],
         [
-            9526,
+            0,
+            0
+        ],
+        [
+            6800,
             1
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            2756,
+            1
+        ],
+        [
+            14598,
+            1
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            5028,
+            1
+        ],
+        [
+            4590,
+            1
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
         ]
     ],
     "invis": false,
     "ip": "103.82.15.175",
     "is_day": 0,
     "is_legend": false,
-    "kit_level": 3,
-    "kit_xp": 400,
+    "kit_level": 4,
+    "kit_xp": 183,
     "la_wo": [
-        "WP",
-        "SHOP",
-        "CSN",
-        "IU",
-        "X",
-        "M",
-        "P",
-        "PLA",
-        "Z",
-        "K",
-        "1W"
+        "MO",
+        "AQ",
+        "AW",
+        "AE",
+        "AR",
+        "AT",
+        "AY",
+        "AU",
+        "AI",
+        "AO",
+        "AP"
     ],
     "last_guild_contri": 0,
     "last_personal_contri": 0,
     "last_rank_guild": 0,
     "last_rank_per": 0,
     "legend": false,
-    "level": 18,
+    "level": 23,
     "lifegoals1": true,
     "lifegoals2": true,
     "lifegoals3": true,
@@ -555,7 +755,7 @@
     "lifegoals_2": false,
     "lifegoals_3": false,
     "lifegoals_reset_day": 0,
-    "lo": "7/29/2025 9:19:40",
+    "lo": "7/29/2025 17:09:32",
     "lr": [],
     "lvl125": 0,
     "lvlKit_S2": 0,
@@ -579,7 +779,7 @@
     "myou": false,
     "n": 1,
     "name": "Kuro",
-    "necklace": 0,
+    "necklace": 4590,
     "need_item_req_id": 0,
     "need_required": 0,
     "need_sumbit_req_id": 0,
@@ -587,7 +787,7 @@
     "next_guild_event": false,
     "note": "",
     "on": 0,
-    "opc": 3,
+    "opc": 5,
     "p1_1": 0,
     "p1_2": 0,
     "p_1": false,
@@ -613,7 +813,7 @@
     "pet_xp": 0,
     "pg_bank": 0,
     "pgl_bank_amount": 0,
-    "player_token": "",
+    "player_token": "i1oPx18PoB8UHyH0mcNB",
     "playmods": [
         {
             "id": 125,
@@ -636,9 +836,9 @@
             "user": "Kuro"
         }
     ],
-    "playtime": 1367,
+    "playtime": 2769,
     "playtime_items": [],
-    "punch": 1180,
+    "punch": 2702,
     "quest_number": 0,
     "quest_required": 0,
     "quest_text": "",
@@ -647,7 +847,7 @@
     "raw5_legendary_claim": false,
     "rb": 0,
     "received_recycle_prize": false,
-    "recovery_token": "",
+    "recovery_token": "txYeKrFrom",
     "redeem_code": [],
     "requestedName": "VertionLabsLul",
     "reset_winterfest_quest_1": 0,
@@ -669,7 +869,7 @@
     "ri_7": "147,56,143",
     "ri_8": "137,30,43",
     "ri_9": "147,56,143",
-    "rid": "",
+    "rid": "024D326679060217085D909A624B08D6",
     "roleIcon": 6,
     "roleSkin": 6,
     "role_quest": false,
@@ -727,7 +927,7 @@
     "show_location": true,
     "show_notifications": true,
     "show_pets": false,
-    "skin": -2104114177,
+    "skin": -924450817,
     "skl": 0,
     "sm1": 0,
     "sm2": 0,
@@ -739,7 +939,7 @@
     "spr3": 6,
     "spring_token": 0,
     "staged": 0,
-    "starglitter_break": 259,
+    "starglitter_break": 1000,
     "starglitter_combine": 0,
     "starglitter_crystal": 0,
     "starglitter_email": 0,
@@ -747,8 +947,8 @@
     "starglitter_fish": 0,
     "starglitter_geiger": 0,
     "starglitter_geiger2": 0,
-    "starglitter_place": 132,
-    "starglitter_points": 10,
+    "starglitter_place": 221,
+    "starglitter_points": 60,
     "starglitter_provider": 0,
     "starglitter_provider2": 239,
     "starglitter_reset_day": 0,
@@ -787,7 +987,7 @@
     "vip_daily_day": 0,
     "vip_day": 0,
     "vou": 0,
-    "w_w": 3,
+    "w_w": 19,
     "winter_power": false,
     "winter_seal": 0,
     "winter_seal_branch_1": 0,
@@ -806,10 +1006,26 @@
     "worlds_owned": [
         "AW",
         "AS",
-        "IU"
+        "IU",
+        "XC",
+        "O0",
+        "SL",
+        "WA",
+        "AQ",
+        "SK",
+        "LO",
+        "MO",
+        "AE",
+        "AR",
+        "AT",
+        "AY",
+        "AU",
+        "AI",
+        "AO",
+        "AP"
     ],
     "wrench_custom": 0,
     "wrench_foreground_custom": 0,
-    "xp": 7292,
+    "xp": 4784,
     "xpKit_S2": 0
 }
