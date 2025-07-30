@@ -65,7 +65,7 @@
     "KitPass_Prize": [],
     "Legendary_Keys": 0,
     "LiyueHtouFly": false,
-    "Masterless_Starglitter": 12,
+    "Masterless_Starglitter": 13,
     "Mines_Score": 0,
     "Need_To_Required": 0,
     "Number_License": 1,
@@ -93,7 +93,7 @@
     "Slot_Credits": 0,
     "Slot_Far": 1,
     "Slot_Points": 0,
-    "St_Regen_Time": 1753808843,
+    "St_Regen_Time": 1753853071,
     "StarglitterTask_Prize": [],
     "Title.Award_Winning": false,
     "Title.ContentCBadge": false,
@@ -764,14 +764,12 @@
         ]
     ],
     "invis": false,
-    "ip": "158.140.171.5",
+    "ip": "158.140.171.0",
     "is_day": 0,
     "is_legend": false,
     "kit_level": 3,
     "kit_xp": 603,
     "la_wo": [
-        "GUILD",
-        "SELL",
         "PAKSU",
         "POPOK",
         "QQ",
@@ -780,7 +778,9 @@
         "C",
         "1",
         "BUY",
-        "START"
+        "START",
+        "D",
+        "SELL"
     ],
     "last_guild_contri": 0,
     "last_personal_contri": 0,
@@ -795,7 +795,7 @@
     "lifegoals_2": false,
     "lifegoals_3": false,
     "lifegoals_reset_day": 0,
-    "lo": "7/29/2025 10:04:11",
+    "lo": "7/30/2025 0:05:9",
     "lr": [],
     "lvl125": 0,
     "lvlKit_S2": 0,
@@ -853,7 +853,7 @@
     "pet_xp": 0,
     "pg_bank": 0,
     "pgl_bank_amount": 0,
-    "player_token": "B460TTqlbO84hqLBXImv",
+    "player_token": "0jRueywCgiov14t4bQOg",
     "playmods": [
         {
             "id": 125,
@@ -866,9 +866,9 @@
             "user": "Sewa"
         }
     ],
-    "playtime": 2751,
+    "playtime": 2845,
     "playtime_items": [],
-    "punch": 1528,
+    "punch": 1537,
     "quest_number": 0,
     "quest_required": 0,
     "quest_text": "",
@@ -877,7 +877,7 @@
     "raw5_legendary_claim": false,
     "rb": 0,
     "received_recycle_prize": false,
-    "recovery_token": "Z4kcq2gkcq",
+    "recovery_token": "ARi6JEFWQB",
     "redeem_code": [],
     "requestedName": "VertionLabsLul",
     "reset_winterfest_quest_1": 0,
