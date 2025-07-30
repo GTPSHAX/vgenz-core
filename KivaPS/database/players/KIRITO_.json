@@ -670,7 +670,7 @@
     "lifegoals_2": false,
     "lifegoals_3": false,
     "lifegoals_reset_day": 0,
-    "lo": "7/29/2025 7:23:7",
+    "lo": "7/30/2025 6:20:54",
     "lr": [],
     "lvl125": 0,
     "lvlKit_S2": 0,
@@ -728,7 +728,7 @@
     "pet_xp": 0,
     "pg_bank": 0,
     "pgl_bank_amount": 0,
-    "player_token": "",
+    "player_token": "nERqlluSJYyGF4cTUxKw",
     "playmods": [
         {
             "id": 125,
@@ -741,7 +741,7 @@
             "user": "KIRITO"
         }
     ],
-    "playtime": 3521,
+    "playtime": 3576,
     "playtime_items": [],
     "punch": 1268,
     "quest_number": 0,
@@ -752,7 +752,7 @@
     "raw5_legendary_claim": false,
     "rb": 0,
     "received_recycle_prize": false,
-    "recovery_token": "",
+    "recovery_token": "uQcfEkLMLd",
     "redeem_code": [],
     "requestedName": "VertionLabsLul",
     "reset_winterfest_quest_1": 0,
@@ -774,7 +774,7 @@
     "ri_7": "147,56,143",
     "ri_8": "137,30,43",
     "ri_9": "147,56,143",
-    "rid": "",
+    "rid": "024A8F78F6DB999B0A5A0DA94C4F333A",
     "roleIcon": 6,
     "roleSkin": 6,
     "role_quest": false,

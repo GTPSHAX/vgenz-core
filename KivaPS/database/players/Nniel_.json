@@ -759,7 +759,7 @@
     "KitPass_Prize": [],
     "Legendary_Keys": 0,
     "LiyueHtouFly": false,
-    "Masterless_Starglitter": 36,
+    "Masterless_Starglitter": 38,
     "Mines_Score": 0,
     "Need_To_Required": 0,
     "Number_License": 1,
@@ -787,7 +787,7 @@
     "Slot_Credits": 0,
     "Slot_Far": 2,
     "Slot_Points": 0,
-    "St_Regen_Time": 1753853494,
+    "St_Regen_Time": 1753874185,
     "StarglitterTask_Prize": [],
     "Title.Award_Winning": false,
     "Title.ContentCBadge": false,
@@ -1070,7 +1070,7 @@
     "gb0": 64,
     "geiger": 0,
     "gem_goal": 1000,
-    "gems": 190279,
+    "gems": 150879,
     "gg0": 0,
     "ghost": false,
     "glo": 0,
@@ -1122,7 +1122,7 @@
         ],
         [
             7188,
-            82
+            75
         ],
         [
             2034,
@@ -1130,7 +1130,7 @@
         ],
         [
             1796,
-            136
+            25
         ],
         [
             9384,
@@ -1138,7 +1138,7 @@
         ],
         [
             242,
-            58
+            112
         ],
         [
             1008,
@@ -1158,7 +1158,7 @@
         ],
         [
             8470,
-            27
+            28
         ],
         [
             2036,
@@ -1381,20 +1381,20 @@
             4
         ],
         [
-            3436,
-            55
-        ],
-        [
             3438,
-            21
+            52
         ],
         [
-            3746,
-            115
+            0,
+            0
         ],
         [
-            10264,
-            63
+            0,
+            0
+        ],
+        [
+            3550,
+            39
         ],
         [
             3620,
@@ -1405,8 +1405,8 @@
             25
         ],
         [
-            3440,
-            22
+            0,
+            0
         ],
         [
             2722,
@@ -1455,6 +1455,126 @@
         [
             9422,
             2
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
         ]
     ],
     "invis": false,
@@ -1462,9 +1582,8 @@
     "is_day": 0,
     "is_legend": false,
     "kit_level": 14,
-    "kit_xp": 7729,
+    "kit_xp": 9919,
     "la_wo": [
-        "A",
         "N",
         "L",
         "I",
@@ -1472,9 +1591,10 @@
         "P",
         "PI",
         "FRAM",
+        "BE",
+        "BILA",
         "NE",
-        "VEND",
-        "BE"
+        "VEND"
     ],
     "last_guild_contri": 0,
     "last_personal_contri": 0,
@@ -1489,7 +1609,7 @@
     "lifegoals_2": false,
     "lifegoals_3": false,
     "lifegoals_reset_day": 0,
-    "lo": "7/29/2025 22:31:56",
+    "lo": "7/30/2025 4:15:22",
     "lr": [],
     "lvl125": 0,
     "lvlKit_S2": 0,
@@ -1547,7 +1667,7 @@
     "pet_xp": 0,
     "pg_bank": 0,
     "pgl_bank_amount": 0,
-    "player_token": "A3FJHKFZcZdJ5kLQEnED",
+    "player_token": "TwACDBnbtksYplLUtHnD",
     "playmods": [
         {
             "id": 143,
@@ -1568,16 +1688,11 @@
             "id": 125,
             "time": 1756506170,
             "user": "Nniel"
-        },
-        {
-            "id": 13,
-            "time": 1753853638,
-            "user": ""
         }
     ],
-    "playtime": 12074,
+    "playtime": 12374,
     "playtime_items": [],
-    "punch": 6488,
+    "punch": 6567,
     "quest_number": 0,
     "quest_required": 0,
     "quest_text": "",
@@ -1586,7 +1701,7 @@
     "raw5_legendary_claim": false,
     "rb": 0,
     "received_recycle_prize": false,
-    "recovery_token": "Vl890BPCJH",
+    "recovery_token": "LIuoIvpT5P",
     "redeem_code": [],
     "requestedName": "VertionLabsLul",
     "reset_winterfest_quest_1": 0,
