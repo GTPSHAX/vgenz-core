@@ -65,7 +65,7 @@
     "KitPass_Prize": [],
     "Legendary_Keys": 0,
     "LiyueHtouFly": false,
-    "Masterless_Starglitter": 7,
+    "Masterless_Starglitter": 8,
     "Mines_Score": 0,
     "Need_To_Required": 0,
     "Number_License": 1,
@@ -93,7 +93,7 @@
     "Slot_Credits": 0,
     "Slot_Far": 1,
     "Slot_Points": 0,
-    "St_Regen_Time": 1753806079,
+    "St_Regen_Time": 1753887087,
     "StarglitterTask_Prize": [],
     "Title.Award_Winning": false,
     "Title.ContentCBadge": false,
@@ -375,7 +375,7 @@
     "g_xp": 0,
     "gb0": 64,
     "geiger": 0,
-    "gem_goal": 7,
+    "gem_goal": 8,
     "gems": 2065,
     "gg0": 0,
     "ghost": false,
@@ -444,7 +444,7 @@
         ],
         [
             3,
-            2
+            3
         ],
         [
             10604,
@@ -764,13 +764,12 @@
         ]
     ],
     "invis": false,
-    "ip": "125.167.48.82",
+    "ip": "125.167.49.136",
     "is_day": 0,
     "is_legend": false,
     "kit_level": 1,
     "kit_xp": 265,
     "la_wo": [
-        "RICH",
         "ASS",
         "DA",
         "HONOR",
@@ -779,8 +778,9 @@
         "CSN",
         "X",
         "AW",
+        "1W",
         "BUYBAIT",
-        "1W"
+        "START"
     ],
     "last_guild_contri": 0,
     "last_personal_contri": 0,
@@ -795,7 +795,7 @@
     "lifegoals_2": false,
     "lifegoals_3": false,
     "lifegoals_reset_day": 0,
-    "lo": "7/29/2025 9:20:12",
+    "lo": "7/30/2025 7:48:15",
     "lr": [],
     "lvl125": 0,
     "lvlKit_S2": 0,
@@ -853,7 +853,7 @@
     "pet_xp": 0,
     "pg_bank": 0,
     "pgl_bank_amount": 0,
-    "player_token": "1yWpjhAuGcGOwJkom3Ud",
+    "player_token": "XtFlN99cCPVMxo70Ty6t",
     "playmods": [
         {
             "id": 125,
@@ -866,9 +866,9 @@
             "user": "Manzz"
         }
     ],
-    "playtime": 1662,
+    "playtime": 1737,
     "playtime_items": [],
-    "punch": 860,
+    "punch": 866,
     "quest_number": 0,
     "quest_required": 0,
     "quest_text": "",
@@ -877,7 +877,7 @@
     "raw5_legendary_claim": false,
     "rb": 0,
     "received_recycle_prize": false,
-    "recovery_token": "I6fWi6hnjk",
+    "recovery_token": "BUZ8YRFDbS",
     "redeem_code": [],
     "requestedName": "VertionLabsLul",
     "reset_winterfest_quest_1": 0,
@@ -946,7 +946,7 @@
     "santa": 0,
     "sc": "0,0,0",
     "sd": 0,
-    "seed_goal": 7,
+    "seed_goal": 10,
     "sew1": "",
     "sew2": "",
     "sew3": "",
@@ -969,7 +969,7 @@
     "spr3": 6,
     "spring_token": 0,
     "staged": 0,
-    "starglitter_break": 7,
+    "starglitter_break": 8,
     "starglitter_combine": 0,
     "starglitter_crystal": 0,
     "starglitter_email": 0,
@@ -1041,6 +1041,6 @@
     ],
     "wrench_custom": 0,
     "wrench_foreground_custom": 0,
-    "xp": 14,
+    "xp": 20,
     "xpKit_S2": 0
 }

@@ -43,7 +43,7 @@
     "DrDes": false,
     "EarnFreeGems.Claim": [],
     "EarnFreeGems.Quest_1": 0,
-    "EarnFreeGems.Quest_2": 30,
+    "EarnFreeGems.Quest_2": 45,
     "EarnFreeGems.Quest_3": 0,
     "EarnFreeGems.Time": 0,
     "Gacha_History": [],
@@ -65,7 +65,7 @@
     "KitPass_Prize": [],
     "Legendary_Keys": 0,
     "LiyueHtouFly": false,
-    "Masterless_Starglitter": 14,
+    "Masterless_Starglitter": 19,
     "Mines_Score": 0,
     "Need_To_Required": 0,
     "Number_License": 1,
@@ -93,7 +93,7 @@
     "Slot_Credits": 0,
     "Slot_Far": 1,
     "Slot_Points": 0,
-    "St_Regen_Time": 1753881797,
+    "St_Regen_Time": 1753883041,
     "StarglitterTask_Prize": [],
     "Title.Award_Winning": false,
     "Title.ContentCBadge": false,
@@ -214,7 +214,7 @@
     "b_w": 0,
     "ba_f": 0,
     "ba_i": 0,
-    "back": 8576,
+    "back": 0,
     "balloon_prize": false,
     "bank_password": 0,
     "bb": false,
@@ -403,7 +403,7 @@
     "halloween_q7": 0,
     "halloween_q8": 0,
     "halloween_q9": 0,
-    "hand": 9536,
+    "hand": 0,
     "has_claim_event_wls": false,
     "home_world": "",
     "hs": 0,
@@ -427,80 +427,80 @@
             1
         ],
         [
-            340,
-            200
+            0,
+            0
         ],
         [
-            8912,
-            1
+            0,
+            0
         ],
         [
             9726,
             1
         ],
         [
-            242,
-            6
-        ],
-        [
-            3,
-            3
-        ],
-        [
-            13274,
-            1
-        ],
-        [
-            10542,
-            1
-        ],
-        [
-            10406,
-            1
-        ],
-        [
-            7646,
-            1
+            0,
+            0
         ],
         [
             0,
             0
         ],
         [
-            14564,
-            1
-        ],
-        [
-            14624,
-            1
-        ],
-        [
-            10052,
-            1
+            0,
+            0
         ],
         [
             0,
             0
         ],
         [
-            8576,
-            1
+            0,
+            0
         ],
         [
-            9536,
-            1
+            0,
+            0
         ],
         [
-            6310,
-            1
+            0,
+            0
         ],
         [
-            6922,
-            1
+            0,
+            0
         ],
         [
-            11870,
-            1
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
         ],
         [
             0,
@@ -530,17 +530,17 @@
     "kit_level": 1,
     "kit_xp": 319,
     "la_wo": [
-        "SET",
         "SENJA",
         "YD",
         "START",
         "CSN",
-        "VEND",
         "BILAL",
-        "BILA",
         "NE",
+        "HAZE",
+        "VEND",
+        "BILQ",
         "FRAM",
-        "HAZE"
+        "BILA"
     ],
     "last_guild_contri": 0,
     "last_personal_contri": 0,
@@ -555,7 +555,7 @@
     "lifegoals_2": false,
     "lifegoals_3": false,
     "lifegoals_reset_day": 0,
-    "lo": "7/30/2025 6:21:43",
+    "lo": "7/30/2025 7:07:40",
     "lr": [],
     "lvl125": 0,
     "lvlKit_S2": 0,
@@ -587,7 +587,7 @@
     "next_guild_event": false,
     "note": "",
     "on": 0,
-    "opc": 6,
+    "opc": 9,
     "p1_1": 0,
     "p1_2": 0,
     "p_1": false,
@@ -613,7 +613,7 @@
     "pet_xp": 0,
     "pg_bank": 0,
     "pgl_bank_amount": 0,
-    "player_token": "349pCe9pXb2JWrlDlHhJ",
+    "player_token": "6oKRsOUrzmyFSVPh7m3Z",
     "playmods": [
         {
             "id": 125,
@@ -626,9 +626,9 @@
             "user": "PakBean"
         }
     ],
-    "playtime": 3369,
+    "playtime": 4598,
     "playtime_items": [],
-    "punch": 438,
+    "punch": 489,
     "quest_number": 0,
     "quest_required": 0,
     "quest_text": "",
@@ -637,7 +637,7 @@
     "raw5_legendary_claim": false,
     "rb": 0,
     "received_recycle_prize": false,
-    "recovery_token": "oepvMywom4",
+    "recovery_token": "QDHVMIXrX8",
     "redeem_code": [],
     "requestedName": "VertionLabsLul",
     "reset_winterfest_quest_1": 0,
@@ -726,7 +726,7 @@
     "specialization_track": "",
     "spr": 0,
     "spr2": 6,
-    "spr3": 6,
+    "spr3": 7,
     "spring_token": 0,
     "staged": 0,
     "starglitter_break": 176,

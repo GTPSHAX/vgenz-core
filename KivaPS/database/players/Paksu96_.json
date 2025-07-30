@@ -65,7 +65,7 @@
     "KitPass_Prize": [],
     "Legendary_Keys": 0,
     "LiyueHtouFly": false,
-    "Masterless_Starglitter": 54,
+    "Masterless_Starglitter": 59,
     "Mines_Score": 0,
     "Need_To_Required": 0,
     "Number_License": 1,
@@ -93,7 +93,7 @@
     "Slot_Credits": 0,
     "Slot_Far": 2,
     "Slot_Points": 0,
-    "St_Regen_Time": 1753881866,
+    "St_Regen_Time": 1753883081,
     "StarglitterTask_Prize": [],
     "Title.Award_Winning": false,
     "Title.ContentCBadge": false,
@@ -253,7 +253,7 @@
     ],
     "c0rr": true,
     "c_c_t": 15,
-    "c_s": 36680,
+    "c_s": 53096,
     "c_t_c": true,
     "ca_c": 0,
     "card_level": 1,
@@ -361,7 +361,7 @@
     "fa_ip": "",
     "face": 12556,
     "favitem": [],
-    "feet": 20288,
+    "feet": 0,
     "ff_lvl": 0,
     "ff_p": [],
     "ff_xp": 0,
@@ -403,7 +403,7 @@
     "halloween_q7": 0,
     "halloween_q8": 0,
     "halloween_q9": 0,
-    "hand": 9508,
+    "hand": 366,
     "has_claim_event_wls": false,
     "home_world": "",
     "hs": 0,
@@ -427,8 +427,8 @@
             1
         ],
         [
-            0,
-            0
+            1008,
+            3
         ],
         [
             1796,
@@ -571,8 +571,8 @@
             1
         ],
         [
-            2036,
-            2
+            0,
+            0
         ],
         [
             3616,
@@ -627,16 +627,16 @@
             180
         ],
         [
-            2034,
-            19
+            0,
+            0
         ],
         [
             3794,
             199
         ],
         [
-            20028,
-            1
+            0,
+            0
         ],
         [
             14,
@@ -667,8 +667,8 @@
             0
         ],
         [
-            1008,
-            3
+            0,
+            0
         ],
         [
             2028,
@@ -691,8 +691,8 @@
             0
         ],
         [
-            0,
-            0
+            10542,
+            1
         ],
         [
             0,
@@ -763,12 +763,12 @@
             0
         ]
     ],
-    "invis": false,
+    "invis": true,
     "ip": "114.10.137.238",
     "is_day": 0,
     "is_legend": false,
     "kit_level": 8,
-    "kit_xp": 7828,
+    "kit_xp": 7856,
     "la_wo": [
         "VENDS",
         "JASA",
@@ -777,9 +777,9 @@
         "AW",
         "PAKSU",
         "CSN",
-        "FRAM",
-        "VEND",
         "HAZE",
+        "VEND",
+        "FRAM",
         "BILA"
     ],
     "last_guild_contri": 0,
@@ -795,7 +795,7 @@
     "lifegoals_2": false,
     "lifegoals_3": false,
     "lifegoals_reset_day": 0,
-    "lo": "7/30/2025 6:21:43",
+    "lo": "7/30/2025 6:42:9",
     "lr": [],
     "lvl125": 0,
     "lvlKit_S2": 0,
@@ -827,7 +827,7 @@
     "next_guild_event": false,
     "note": "",
     "on": 0,
-    "opc": 34,
+    "opc": 38,
     "p1_1": 0,
     "p1_2": 0,
     "p_1": false,
@@ -874,11 +874,16 @@
             "id": 125,
             "time": 1756472157,
             "user": "Paksu96"
+        },
+        {
+            "id": 29,
+            "time": 1753884131,
+            "user": "bila"
         }
     ],
-    "playtime": 15259,
+    "playtime": 16485,
     "playtime_items": [],
-    "punch": 4187,
+    "punch": 4262,
     "quest_number": 0,
     "quest_required": 0,
     "quest_text": "",
@@ -976,7 +981,7 @@
     "specialization_track": "",
     "spr": 0,
     "spr2": 6,
-    "spr3": 6,
+    "spr3": 7,
     "spring_token": 0,
     "staged": 0,
     "starglitter_break": 311,
