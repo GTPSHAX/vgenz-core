@@ -43,7 +43,7 @@
     "DrDes": false,
     "EarnFreeGems.Claim": [],
     "EarnFreeGems.Quest_1": 0,
-    "EarnFreeGems.Quest_2": 20,
+    "EarnFreeGems.Quest_2": 25,
     "EarnFreeGems.Quest_3": 0,
     "EarnFreeGems.Time": 0,
     "Gacha_History": [
@@ -67,7 +67,7 @@
     "KitPass_Prize": [],
     "Legendary_Keys": 0,
     "LiyueHtouFly": false,
-    "Masterless_Starglitter": 28,
+    "Masterless_Starglitter": 30,
     "Mines_Score": 0,
     "Need_To_Required": 0,
     "Number_License": 1,
@@ -95,7 +95,7 @@
     "Slot_Credits": 0,
     "Slot_Far": 1,
     "Slot_Points": 0,
-    "St_Regen_Time": 1753935770,
+    "St_Regen_Time": 1753940957,
     "StarglitterTask_Prize": [],
     "Title.Award_Winning": false,
     "Title.ContentCBadge": false,
@@ -378,7 +378,7 @@
     "gb0": 64,
     "geiger": 0,
     "gem_goal": 1000,
-    "gems": 15767,
+    "gems": 16090,
     "gg0": 0,
     "ghost": false,
     "glo": 0,
@@ -405,7 +405,7 @@
     "halloween_q7": 0,
     "halloween_q8": 0,
     "halloween_q9": 0,
-    "hand": 0,
+    "hand": 12176,
     "has_claim_event_wls": false,
     "home_world": "COLE",
     "hs": 0,
@@ -438,7 +438,7 @@
         ],
         [
             2,
-            30
+            33
         ],
         [
             2164,
@@ -602,7 +602,7 @@
         ],
         [
             3,
-            4
+            26
         ],
         [
             9366,
@@ -617,8 +617,8 @@
             1
         ],
         [
-            0,
-            0
+            15,
+            2
         ],
         [
             12176,
@@ -693,6 +693,8 @@
     "kit_xp": 901,
     "la_wo": [
         "START",
+        "AHOP",
+        "SHOP",
         "CFRM",
         "COLE"
     ],
@@ -709,7 +711,7 @@
     "lifegoals_2": false,
     "lifegoals_3": false,
     "lifegoals_reset_day": 0,
-    "lo": "7/30/2025 21:22:28",
+    "lo": "7/30/2025 22:45:46",
     "lr": [],
     "lvl125": 0,
     "lvlKit_S2": 0,
@@ -741,7 +743,7 @@
     "next_guild_event": false,
     "note": "",
     "on": 0,
-    "opc": 4,
+    "opc": 5,
     "p1_1": 0,
     "p1_2": 0,
     "p_1": false,
@@ -767,7 +769,7 @@
     "pet_xp": 0,
     "pg_bank": 0,
     "pgl_bank_amount": 0,
-    "player_token": "nYhdnkJXdfTJ97XZPxsh",
+    "player_token": "JjSeGU2IDu433Xh3ppxV",
     "playmods": [
         {
             "id": 143,
@@ -790,9 +792,9 @@
             "user": "ColeFr"
         }
     ],
-    "playtime": 1951,
+    "playtime": 2516,
     "playtime_items": [],
-    "punch": 950,
+    "punch": 1177,
     "quest_number": 0,
     "quest_required": 0,
     "quest_text": "",
@@ -801,7 +803,7 @@
     "raw5_legendary_claim": false,
     "rb": 0,
     "received_recycle_prize": false,
-    "recovery_token": "gxfGyE7K1z",
+    "recovery_token": "XVTdeqRVja",
     "redeem_code": [],
     "requestedName": "VertionLabsLul",
     "reset_winterfest_quest_1": 0,
@@ -893,7 +895,7 @@
     "spr3": 6,
     "spring_token": 0,
     "staged": 0,
-    "starglitter_break": 233,
+    "starglitter_break": 306,
     "starglitter_combine": 0,
     "starglitter_crystal": 0,
     "starglitter_email": 0,
@@ -963,6 +965,6 @@
     ],
     "wrench_custom": 0,
     "wrench_foreground_custom": 0,
-    "xp": 326,
+    "xp": 620,
     "xpKit_S2": 0
 }

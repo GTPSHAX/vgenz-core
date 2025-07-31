@@ -65,7 +65,7 @@
     "KitPass_Prize": [],
     "Legendary_Keys": 0,
     "LiyueHtouFly": false,
-    "Masterless_Starglitter": 59,
+    "Masterless_Starglitter": 60,
     "Mines_Score": 0,
     "Need_To_Required": 0,
     "Number_License": 1,
@@ -93,7 +93,7 @@
     "Slot_Credits": 0,
     "Slot_Far": 2,
     "Slot_Points": 0,
-    "St_Regen_Time": 1753883081,
+    "St_Regen_Time": 1753953733,
     "StarglitterTask_Prize": [],
     "Title.Award_Winning": false,
     "Title.ContentCBadge": false,
@@ -763,24 +763,24 @@
             0
         ]
     ],
-    "invis": true,
-    "ip": "114.10.137.238",
+    "invis": false,
+    "ip": "114.10.137.241",
     "is_day": 0,
     "is_legend": false,
     "kit_level": 8,
     "kit_xp": 7856,
     "la_wo": [
-        "VENDS",
         "JASA",
         "X",
         "RICH",
         "AW",
         "PAKSU",
-        "CSN",
         "HAZE",
         "VEND",
         "FRAM",
-        "BILA"
+        "BILA",
+        "START",
+        "CSN"
     ],
     "last_guild_contri": 0,
     "last_personal_contri": 0,
@@ -795,7 +795,7 @@
     "lifegoals_2": false,
     "lifegoals_3": false,
     "lifegoals_reset_day": 0,
-    "lo": "7/30/2025 6:42:9",
+    "lo": "7/31/2025 2:19:15",
     "lr": [],
     "lvl125": 0,
     "lvlKit_S2": 0,
@@ -853,7 +853,7 @@
     "pet_xp": 0,
     "pg_bank": 0,
     "pgl_bank_amount": 0,
-    "player_token": "ad99yCihfGryhYUGU0C9",
+    "player_token": "55z0DeKVzYuaI58C1VqO",
     "playmods": [
         {
             "id": 143,
@@ -874,14 +874,9 @@
             "id": 125,
             "time": 1756472157,
             "user": "Paksu96"
-        },
-        {
-            "id": 29,
-            "time": 1753884131,
-            "user": "bila"
         }
     ],
-    "playtime": 16485,
+    "playtime": 16649,
     "playtime_items": [],
     "punch": 4262,
     "quest_number": 0,
@@ -892,7 +887,7 @@
     "raw5_legendary_claim": false,
     "rb": 0,
     "received_recycle_prize": false,
-    "recovery_token": "sL9cfS28uC",
+    "recovery_token": "1rZAtEX2JN",
     "redeem_code": [],
     "requestedName": "VertionLabsLul",
     "reset_winterfest_quest_1": 0,
