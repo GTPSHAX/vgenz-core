@@ -65,7 +65,7 @@
     "KitPass_Prize": [],
     "Legendary_Keys": 0,
     "LiyueHtouFly": false,
-    "Masterless_Starglitter": 60,
+    "Masterless_Starglitter": 72,
     "Mines_Score": 0,
     "Need_To_Required": 0,
     "Number_License": 1,
@@ -93,7 +93,7 @@
     "Slot_Credits": 0,
     "Slot_Far": 2,
     "Slot_Points": 0,
-    "St_Regen_Time": 1753953733,
+    "St_Regen_Time": 1753962279,
     "StarglitterTask_Prize": [],
     "Title.Award_Winning": false,
     "Title.ContentCBadge": false,
@@ -253,7 +253,7 @@
     ],
     "c0rr": true,
     "c_c_t": 15,
-    "c_s": 53096,
+    "c_s": 53064,
     "c_t_c": true,
     "ca_c": 0,
     "card_level": 1,
@@ -376,7 +376,7 @@
     "gb0": 64,
     "geiger": 0,
     "gem_goal": 1000,
-    "gems": 11798,
+    "gems": 10975,
     "gg0": 0,
     "ghost": false,
     "glo": 0,
@@ -427,12 +427,12 @@
             1
         ],
         [
-            1008,
-            3
+            2029,
+            29
         ],
         [
-            1796,
-            200
+            7188,
+            1
         ],
         [
             7190,
@@ -524,31 +524,31 @@
         ],
         [
             8470,
-            4
+            2
         ],
         [
-            0,
-            0
+            2013,
+            15
         ],
         [
             2278,
             1
         ],
         [
-            242,
-            200
+            1796,
+            88
         ],
         [
             3560,
-            3
+            2
         ],
         [
             782,
             200
         ],
         [
-            0,
-            0
+            442,
+            149
         ],
         [
             1402,
@@ -584,7 +584,7 @@
         ],
         [
             716,
-            104
+            58
         ],
         [
             758,
@@ -655,8 +655,8 @@
             200
         ],
         [
-            442,
-            11
+            0,
+            0
         ],
         [
             728,
@@ -672,11 +672,11 @@
         ],
         [
             2028,
-            93
+            34
         ],
         [
             2012,
-            101
+            106
         ],
         [
             2016,
@@ -764,22 +764,22 @@
         ]
     ],
     "invis": false,
-    "ip": "114.10.137.241",
+    "ip": "114.10.137.229",
     "is_day": 0,
     "is_legend": false,
-    "kit_level": 8,
-    "kit_xp": 7856,
+    "kit_level": 9,
+    "kit_xp": 1842,
     "la_wo": [
-        "JASA",
-        "X",
         "RICH",
         "AW",
         "PAKSU",
         "HAZE",
-        "VEND",
         "FRAM",
         "BILA",
         "START",
+        "LEWA",
+        "VENDW",
+        "VEND",
         "CSN"
     ],
     "last_guild_contri": 0,
@@ -795,7 +795,7 @@
     "lifegoals_2": false,
     "lifegoals_3": false,
     "lifegoals_reset_day": 0,
-    "lo": "7/31/2025 2:19:15",
+    "lo": "7/31/2025 4:44:11",
     "lr": [],
     "lvl125": 0,
     "lvlKit_S2": 0,
@@ -827,7 +827,7 @@
     "next_guild_event": false,
     "note": "",
     "on": 0,
-    "opc": 38,
+    "opc": 46,
     "p1_1": 0,
     "p1_2": 0,
     "p_1": false,
@@ -853,7 +853,7 @@
     "pet_xp": 0,
     "pg_bank": 0,
     "pgl_bank_amount": 0,
-    "player_token": "55z0DeKVzYuaI58C1VqO",
+    "player_token": "aYFlyla529j5Fm5qEX86",
     "playmods": [
         {
             "id": 143,
@@ -876,9 +876,9 @@
             "user": "Paksu96"
         }
     ],
-    "playtime": 16649,
+    "playtime": 19621,
     "playtime_items": [],
-    "punch": 4262,
+    "punch": 7358,
     "quest_number": 0,
     "quest_required": 0,
     "quest_text": "",
@@ -887,7 +887,7 @@
     "raw5_legendary_claim": false,
     "rb": 0,
     "received_recycle_prize": false,
-    "recovery_token": "1rZAtEX2JN",
+    "recovery_token": "5Cv7tIkehU",
     "redeem_code": [],
     "requestedName": "VertionLabsLul",
     "reset_winterfest_quest_1": 0,
@@ -954,7 +954,7 @@
     "s_lvl": 0,
     "s_xp": 0,
     "santa": 0,
-    "sc": "0,0,0",
+    "sc": "1,1,1",
     "sd": 0,
     "seed_goal": 1000,
     "sew1": "",
@@ -967,7 +967,7 @@
     "show_location": true,
     "show_notifications": true,
     "show_pets": false,
-    "skin": 1348237567,
+    "skin": 16843263,
     "skl": 0,
     "sm1": 0,
     "sm2": 0,
@@ -979,7 +979,7 @@
     "spr3": 7,
     "spring_token": 0,
     "staged": 0,
-    "starglitter_break": 311,
+    "starglitter_break": 570,
     "starglitter_combine": 0,
     "starglitter_crystal": 0,
     "starglitter_email": 0,
@@ -1021,7 +1021,7 @@
     "trans": [],
     "tscanc": 0,
     "ttBadge": false,
-    "unlock_card_license": false,
+    "unlock_card_license": true,
     "vip_claimed_daily": false,
     "vip_daily": [],
     "vip_daily_day": 0,
@@ -1056,6 +1056,6 @@
     ],
     "wrench_custom": 0,
     "wrench_foreground_custom": 0,
-    "xp": 80744,
+    "xp": 81778,
     "xpKit_S2": 0
 }
