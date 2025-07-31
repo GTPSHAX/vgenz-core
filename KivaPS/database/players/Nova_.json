@@ -1,0 +1,1337 @@
+{
+    "11506": 0,
+    "12634": 0,
+    "12640": 0,
+    "12872": 0,
+    "2fa": 0,
+    "7384": 0,
+    "7bans": [],
+    "AbyssMageFly": false,
+    "AccountSecured": false,
+    "Account_Notes": [],
+    "Acquaint_Fate": 0,
+    "Already_Tried_Gob": false,
+    "Bank_History": [],
+    "Banked_Piggy": 0,
+    "Base_B_1": 255,
+    "Base_G_1": 255,
+    "Base_R_1": 255,
+    "Bronze_Donatur": false,
+    "CQItem": 0,
+    "CQKind": 0,
+    "CQNeed": 0,
+    "CQProg": 0,
+    "CQStep": 1,
+    "CQuest": false,
+    "Claim_Code": [],
+    "Crown_Crystals_1": true,
+    "Crown_Floating_Effect_1": true,
+    "Crown_Laser_Beam_1": true,
+    "Crown_Rays_1": true,
+    "Crown_Value": 1768716607,
+    "Crown_Value_0_0": 4294967295,
+    "Crown_Value_0_1": 4278255615,
+    "Crown_Value_0_2": 4190961919,
+    "Crown_Value_1_0": 633929727,
+    "Crown_Value_1_1": 1073807359,
+    "Crown_Value_1_2": 2351766271,
+    "Crystal_B_1": 140,
+    "Crystal_G_1": 45,
+    "Crystal_R_1": 0,
+    "DarkKing_Sacrifices": 0,
+    "Diamond_Donatur": false,
+    "DrDes": false,
+    "EarnFreeGems.Claim": [],
+    "EarnFreeGems.Quest_1": 0,
+    "EarnFreeGems.Quest_2": 60,
+    "EarnFreeGems.Quest_3": 0,
+    "EarnFreeGems.Time": 0,
+    "Gacha_History": [],
+    "Gem_B_1": 255,
+    "Gem_G_1": 0,
+    "Gem_R_1": 255,
+    "Gems_Storage": 0,
+    "Gold_Donatur": false,
+    "HalloweenTask_Prize": [],
+    "Has_BingoPrize": [],
+    "Has_BingoTask": [],
+    "Has_ClaimBingo": [],
+    "Has_Read_": false,
+    "Has_Verifed": false,
+    "Has_WinBingo": false,
+    "Health_DrDes": 100,
+    "Intertwined_Fate": 0,
+    "Kit": false,
+    "KitPass_Prize": [],
+    "Legendary_Keys": 0,
+    "LiyueHtouFly": false,
+    "Masterless_Starglitter": 37,
+    "Mines_Score": 0,
+    "Need_To_Required": 0,
+    "Number_License": 1,
+    "Pets_Builder_Lvl": 0,
+    "Pets_Dead": false,
+    "Pets_Death_Times": 0,
+    "Pets_Farmer_Lvl": 0,
+    "Pets_health": 100,
+    "Pets_hunger": 150,
+    "Pity": 0,
+    "Pity_On": false,
+    "Present_Goblin": 0,
+    "Requiring": 1,
+    "Role.Administrator": false,
+    "Role.BOOST": false,
+    "Role.Cheats": true,
+    "Role.Developer": false,
+    "Role.God": false,
+    "Role.Moderator": true,
+    "Role.Owner_Server": false,
+    "Role.SUPER_BOOST": false,
+    "Role.Unlimited": false,
+    "Role.Vip": false,
+    "Silver_Donatur": false,
+    "Slot_Credits": 0,
+    "Slot_Far": 1,
+    "Slot_Points": 0,
+    "St_Regen_Time": 1753987539,
+    "StarglitterTask_Prize": [],
+    "Title.Award_Winning": false,
+    "Title.ContentCBadge": false,
+    "Title.Doctor": false,
+    "Title.Grow4Good": false,
+    "Title.GrowPass_Bronze": false,
+    "Title.GrowPass_Gold": false,
+    "Title.GrowPass_Silver": false,
+    "Title.Mentor": false,
+    "Title.OfLegend": false,
+    "Title.OldTimer": false,
+    "Title.PartyAnimal": false,
+    "Title.ThanksGiving": false,
+    "Title.TiktokBadge": false,
+    "Title.WinterSanta": false,
+    "TitleCoordinate": "",
+    "TitleTexture": "",
+    "Tutorial_Number": 1,
+    "Used_VipDoor": [],
+    "UuuzzFly": false,
+    "Warning": 0,
+    "Warning_Message": [],
+    "WinterBingo_Prize": {
+        "c0": [
+            0,
+            0
+        ],
+        "c1": [
+            0,
+            0
+        ],
+        "c2": [
+            0,
+            0
+        ],
+        "c3": [
+            0,
+            0
+        ],
+        "c4": [
+            0,
+            0
+        ],
+        "r0": [
+            0,
+            0
+        ],
+        "r1": [
+            0,
+            0
+        ],
+        "r2": [
+            0,
+            0
+        ],
+        "r3": [
+            0,
+            0
+        ],
+        "r4": [
+            0,
+            0
+        ]
+    },
+    "WinterBingo_Task": {
+        "0": 0,
+        "1": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 0,
+        "16": 0,
+        "17": 0,
+        "18": 0,
+        "19": 0,
+        "2": 0,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0,
+        "24": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+    },
+    "WinterTask_Prize": [],
+    "Winter_Branch_Rewards": [],
+    "Winter_Daily_Time": 0,
+    "Wrench_Decoration": [],
+    "Wrench_Style": [],
+    "_drt": 0,
+    "a_s": 2,
+    "ability_upgrade_ances": false,
+    "ability_xgems": 0,
+    "ability_xxp": 0,
+    "active_bluename": false,
+    "ances": 7166,
+    "anni_old": 0,
+    "as": 1,
+    "aw_winning": 0,
+    "awesomeness": 0,
+    "b_b": "",
+    "b_bill": "0,0",
+    "b_i": 0,
+    "b_l": 1,
+    "b_lvl": 1,
+    "b_p": 0,
+    "b_r": "",
+    "b_ra": 0,
+    "b_s": 0,
+    "b_t": 0,
+    "b_w": 0,
+    "ba_f": 0,
+    "ba_i": 0,
+    "back": 7084,
+    "balloon_prize": false,
+    "bank_password": 123455,
+    "bb": false,
+    "bb0": 37,
+    "bb_1": 1,
+    "bb_2": 0,
+    "bb_3": 0,
+    "bb_4": 0,
+    "bb_5": 0,
+    "bb_lvl": 0,
+    "bb_p": [],
+    "bb_xp": 0,
+    "bc": false,
+    "bea_1": 0,
+    "bg0": 200,
+    "bg_color": "",
+    "biweekly_reset_day": 0,
+    "booty_broken": 0,
+    "border_color": "",
+    "bos_time": 0,
+    "bp": [],
+    "br0": 255,
+    "btp": [
+        [
+            0,
+            0,
+            0,
+            1
+        ],
+        [
+            0,
+            0,
+            0,
+            0
+        ]
+    ],
+    "c0rr": true,
+    "c_c_t": 15,
+    "c_s": 35936,
+    "c_t_c": true,
+    "ca_c": 0,
+    "card_level": 1,
+    "card_xp": 0,
+    "cb0": 140,
+    "cc": 1,
+    "ccBadge": false,
+    "cdaily": -1,
+    "cfe0": false,
+    "cg0": 45,
+    "claim_myth_1": false,
+    "claim_myth_2": false,
+    "claim_myth_3": false,
+    "claim_myth_4": false,
+    "claim_myth_5": false,
+    "claim_myth_6": false,
+    "claim_seven_seas_1": false,
+    "claim_seven_seas_2": false,
+    "claim_seven_seas_3": false,
+    "claim_seven_seas_4": false,
+    "claim_seven_seas_5": false,
+    "claim_seven_seas_6": false,
+    "claim_top1": false,
+    "claim_top10": false,
+    "claim_top10g": false,
+    "claim_top11": false,
+    "claim_top11g": false,
+    "claim_top12": false,
+    "claim_top12g": false,
+    "claim_top13": false,
+    "claim_top13g": false,
+    "claim_top14": false,
+    "claim_top14g": false,
+    "claim_top15": false,
+    "claim_top15g": false,
+    "claim_top16": false,
+    "claim_top16g": false,
+    "claim_top17": false,
+    "claim_top17g": false,
+    "claim_top18": false,
+    "claim_top18g": false,
+    "claim_top19": false,
+    "claim_top19g": false,
+    "claim_top1g": false,
+    "claim_top2": false,
+    "claim_top20": false,
+    "claim_top20g": false,
+    "claim_top21g": false,
+    "claim_top22g": false,
+    "claim_top23g": false,
+    "claim_top24g": false,
+    "claim_top25g": false,
+    "claim_top2g": false,
+    "claim_top3": false,
+    "claim_top3g": false,
+    "claim_top4": false,
+    "claim_top4g": false,
+    "claim_top5": false,
+    "claim_top5g": false,
+    "claim_top6": false,
+    "claim_top6g": false,
+    "claim_top7": false,
+    "claim_top7g": false,
+    "claim_top8": false,
+    "claim_top8g": false,
+    "claim_top9": false,
+    "claim_top9g": false,
+    "claimed_daily_today": false,
+    "clb0": true,
+    "complete_rolequest_day": false,
+    "completed_tutorial": false,
+    "cr0": 26,
+    "crc0": true,
+    "d_name": "",
+    "daily_login": [],
+    "daily_login_day": 0,
+    "date": 20300,
+    "dd": 0,
+    "dl_bank_amount": 0,
+    "dnr": 0,
+    "drll": 0,
+    "drtt": 0,
+    "e_1": 4294967295,
+    "e_2": 4294967295,
+    "e_3": 4294967295,
+    "egg": 0,
+    "egg2": 0,
+    "email": "Nova@gmail.com",
+    "epic_quest_total": 0,
+    "epicq_compactdress": 0,
+    "epicq_ddrag": 0,
+    "epicq_dressup": 0,
+    "epicq_emeraldlock": 0,
+    "epicq_ghostcharm": 0,
+    "epicq_goldenaxe": 0,
+    "epicq_lvl100": 0,
+    "epicq_octopushead": 0,
+    "epicq_plant_wiz": 0,
+    "epicq_riding": 0,
+    "epicq_splice_wm_comet": 0,
+    "epicq_stonefish": 0,
+    "epicq_teddybear": 0,
+    "epicq_woolcraft": 0,
+    "exp_goal": 0,
+    "fa_ip": "",
+    "face": 19966,
+    "favitem": [],
+    "feet": 0,
+    "ff_lvl": 0,
+    "ff_p": [],
+    "ff_xp": 0,
+    "fire": 0,
+    "flagmay": 0,
+    "friends": [],
+    "g4p": 0,
+    "g_a_b": 0,
+    "g_lvl": 0,
+    "g_p": [],
+    "g_xp": 0,
+    "gb0": 64,
+    "geiger": 0,
+    "gem_goal": 1000,
+    "gems": 482626,
+    "gg0": 0,
+    "ghost": false,
+    "glo": 0,
+    "glo_p": [],
+    "gp": 0,
+    "gp_bronze": 0,
+    "gp_gold": 0,
+    "gp_silver": 0,
+    "gr0": 255,
+    "gr_w": [],
+    "grm": "(wl)|ā|0&(oops)|ą|0&(sleep)|Ċ|0&(punch)|ċ|0&(bheart)|Ĕ|0&(grow)|Ė|0&(gems)|ė|0&(gtoken)|ę|0&(cry)|ĝ|1&(vend)|Ğ|0&(bunny)|ě|0&(cactus)|ğ|0&(pine)|Ĥ|0&(peace)|ģ|0&(terror)|ġ|0&(troll)|Ġ|0&(evil)|Ģ|0&(fireworks)|Ħ|0&(football)|ĥ|0&(alien)|ħ|0&(party)|Ĩ|0&(pizza)|ĩ|0&(clap)|Ī|0&(song)|ī|1&(ghost)|Ĭ|0&(nuke)|ĭ|0&(halo)|Į|0&(turkey)|į|0&(gift)|İ|0&(cake)|ı|0&(heartarrow)|Ĳ|0&(lucky)|ĳ|0&(shamrock)|Ĵ|0&(grin)|ĵ|0&(ill)|Ķ|0&(eyes)|ķ|0&(weary)|ĸ|0&(moyai)|ļ|0&(plead)|Ľ|0&",
+    "growpass_points": 0,
+    "growpass_prizes": [],
+    "growpass_quests": [],
+    "gtwl": 0,
+    "guild_id": 0,
+    "hair": 7928,
+    "halloween_q1": 0,
+    "halloween_q2": 0,
+    "halloween_q3": 0,
+    "halloween_q4": 0,
+    "halloween_q5": 0,
+    "halloween_q6": 0,
+    "halloween_q7": 0,
+    "halloween_q8": 0,
+    "halloween_q9": 0,
+    "hand": 1464,
+    "has_claim_event_wls": false,
+    "home_world": "",
+    "hs": 0,
+    "i_11818_1": 0,
+    "i_11818_2": 0,
+    "id": -229455663,
+    "ig": [],
+    "igl_bank_amount": 0,
+    "in_world_tutorial": false,
+    "inventory": [
+        [
+            18,
+            1
+        ],
+        [
+            32,
+            1
+        ],
+        [
+            6336,
+            1
+        ],
+        [
+            19906,
+            1
+        ],
+        [
+            1796,
+            118
+        ],
+        [
+            527,
+            3
+        ],
+        [
+            278,
+            1
+        ],
+        [
+            2,
+            59
+        ],
+        [
+            596,
+            34
+        ],
+        [
+            5638,
+            2
+        ],
+        [
+            6946,
+            1
+        ],
+        [
+            6948,
+            1
+        ],
+        [
+            1008,
+            11
+        ],
+        [
+            12242,
+            1
+        ],
+        [
+            14576,
+            1
+        ],
+        [
+            10262,
+            1
+        ],
+        [
+            3,
+            122
+        ],
+        [
+            7188,
+            50
+        ],
+        [
+            9352,
+            1
+        ],
+        [
+            8440,
+            1
+        ],
+        [
+            4956,
+            1
+        ],
+        [
+            242,
+            69
+        ],
+        [
+            5084,
+            2
+        ],
+        [
+            216,
+            1
+        ],
+        [
+            4748,
+            1
+        ],
+        [
+            7416,
+            1
+        ],
+        [
+            20090,
+            2
+        ],
+        [
+            19944,
+            1
+        ],
+        [
+            10,
+            2
+        ],
+        [
+            14972,
+            1
+        ],
+        [
+            13572,
+            2
+        ],
+        [
+            9874,
+            1
+        ],
+        [
+            9536,
+            1
+        ],
+        [
+            7066,
+            199
+        ],
+        [
+            13710,
+            1
+        ],
+        [
+            2582,
+            2
+        ],
+        [
+            12176,
+            1
+        ],
+        [
+            350,
+            1
+        ],
+        [
+            5080,
+            1
+        ],
+        [
+            14574,
+            3
+        ],
+        [
+            2278,
+            1
+        ],
+        [
+            1464,
+            1
+        ],
+        [
+            19836,
+            1
+        ],
+        [
+            5608,
+            1
+        ],
+        [
+            10424,
+            1
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            11050,
+            2
+        ],
+        [
+            3042,
+            1
+        ],
+        [
+            344,
+            1
+        ],
+        [
+            14028,
+            1
+        ],
+        [
+            3040,
+            1
+        ],
+        [
+            3839,
+            1
+        ],
+        [
+            19874,
+            1
+        ],
+        [
+            14566,
+            11
+        ],
+        [
+            19838,
+            1
+        ],
+        [
+            3838,
+            1
+        ],
+        [
+            19966,
+            1
+        ],
+        [
+            526,
+            176
+        ],
+        [
+            10000,
+            1
+        ],
+        [
+            11134,
+            2
+        ],
+        [
+            19926,
+            1
+        ],
+        [
+            9758,
+            1
+        ],
+        [
+            19998,
+            1
+        ],
+        [
+            9384,
+            2
+        ],
+        [
+            19938,
+            1
+        ],
+        [
+            14568,
+            1
+        ],
+        [
+            19824,
+            1
+        ],
+        [
+            1454,
+            2
+        ],
+        [
+            7928,
+            1
+        ],
+        [
+            13708,
+            1
+        ],
+        [
+            7166,
+            1
+        ],
+        [
+            15062,
+            1
+        ],
+        [
+            5194,
+            1
+        ],
+        [
+            15044,
+            1
+        ],
+        [
+            9168,
+            1
+        ],
+        [
+            3300,
+            1
+        ],
+        [
+            15068,
+            1
+        ],
+        [
+            1944,
+            1
+        ],
+        [
+            10346,
+            1
+        ],
+        [
+            14582,
+            1
+        ],
+        [
+            7106,
+            1
+        ],
+        [
+            14572,
+            1
+        ],
+        [
+            462,
+            1
+        ],
+        [
+            448,
+            1
+        ],
+        [
+            19830,
+            1
+        ],
+        [
+            13930,
+            1
+        ],
+        [
+            14570,
+            1
+        ],
+        [
+            11668,
+            2
+        ],
+        [
+            1420,
+            1
+        ],
+        [
+            20100,
+            1
+        ],
+        [
+            3138,
+            1
+        ],
+        [
+            5078,
+            1
+        ],
+        [
+            10926,
+            1
+        ],
+        [
+            14564,
+            1
+        ],
+        [
+            206,
+            1
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            6754,
+            1
+        ],
+        [
+            9730,
+            1
+        ],
+        [
+            7084,
+            1
+        ],
+        [
+            2946,
+            20
+        ],
+        [
+            8470,
+            15
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ]
+    ],
+    "invis": false,
+    "ip": "180.242.232.68",
+    "is_day": 0,
+    "is_legend": false,
+    "kit_level": 15,
+    "kit_xp": 26513,
+    "la_wo": [
+        "VENDA",
+        "VEGAS",
+        "VENDSS",
+        "NOVA",
+        "DARK",
+        "DANAS",
+        "DANA",
+        "LOW",
+        "START",
+        "VEND",
+        "END"
+    ],
+    "last_guild_contri": 0,
+    "last_personal_contri": 0,
+    "last_rank_guild": 0,
+    "last_rank_per": 0,
+    "legend": false,
+    "level": 67,
+    "lifegoals1": true,
+    "lifegoals2": true,
+    "lifegoals3": true,
+    "lifegoals_1": false,
+    "lifegoals_2": false,
+    "lifegoals_3": false,
+    "lifegoals_reset_day": 0,
+    "lo": "7/31/2025 11:43:6",
+    "lr": [],
+    "lvl125": 0,
+    "lvlKit_S2": 0,
+    "lvl_p": [],
+    "lvl_rewards": [],
+    "lw_1": 0,
+    "lw_2": 1,
+    "lw_3": 0,
+    "lw_4": [],
+    "m_b": "",
+    "m_h": 0,
+    "mask": 0,
+    "master_pet": false,
+    "mentor": false,
+    "mer": 0,
+    "meta": "",
+    "mg": 0,
+    "mgl_bank_amount": 0,
+    "mines_coin": 0,
+    "mst": 0,
+    "myou": true,
+    "n": 1,
+    "name": "Nova",
+    "necklace": 0,
+    "need_item_req_id": 0,
+    "need_required": 0,
+    "need_sumbit_req_id": 0,
+    "new_player": true,
+    "next_guild_event": false,
+    "note": "",
+    "on": 0,
+    "opc": 29,
+    "p1_1": 0,
+    "p1_2": 0,
+    "p_1": false,
+    "p_2": false,
+    "p_7": 0,
+    "p_d1": 0,
+    "p_d2": false,
+    "p_d3": false,
+    "p_lvl": 0,
+    "p_p": [],
+    "p_xp": 0,
+    "pants": 1944,
+    "participated": 0,
+    "participated_personal": false,
+    "party_animal": 0,
+    "pass": "Nova.",
+    "pet_ClothesUpdated": false,
+    "pet_ID": 0,
+    "pet_level": 0,
+    "pet_name": "",
+    "pet_netID": 0,
+    "pet_type": -1,
+    "pet_xp": 0,
+    "pg_bank": 0,
+    "pgl_bank_amount": 0,
+    "player_token": "J9tHfYZlbUoIXvZ70Ucz",
+    "playmods": [
+        {
+            "id": 125,
+            "time": 1756654467,
+            "user": "Nova"
+        },
+        {
+            "id": 125,
+            "time": 1756654467,
+            "user": "Nova"
+        },
+        {
+            "id": 143,
+            "time": 1754580868,
+            "user": "Nova"
+        },
+        {
+            "id": 143,
+            "time": 1754580868,
+            "user": "Nova"
+        }
+    ],
+    "playtime": 10807,
+    "playtime_items": [],
+    "punch": 8570,
+    "quest_number": 0,
+    "quest_required": 0,
+    "quest_text": "",
+    "rad": 0,
+    "radio2": false,
+    "raw5_legendary_claim": false,
+    "rb": 0,
+    "received_recycle_prize": false,
+    "recovery_token": "Kt1X8bBAre",
+    "redeem_code": [],
+    "requestedName": "VertionLabsLul",
+    "reset_winterfest_quest_1": 0,
+    "reset_winterfest_quest_2": 0,
+    "reset_winterfest_quest_3": 0,
+    "reset_winterfest_quest_4": 0,
+    "reset_winterfest_quest_5": 0,
+    "reset_winterfest_quest_6": 0,
+    "reset_winterfest_quest_7": 0,
+    "reset_winterfest_quest_8": 0,
+    "reset_winterfest_quest_9": 0,
+    "ri_1": 2402849791,
+    "ri_10": "34,35,36",
+    "ri_2": 2402849791,
+    "ri_3": 723421695,
+    "ri_4": 1059267327,
+    "ri_5": 19451,
+    "ri_6": 30,
+    "ri_7": "147,56,143",
+    "ri_8": "137,30,43",
+    "ri_9": "147,56,143",
+    "rid": "024BA8C3AA2DE9850768444D195977B4",
+    "roleIcon": 6,
+    "roleSkin": 6,
+    "role_quest": false,
+    "role_quest_type": "",
+    "rolequest_reset_day": 0,
+    "row1_items1_claim": false,
+    "row1_items2_claim": false,
+    "row1_items3_claim": false,
+    "row1_items4_claim": false,
+    "row1_items5_claim": false,
+    "row1_items6_claim": false,
+    "row2_items1_claim": false,
+    "row2_items2_claim": false,
+    "row2_items3_claim": false,
+    "row2_items4_claim": false,
+    "row2_items5_claim": false,
+    "row2_items6_claim": false,
+    "row3_items1_claim": false,
+    "row3_items2_claim": false,
+    "row3_items3_claim": false,
+    "row3_items4_claim": false,
+    "row3_items5_claim": false,
+    "row3_items6_claim": false,
+    "row4_items1_claim": false,
+    "row4_items2_claim": false,
+    "row4_items3_claim": false,
+    "row4_items4_claim": false,
+    "row4_items5_claim": false,
+    "row4_items6_claim": false,
+    "rubble": 4,
+    "rw_1": 3356909055,
+    "rw_10": "34,35,63",
+    "rw_2": 4282965247,
+    "rw_3": 723421695,
+    "rw_4": 1059267327,
+    "rw_5": 104912,
+    "rw_6": 30,
+    "rw_7": "93,22,200",
+    "rw_8": "137,30,43",
+    "rw_9": "220,72,255",
+    "s4tb": 0,
+    "s_lvl": 0,
+    "s_xp": 0,
+    "santa": 0,
+    "sc": "0,0,0",
+    "sd": 0,
+    "seed_goal": 1000,
+    "sew1": "",
+    "sew2": "",
+    "sew3": "",
+    "sewtype": "",
+    "sewunlocked": 0,
+    "sgt": 255,
+    "shirt": 0,
+    "show_location": true,
+    "show_notifications": true,
+    "show_pets": false,
+    "skin": -1261502465,
+    "skl": 0,
+    "sm1": 0,
+    "sm2": 0,
+    "sm3": [],
+    "spbos_time": 0,
+    "specialization_track": "",
+    "spr": 0,
+    "spr2": 6,
+    "spr3": 6,
+    "spring_token": 0,
+    "staged": 0,
+    "starglitter_break": 1000,
+    "starglitter_combine": 0,
+    "starglitter_crystal": 0,
+    "starglitter_email": 0,
+    "starglitter_enter": true,
+    "starglitter_fish": 0,
+    "starglitter_geiger": 0,
+    "starglitter_geiger2": 0,
+    "starglitter_place": 1000,
+    "starglitter_points": 110,
+    "starglitter_provider": 0,
+    "starglitter_provider2": 371,
+    "starglitter_reset_day": 0,
+    "starglitter_reset_month": 0,
+    "starglitter_reset_week": 0,
+    "starglitter_sb": 0,
+    "starglitter_seed": 0,
+    "starglitter_seed2": 0,
+    "starglitter_surgery": 0,
+    "starglitter_trade": 0,
+    "su1": 0,
+    "su2": 0,
+    "su3": 0,
+    "summer_token": 0,
+    "supp": 0,
+    "surg_p": [],
+    "t_h": [],
+    "t_lvl": 0,
+    "t_p": [],
+    "t_s": 2,
+    "t_xp": 0,
+    "tgiv": 0,
+    "top_punch_1": false,
+    "top_punch_2": false,
+    "top_punch_3": false,
+    "top_punch_4": false,
+    "top_punch_5": false,
+    "total_quest_selected": 0,
+    "totalsew": 0,
+    "trans": [],
+    "tscanc": 0,
+    "ttBadge": false,
+    "unlock_card_license": false,
+    "vip_claimed_daily": false,
+    "vip_daily": [],
+    "vip_daily_day": 0,
+    "vip_day": 0,
+    "vou": 0,
+    "w_w": 8,
+    "winter_power": false,
+    "winter_seal": 0,
+    "winter_seal_branch_1": 0,
+    "winter_seal_branch_2": 0,
+    "winter_seal_branch_3": 0,
+    "winter_seal_branch_4": 0,
+    "winter_token": 0,
+    "winterfest_quest_1": 0,
+    "winterfest_quest_2": 0,
+    "winterfest_quest_3": 0,
+    "winterfest_wishes": 0,
+    "wipe": false,
+    "wl_bank_amount": 0,
+    "wls_participated": false,
+    "worlds_favorite": [],
+    "worlds_owned": [
+        "NOVA",
+        "GACHE",
+        "DARK",
+        "DANA",
+        "END"
+    ],
+    "wrench_custom": 0,
+    "wrench_foreground_custom": 0,
+    "xp": 117582,
+    "xpKit_S2": 0
+}
