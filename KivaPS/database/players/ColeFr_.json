@@ -9,7 +9,7 @@
     "AbyssMageFly": false,
     "AccountSecured": false,
     "Account_Notes": [],
-    "Acquaint_Fate": 0,
+    "Acquaint_Fate": 2,
     "Already_Tried_Gob": false,
     "Bank_History": [],
     "Banked_Piggy": 0,
@@ -43,10 +43,12 @@
     "DrDes": false,
     "EarnFreeGems.Claim": [],
     "EarnFreeGems.Quest_1": 0,
-    "EarnFreeGems.Quest_2": 0,
+    "EarnFreeGems.Quest_2": 20,
     "EarnFreeGems.Quest_3": 0,
     "EarnFreeGems.Time": 0,
-    "Gacha_History": [],
+    "Gacha_History": [
+        "Super Cape `wat 21:6 on 7/30"
+    ],
     "Gem_B_1": 255,
     "Gem_G_1": 0,
     "Gem_R_1": 255,
@@ -65,7 +67,7 @@
     "KitPass_Prize": [],
     "Legendary_Keys": 0,
     "LiyueHtouFly": false,
-    "Masterless_Starglitter": 0,
+    "Masterless_Starglitter": 28,
     "Mines_Score": 0,
     "Need_To_Required": 0,
     "Number_License": 1,
@@ -75,16 +77,16 @@
     "Pets_Farmer_Lvl": 0,
     "Pets_health": 100,
     "Pets_hunger": 150,
-    "Pity": 0,
+    "Pity": 1,
     "Pity_On": false,
     "Present_Goblin": 0,
     "Requiring": 1,
     "Role.Administrator": false,
     "Role.BOOST": false,
-    "Role.Cheats": false,
+    "Role.Cheats": true,
     "Role.Developer": false,
     "Role.God": false,
-    "Role.Moderator": false,
+    "Role.Moderator": true,
     "Role.Owner_Server": false,
     "Role.SUPER_BOOST": false,
     "Role.Unlimited": false,
@@ -93,7 +95,7 @@
     "Slot_Credits": 0,
     "Slot_Far": 1,
     "Slot_Points": 0,
-    "St_Regen_Time": 0,
+    "St_Regen_Time": 1753935770,
     "StarglitterTask_Prize": [],
     "Title.Award_Winning": false,
     "Title.ContentCBadge": false,
@@ -214,7 +216,7 @@
     "b_w": 0,
     "ba_f": 0,
     "ba_i": 0,
-    "back": 0,
+    "back": 3144,
     "balloon_prize": false,
     "bank_password": 0,
     "bb": false,
@@ -253,7 +255,7 @@
     ],
     "c0rr": true,
     "c_c_t": 15,
-    "c_s": 0,
+    "c_s": 3072,
     "c_t_c": true,
     "ca_c": 0,
     "card_level": 1,
@@ -357,7 +359,7 @@
     "epicq_stonefish": 0,
     "epicq_teddybear": 0,
     "epicq_woolcraft": 0,
-    "exp_goal": 0,
+    "exp_goal": 6,
     "fa_ip": "",
     "face": 0,
     "favitem": [],
@@ -375,8 +377,8 @@
     "g_xp": 0,
     "gb0": 64,
     "geiger": 0,
-    "gem_goal": 0,
-    "gems": 20000,
+    "gem_goal": 1000,
+    "gems": 15767,
     "gg0": 0,
     "ghost": false,
     "glo": 0,
@@ -387,7 +389,7 @@
     "gp_silver": 0,
     "gr0": 255,
     "gr_w": [],
-    "grm": "(wl)|ā|0&(oops)|ą|0&(sleep)|Ċ|0&(punch)|ċ|0&(bheart)|Ĕ|0&(grow)|Ė|0&(gems)|ė|0&(gtoken)|ę|0&(cry)|ĝ|0&(vend)|Ğ|0&(bunny)|ě|0&(cactus)|ğ|0&(pine)|Ĥ|0&(peace)|ģ|0&(terror)|ġ|0&(troll)|Ġ|0&(evil)|Ģ|0&(fireworks)|Ħ|0&(football)|ĥ|0&(alien)|ħ|0&(party)|Ĩ|0&(pizza)|ĩ|0&(clap)|Ī|0&(song)|ī|0&(ghost)|Ĭ|0&(nuke)|ĭ|0&(halo)|Į|0&(turkey)|į|0&(gift)|İ|0&(cake)|ı|0&(heartarrow)|Ĳ|0&(lucky)|ĳ|0&(shamrock)|Ĵ|0&(grin)|ĵ|0&(ill)|Ķ|0&(eyes)|ķ|0&(weary)|ĸ|0&(moyai)|ļ|0&(plead)|Ľ|0&",
+    "grm": "(wl)|ā|0&(oops)|ą|0&(sleep)|Ċ|0&(punch)|ċ|0&(bheart)|Ĕ|1&(grow)|Ė|0&(gems)|ė|0&(gtoken)|ę|0&(cry)|ĝ|0&(vend)|Ğ|0&(bunny)|ě|0&(cactus)|ğ|0&(pine)|Ĥ|0&(peace)|ģ|0&(terror)|ġ|0&(troll)|Ġ|0&(evil)|Ģ|0&(fireworks)|Ħ|0&(football)|ĥ|0&(alien)|ħ|0&(party)|Ĩ|0&(pizza)|ĩ|0&(clap)|Ī|0&(song)|ī|0&(ghost)|Ĭ|0&(nuke)|ĭ|0&(halo)|Į|0&(turkey)|į|0&(gift)|İ|0&(cake)|ı|0&(heartarrow)|Ĳ|0&(lucky)|ĳ|0&(shamrock)|Ĵ|0&(grin)|ĵ|0&(ill)|Ķ|0&(eyes)|ķ|0&(weary)|ĸ|0&(moyai)|ļ|0&(plead)|Ľ|0&",
     "growpass_points": 0,
     "growpass_prizes": [],
     "growpass_quests": [],
@@ -405,7 +407,7 @@
     "halloween_q9": 0,
     "hand": 0,
     "has_claim_event_wls": false,
-    "home_world": "",
+    "home_world": "COLE",
     "hs": 0,
     "i_11818_1": 0,
     "i_11818_2": 0,
@@ -427,28 +429,28 @@
             1
         ],
         [
-            9640,
-            1
-        ],
-        [
             7188,
-            25
+            24
         ],
         [
-            9726,
+            1796,
             1
         ],
         [
-            9852,
+            2,
+            30
+        ],
+        [
+            2164,
             1
         ],
         [
-            5136,
-            20
+            12410,
+            1
         ],
         [
-            14596,
-            20
+            5876,
+            1
         ],
         [
             5638,
@@ -463,12 +465,12 @@
             1
         ],
         [
-            340,
-            200
+            9088,
+            1
         ],
         [
-            9602,
-            1
+            242,
+            99
         ],
         [
             3432,
@@ -477,6 +479,166 @@
         [
             10262,
             1
+        ],
+        [
+            11080,
+            1
+        ],
+        [
+            2886,
+            1
+        ],
+        [
+            10410,
+            1
+        ],
+        [
+            2720,
+            1
+        ],
+        [
+            10210,
+            1
+        ],
+        [
+            13828,
+            1
+        ],
+        [
+            11162,
+            1
+        ],
+        [
+            3144,
+            1
+        ],
+        [
+            9060,
+            1
+        ],
+        [
+            10036,
+            1
+        ],
+        [
+            9114,
+            1
+        ],
+        [
+            14572,
+            1
+        ],
+        [
+            12248,
+            1
+        ],
+        [
+            2800,
+            1
+        ],
+        [
+            6836,
+            1
+        ],
+        [
+            7682,
+            1
+        ],
+        [
+            7306,
+            1
+        ],
+        [
+            4008,
+            1
+        ],
+        [
+            6914,
+            1
+        ],
+        [
+            5884,
+            1
+        ],
+        [
+            13418,
+            1
+        ],
+        [
+            3870,
+            1
+        ],
+        [
+            4378,
+            1
+        ],
+        [
+            4846,
+            1
+        ],
+        [
+            7758,
+            1
+        ],
+        [
+            14278,
+            1
+        ],
+        [
+            13554,
+            1
+        ],
+        [
+            2694,
+            1
+        ],
+        [
+            2166,
+            1
+        ],
+        [
+            3640,
+            2
+        ],
+        [
+            3,
+            4
+        ],
+        [
+            9366,
+            1
+        ],
+        [
+            900,
+            1
+        ],
+        [
+            5460,
+            1
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            12176,
+            1
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
         ],
         [
             0,
@@ -527,17 +689,19 @@
     "ip": "139.195.43.1",
     "is_day": 0,
     "is_legend": false,
-    "kit_level": 0,
-    "kit_xp": 0,
+    "kit_level": 4,
+    "kit_xp": 901,
     "la_wo": [
-        "START"
+        "START",
+        "CFRM",
+        "COLE"
     ],
     "last_guild_contri": 0,
     "last_personal_contri": 0,
     "last_rank_guild": 0,
     "last_rank_per": 0,
     "legend": false,
-    "level": 1,
+    "level": 11,
     "lifegoals1": true,
     "lifegoals2": true,
     "lifegoals3": true,
@@ -545,7 +709,7 @@
     "lifegoals_2": false,
     "lifegoals_3": false,
     "lifegoals_reset_day": 0,
-    "lo": "7/30/2025 9:59:8",
+    "lo": "7/30/2025 21:22:28",
     "lr": [],
     "lvl125": 0,
     "lvlKit_S2": 0,
@@ -577,7 +741,7 @@
     "next_guild_event": false,
     "note": "",
     "on": 0,
-    "opc": 0,
+    "opc": 4,
     "p1_1": 0,
     "p1_2": 0,
     "p_1": false,
@@ -603,11 +767,32 @@
     "pet_xp": 0,
     "pg_bank": 0,
     "pgl_bank_amount": 0,
-    "player_token": "",
-    "playmods": [],
-    "playtime": 49,
+    "player_token": "nYhdnkJXdfTJ97XZPxsh",
+    "playmods": [
+        {
+            "id": 143,
+            "time": 1754538105,
+            "user": "ColeFr"
+        },
+        {
+            "id": 143,
+            "time": 1754538105,
+            "user": "ColeFr"
+        },
+        {
+            "id": 125,
+            "time": 1756611707,
+            "user": "ColeFr"
+        },
+        {
+            "id": 125,
+            "time": 1756611707,
+            "user": "ColeFr"
+        }
+    ],
+    "playtime": 1951,
     "playtime_items": [],
-    "punch": 0,
+    "punch": 950,
     "quest_number": 0,
     "quest_required": 0,
     "quest_text": "",
@@ -616,7 +801,7 @@
     "raw5_legendary_claim": false,
     "rb": 0,
     "received_recycle_prize": false,
-    "recovery_token": "",
+    "recovery_token": "gxfGyE7K1z",
     "redeem_code": [],
     "requestedName": "VertionLabsLul",
     "reset_winterfest_quest_1": 0,
@@ -638,7 +823,7 @@
     "ri_7": "147,56,143",
     "ri_8": "137,30,43",
     "ri_9": "147,56,143",
-    "rid": "",
+    "rid": "024E92102BBEFAA20917A120A13CDBB5",
     "roleIcon": 6,
     "roleSkin": 6,
     "role_quest": false,
@@ -685,7 +870,7 @@
     "santa": 0,
     "sc": "0,0,0",
     "sd": 0,
-    "seed_goal": 0,
+    "seed_goal": 1000,
     "sew1": "",
     "sew2": "",
     "sew3": "",
@@ -708,7 +893,7 @@
     "spr3": 6,
     "spring_token": 0,
     "staged": 0,
-    "starglitter_break": 0,
+    "starglitter_break": 233,
     "starglitter_combine": 0,
     "starglitter_crystal": 0,
     "starglitter_email": 0,
@@ -716,7 +901,7 @@
     "starglitter_fish": 0,
     "starglitter_geiger": 0,
     "starglitter_geiger2": 0,
-    "starglitter_place": 0,
+    "starglitter_place": 255,
     "starglitter_points": 10,
     "starglitter_provider": 0,
     "starglitter_provider2": 379,
@@ -756,7 +941,7 @@
     "vip_daily_day": 0,
     "vip_day": 0,
     "vou": 0,
-    "w_w": 0,
+    "w_w": 2,
     "winter_power": false,
     "winter_seal": 0,
     "winter_seal_branch_1": 0,
@@ -772,9 +957,12 @@
     "wl_bank_amount": 0,
     "wls_participated": false,
     "worlds_favorite": [],
-    "worlds_owned": [],
+    "worlds_owned": [
+        "COLE",
+        "CFRM"
+    ],
     "wrench_custom": 0,
     "wrench_foreground_custom": 0,
-    "xp": 0,
+    "xp": 326,
     "xpKit_S2": 0
 }
