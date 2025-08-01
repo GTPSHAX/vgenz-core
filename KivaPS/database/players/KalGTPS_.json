@@ -65,7 +65,7 @@
     "KitPass_Prize": [],
     "Legendary_Keys": 0,
     "LiyueHtouFly": false,
-    "Masterless_Starglitter": 21,
+    "Masterless_Starglitter": 25,
     "Mines_Score": 0,
     "Need_To_Required": 0,
     "Number_License": 1,
@@ -81,7 +81,7 @@
     "Requiring": 1,
     "Role.Administrator": false,
     "Role.BOOST": false,
-    "Role.Cheats": false,
+    "Role.Cheats": true,
     "Role.Developer": false,
     "Role.God": false,
     "Role.Moderator": true,
@@ -91,9 +91,9 @@
     "Role.Vip": false,
     "Silver_Donatur": false,
     "Slot_Credits": 0,
-    "Slot_Far": 1,
+    "Slot_Far": 2,
     "Slot_Points": 0,
-    "St_Regen_Time": 1753969400,
+    "St_Regen_Time": 1754023415,
     "StarglitterTask_Prize": [],
     "Title.Award_Winning": false,
     "Title.ContentCBadge": false,
@@ -361,7 +361,7 @@
     "fa_ip": "",
     "face": 0,
     "favitem": [],
-    "feet": 0,
+    "feet": 6338,
     "ff_lvl": 0,
     "ff_p": [],
     "ff_xp": 0,
@@ -376,7 +376,7 @@
     "gb0": 64,
     "geiger": 0,
     "gem_goal": 1000,
-    "gems": 6463,
+    "gems": 29420,
     "gg0": 0,
     "ghost": false,
     "glo": 0,
@@ -403,7 +403,7 @@
     "halloween_q7": 0,
     "halloween_q8": 0,
     "halloween_q9": 0,
-    "hand": 10454,
+    "hand": 14574,
     "has_claim_event_wls": false,
     "home_world": "",
     "hs": 0,
@@ -435,7 +435,7 @@
             1
         ],
         [
-            9726,
+            11874,
             1
         ],
         [
@@ -448,7 +448,7 @@
         ],
         [
             340,
-            191
+            171
         ],
         [
             1390,
@@ -496,7 +496,7 @@
         ],
         [
             1308,
-            1
+            11
         ],
         [
             13636,
@@ -544,11 +544,11 @@
         ],
         [
             7188,
-            30
+            200
         ],
         [
             1796,
-            4
+            200
         ],
         [
             758,
@@ -624,7 +624,7 @@
         ],
         [
             3798,
-            18
+            15
         ],
         [
             10600,
@@ -640,7 +640,7 @@
         ],
         [
             242,
-            36
+            200
         ],
         [
             7912,
@@ -663,36 +663,36 @@
             1
         ],
         [
-            0,
-            0
+            1044,
+            18
         ],
         [
             11666,
             1
         ],
         [
-            0,
-            0
+            14566,
+            1
         ],
         [
-            0,
-            0
+            13824,
+            1
         ],
         [
-            0,
-            0
+            13766,
+            1
         ],
         [
-            0,
-            0
+            6338,
+            1
         ],
         [
-            0,
-            0
+            1008,
+            200
         ],
         [
-            0,
-            0
+            14574,
+            1
         ],
         [
             0,
@@ -764,30 +764,30 @@
         ]
     ],
     "invis": false,
-    "ip": "140.213.87.244",
+    "ip": "140.213.55.25",
     "is_day": 0,
     "is_legend": false,
-    "kit_level": 8,
-    "kit_xp": 4317,
+    "kit_level": 18,
+    "kit_xp": 40447,
     "la_wo": [
-        "SET",
         "BUYSET",
         "1",
         "2",
         "3",
         "QQ",
-        "KERJA",
-        "VEND",
         "GO",
         "CSN",
-        "START"
+        "START",
+        "FF",
+        "VEND",
+        "KERJA"
     ],
     "last_guild_contri": 0,
     "last_personal_contri": 0,
     "last_rank_guild": 0,
     "last_rank_per": 0,
     "legend": false,
-    "level": 4,
+    "level": 25,
     "lifegoals1": true,
     "lifegoals2": true,
     "lifegoals3": true,
@@ -795,7 +795,7 @@
     "lifegoals_2": false,
     "lifegoals_3": false,
     "lifegoals_reset_day": 0,
-    "lo": "7/31/2025 6:40:3",
+    "lo": "7/31/2025 22:22:59",
     "lr": [],
     "lvl125": 0,
     "lvlKit_S2": 0,
@@ -827,7 +827,7 @@
     "next_guild_event": false,
     "note": "",
     "on": 0,
-    "opc": 15,
+    "opc": 18,
     "p1_1": 0,
     "p1_2": 0,
     "p_1": false,
@@ -853,7 +853,7 @@
     "pet_xp": 0,
     "pg_bank": 0,
     "pgl_bank_amount": 0,
-    "player_token": "WProLiBXNHJFiNU6alHL",
+    "player_token": "UbwLigufdoeMjYCkdGBy",
     "playmods": [
         {
             "id": 125,
@@ -864,11 +864,21 @@
             "id": 125,
             "time": 1756633141,
             "user": "KalGTPS"
+        },
+        {
+            "id": 143,
+            "time": 1754626693,
+            "user": "KalGTPS"
+        },
+        {
+            "id": 143,
+            "time": 1754626693,
+            "user": "KalGTPS"
         }
     ],
-    "playtime": 6111,
+    "playtime": 10026,
     "playtime_items": [],
-    "punch": 1440,
+    "punch": 5951,
     "quest_number": 0,
     "quest_required": 0,
     "quest_text": "",
@@ -877,7 +887,7 @@
     "raw5_legendary_claim": false,
     "rb": 0,
     "received_recycle_prize": false,
-    "recovery_token": "5ouNaN6dr7",
+    "recovery_token": "64TTfjLYXM",
     "redeem_code": [],
     "requestedName": "VertionLabsLul",
     "reset_winterfest_quest_1": 0,
@@ -946,7 +956,7 @@
     "santa": 0,
     "sc": "0,3,0",
     "sd": 0,
-    "seed_goal": 779,
+    "seed_goal": 1000,
     "sew1": "",
     "sew2": "",
     "sew3": "",
@@ -969,7 +979,7 @@
     "spr3": 6,
     "spring_token": 0,
     "staged": 0,
-    "starglitter_break": 36,
+    "starglitter_break": 59,
     "starglitter_combine": 0,
     "starglitter_crystal": 0,
     "starglitter_email": 0,
@@ -978,8 +988,8 @@
     "starglitter_geiger": 0,
     "starglitter_geiger2": 0,
     "starglitter_place": 1000,
-    "starglitter_points": 60,
-    "starglitter_provider": 0,
+    "starglitter_points": 95,
+    "starglitter_provider": 90,
     "starglitter_provider2": 90,
     "starglitter_reset_day": 0,
     "starglitter_reset_month": 0,
@@ -1041,6 +1051,6 @@
     ],
     "wrench_custom": 0,
     "wrench_foreground_custom": 0,
-    "xp": 558,
+    "xp": 17196,
     "xpKit_S2": 0
 }

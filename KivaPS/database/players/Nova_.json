@@ -65,7 +65,7 @@
     "KitPass_Prize": [],
     "Legendary_Keys": 0,
     "LiyueHtouFly": false,
-    "Masterless_Starglitter": 37,
+    "Masterless_Starglitter": 39,
     "Mines_Score": 0,
     "Need_To_Required": 0,
     "Number_License": 1,
@@ -93,7 +93,7 @@
     "Slot_Credits": 0,
     "Slot_Far": 1,
     "Slot_Points": 0,
-    "St_Regen_Time": 1753987539,
+    "St_Regen_Time": 1754023415,
     "StarglitterTask_Prize": [],
     "Title.Award_Winning": false,
     "Title.ContentCBadge": false,
@@ -253,7 +253,7 @@
     ],
     "c0rr": true,
     "c_c_t": 15,
-    "c_s": 35936,
+    "c_s": 35904,
     "c_t_c": true,
     "ca_c": 0,
     "card_level": 1,
@@ -376,7 +376,7 @@
     "gb0": 64,
     "geiger": 0,
     "gem_goal": 1000,
-    "gems": 482626,
+    "gems": 484829,
     "gg0": 0,
     "ghost": false,
     "glo": 0,
@@ -403,7 +403,7 @@
     "halloween_q7": 0,
     "halloween_q8": 0,
     "halloween_q9": 0,
-    "hand": 1464,
+    "hand": 8440,
     "has_claim_event_wls": false,
     "home_world": "",
     "hs": 0,
@@ -432,7 +432,7 @@
         ],
         [
             1796,
-            118
+            158
         ],
         [
             527,
@@ -444,7 +444,7 @@
         ],
         [
             2,
-            59
+            78
         ],
         [
             596,
@@ -480,11 +480,11 @@
         ],
         [
             3,
-            122
+            29
         ],
         [
             7188,
-            50
+            82
         ],
         [
             9352,
@@ -500,7 +500,7 @@
         ],
         [
             242,
-            69
+            93
         ],
         [
             5084,
@@ -572,7 +572,7 @@
         ],
         [
             14574,
-            3
+            2
         ],
         [
             2278,
@@ -595,8 +595,8 @@
             1
         ],
         [
-            0,
-            0
+            5028,
+            2
         ],
         [
             11050,
@@ -628,7 +628,7 @@
         ],
         [
             14566,
-            11
+            46
         ],
         [
             19838,
@@ -795,8 +795,8 @@
             1
         ],
         [
-            0,
-            0
+            5136,
+            24
         ],
         [
             6754,
@@ -819,24 +819,24 @@
             15
         ],
         [
-            0,
-            0
+            14084,
+            37
         ],
         [
-            0,
-            0
+            14596,
+            29
         ],
         [
-            0,
-            0
+            15,
+            8
         ],
         [
-            0,
-            0
+            2914,
+            1
         ],
         [
-            0,
-            0
+            14,
+            1
         ],
         [
             0,
@@ -1048,10 +1048,8 @@
     "is_day": 0,
     "is_legend": false,
     "kit_level": 15,
-    "kit_xp": 26513,
+    "kit_xp": 27823,
     "la_wo": [
-        "VENDA",
-        "VEGAS",
         "VENDSS",
         "NOVA",
         "DARK",
@@ -1060,7 +1058,9 @@
         "LOW",
         "START",
         "VEND",
-        "END"
+        "END",
+        "KERJA",
+        "GAC"
     ],
     "last_guild_contri": 0,
     "last_personal_contri": 0,
@@ -1075,7 +1075,7 @@
     "lifegoals_2": false,
     "lifegoals_3": false,
     "lifegoals_reset_day": 0,
-    "lo": "7/31/2025 11:43:6",
+    "lo": "7/31/2025 21:44:28",
     "lr": [],
     "lvl125": 0,
     "lvlKit_S2": 0,
@@ -1107,7 +1107,7 @@
     "next_guild_event": false,
     "note": "",
     "on": 0,
-    "opc": 29,
+    "opc": 30,
     "p1_1": 0,
     "p1_2": 0,
     "p_1": false,
@@ -1133,7 +1133,7 @@
     "pet_xp": 0,
     "pg_bank": 0,
     "pgl_bank_amount": 0,
-    "player_token": "J9tHfYZlbUoIXvZ70Ucz",
+    "player_token": "VnXuKBHbwfne44jvWKnX",
     "playmods": [
         {
             "id": 125,
@@ -1156,9 +1156,9 @@
             "user": "Nova"
         }
     ],
-    "playtime": 10807,
+    "playtime": 11359,
     "playtime_items": [],
-    "punch": 8570,
+    "punch": 9178,
     "quest_number": 0,
     "quest_required": 0,
     "quest_text": "",
@@ -1167,7 +1167,7 @@
     "raw5_legendary_claim": false,
     "rb": 0,
     "received_recycle_prize": false,
-    "recovery_token": "Kt1X8bBAre",
+    "recovery_token": "ZTEIGLS1XC",
     "redeem_code": [],
     "requestedName": "VertionLabsLul",
     "reset_winterfest_quest_1": 0,
@@ -1332,6 +1332,6 @@
     ],
     "wrench_custom": 0,
     "wrench_foreground_custom": 0,
-    "xp": 117582,
+    "xp": 119146,
     "xpKit_S2": 0
 }
