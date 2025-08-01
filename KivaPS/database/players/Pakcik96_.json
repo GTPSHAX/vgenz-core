@@ -65,7 +65,7 @@
     "KitPass_Prize": [],
     "Legendary_Keys": 0,
     "LiyueHtouFly": false,
-    "Masterless_Starglitter": 94,
+    "Masterless_Starglitter": 102,
     "Mines_Score": 0,
     "Need_To_Required": 0,
     "Number_License": 1,
@@ -93,7 +93,7 @@
     "Slot_Credits": 0,
     "Slot_Far": 4,
     "Slot_Points": 0,
-    "St_Regen_Time": 1754061066,
+    "St_Regen_Time": 1754068268,
     "StarglitterTask_Prize": [],
     "Title.Award_Winning": false,
     "Title.ContentCBadge": false,
@@ -214,7 +214,7 @@
     "b_w": 0,
     "ba_f": 0,
     "ba_i": 0,
-    "back": 11300,
+    "back": 0,
     "balloon_prize": false,
     "bank_password": 0,
     "bb": false,
@@ -357,7 +357,7 @@
     "epicq_stonefish": 0,
     "epicq_teddybear": 0,
     "epicq_woolcraft": 0,
-    "exp_goal": 504,
+    "exp_goal": 800,
     "fa_ip": "",
     "face": 0,
     "favitem": [],
@@ -376,7 +376,7 @@
     "gb0": 64,
     "geiger": 0,
     "gem_goal": 1000,
-    "gems": 49423,
+    "gems": 2170722,
     "gg0": 0,
     "ghost": false,
     "glo": 0,
@@ -403,7 +403,7 @@
     "halloween_q7": 0,
     "halloween_q8": 0,
     "halloween_q9": 0,
-    "hand": 8440,
+    "hand": 14574,
     "has_claim_event_wls": false,
     "home_world": "",
     "hs": 0,
@@ -428,11 +428,11 @@
         ],
         [
             7188,
-            117
+            118
         ],
         [
             1796,
-            63
+            25
         ],
         [
             12130,
@@ -464,7 +464,7 @@
         ],
         [
             7160,
-            189
+            154
         ],
         [
             9602,
@@ -508,7 +508,7 @@
         ],
         [
             1474,
-            197
+            196
         ],
         [
             8578,
@@ -524,7 +524,7 @@
         ],
         [
             3798,
-            14
+            9
         ],
         [
             3550,
@@ -568,7 +568,7 @@
         ],
         [
             4604,
-            197
+            196
         ],
         [
             13240,
@@ -700,7 +700,7 @@
         ],
         [
             1746,
-            200
+            155
         ],
         [
             1934,
@@ -723,8 +723,8 @@
             6
         ],
         [
-            3,
-            139
+            5640,
+            1
         ],
         [
             7166,
@@ -796,11 +796,11 @@
         ],
         [
             1008,
-            7
+            200
         ],
         [
             262,
-            173
+            172
         ],
         [
             3544,
@@ -831,12 +831,12 @@
             1
         ],
         [
-            2,
-            46
+            14,
+            9
         ],
         [
             242,
-            82
+            200
         ],
         [
             8576,
@@ -847,8 +847,8 @@
             1
         ],
         [
-            0,
-            0
+            15,
+            1
         ],
         [
             6922,
@@ -888,7 +888,7 @@
         ],
         [
             2036,
-            6
+            7
         ],
         [
             1005,
@@ -916,11 +916,11 @@
         ],
         [
             5603,
-            1
+            2
         ],
         [
-            0,
-            0
+            2278,
+            1
         ],
         [
             0,
@@ -1164,14 +1164,12 @@
         ]
     ],
     "invis": false,
-    "ip": "140.213.78.19",
+    "ip": "140.213.87.75",
     "is_day": 0,
     "is_legend": false,
-    "kit_level": 21,
-    "kit_xp": 7881,
+    "kit_level": 22,
+    "kit_xp": 5433,
     "la_wo": [
-        "FF",
-        "DXMXMDD",
         "LEME",
         "KERJA",
         "ITEM",
@@ -1179,15 +1177,17 @@
         "GACHA",
         "FRAMDJDJ",
         "DF",
-        "FRAM",
-        "VEND"
+        "VEND",
+        "K",
+        "DJDJD",
+        "FRAM"
     ],
     "last_guild_contri": 0,
     "last_personal_contri": 0,
     "last_rank_guild": 0,
     "last_rank_per": 0,
     "legend": false,
-    "level": 47,
+    "level": 58,
     "lifegoals1": true,
     "lifegoals2": true,
     "lifegoals3": true,
@@ -1195,7 +1195,7 @@
     "lifegoals_2": false,
     "lifegoals_3": false,
     "lifegoals_reset_day": 0,
-    "lo": "8/1/2025 8:08:18",
+    "lo": "8/1/2025 10:11:44",
     "lr": [],
     "lvl125": 0,
     "lvlKit_S2": 0,
@@ -1216,7 +1216,7 @@
     "mgl_bank_amount": 0,
     "mines_coin": 0,
     "mst": 0,
-    "myou": false,
+    "myou": true,
     "n": 1,
     "name": "Pakcik96",
     "necklace": 0,
@@ -1227,7 +1227,7 @@
     "next_guild_event": false,
     "note": "",
     "on": 0,
-    "opc": 59,
+    "opc": 64,
     "p1_1": 0,
     "p1_2": 0,
     "p_1": false,
@@ -1253,7 +1253,7 @@
     "pet_xp": 0,
     "pg_bank": 0,
     "pgl_bank_amount": 0,
-    "player_token": "Xp9hxXJ0RML40uSHsc9n",
+    "player_token": "GB7WW15ms30mgZXpj5B3",
     "playmods": [
         {
             "id": 143,
@@ -1274,11 +1274,26 @@
             "id": 125,
             "time": 1756478250,
             "user": "Pakcik96"
+        },
+        {
+            "id": 29,
+            "time": 1754069950,
+            "user": "Pakcik96"
+        },
+        {
+            "id": 53,
+            "time": 1754069997,
+            "user": "Pakcik96"
+        },
+        {
+            "id": 113,
+            "time": 1754069998,
+            "user": "Pakcik96"
         }
     ],
-    "playtime": 71444,
+    "playtime": 73683,
     "playtime_items": [],
-    "punch": 9772,
+    "punch": 10658,
     "quest_number": 0,
     "quest_required": 0,
     "quest_text": "",
@@ -1287,7 +1302,7 @@
     "raw5_legendary_claim": false,
     "rb": 0,
     "received_recycle_prize": false,
-    "recovery_token": "9FtPJ6VlV7",
+    "recovery_token": "IAITaGjSGP",
     "redeem_code": [],
     "requestedName": "VertionLabsLul",
     "reset_winterfest_quest_1": 0,
@@ -1427,7 +1442,7 @@
     "vip_daily_day": 0,
     "vip_day": 0,
     "vou": 0,
-    "w_w": 47,
+    "w_w": 48,
     "winter_power": false,
     "winter_seal": 0,
     "winter_seal_branch_1": 0,
@@ -1488,6 +1503,6 @@
     ],
     "wrench_custom": 0,
     "wrench_foreground_custom": 0,
-    "xp": 51412,
+    "xp": 83230,
     "xpKit_S2": 0
 }
