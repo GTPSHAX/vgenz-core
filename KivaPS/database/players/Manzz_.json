@@ -43,7 +43,7 @@
     "DrDes": false,
     "EarnFreeGems.Claim": [],
     "EarnFreeGems.Quest_1": 0,
-    "EarnFreeGems.Quest_2": 40,
+    "EarnFreeGems.Quest_2": 50,
     "EarnFreeGems.Quest_3": 0,
     "EarnFreeGems.Time": 0,
     "Gacha_History": [],
@@ -65,7 +65,7 @@
     "KitPass_Prize": [],
     "Legendary_Keys": 0,
     "LiyueHtouFly": false,
-    "Masterless_Starglitter": 14,
+    "Masterless_Starglitter": 18,
     "Mines_Score": 0,
     "Need_To_Required": 0,
     "Number_License": 1,
@@ -93,7 +93,7 @@
     "Slot_Credits": 0,
     "Slot_Far": 1,
     "Slot_Points": 0,
-    "St_Regen_Time": 1753977926,
+    "St_Regen_Time": 1754049936,
     "StarglitterTask_Prize": [],
     "Title.Award_Winning": false,
     "Title.ContentCBadge": false,
@@ -214,7 +214,7 @@
     "b_w": 0,
     "ba_f": 0,
     "ba_i": 0,
-    "back": 15106,
+    "back": 1674,
     "balloon_prize": false,
     "bank_password": 0,
     "bb": false,
@@ -361,7 +361,7 @@
     "fa_ip": "",
     "face": 0,
     "favitem": [],
-    "feet": 0,
+    "feet": 12186,
     "ff_lvl": 0,
     "ff_p": [],
     "ff_xp": 0,
@@ -375,8 +375,8 @@
     "g_xp": 0,
     "gb0": 64,
     "geiger": 0,
-    "gem_goal": 312,
-    "gems": 97728578,
+    "gem_goal": 393,
+    "gems": 97728597,
     "gg0": 0,
     "ghost": false,
     "glo": 0,
@@ -393,7 +393,7 @@
     "growpass_quests": [],
     "gtwl": 0,
     "guild_id": 0,
-    "hair": 0,
+    "hair": 4820,
     "halloween_q1": 0,
     "halloween_q2": 0,
     "halloween_q3": 0,
@@ -403,7 +403,7 @@
     "halloween_q7": 0,
     "halloween_q8": 0,
     "halloween_q9": 0,
-    "hand": 6382,
+    "hand": 7784,
     "has_claim_event_wls": false,
     "home_world": "",
     "hs": 0,
@@ -432,7 +432,7 @@
         ],
         [
             7188,
-            23
+            33
         ],
         [
             9726,
@@ -444,7 +444,7 @@
         ],
         [
             3,
-            3
+            4
         ],
         [
             10604,
@@ -471,8 +471,8 @@
             1
         ],
         [
-            3432,
-            25
+            2218,
+            200
         ],
         [
             10262,
@@ -480,7 +480,7 @@
         ],
         [
             1796,
-            96
+            97
         ],
         [
             4252,
@@ -568,7 +568,7 @@
         ],
         [
             1404,
-            197
+            194
         ],
         [
             3560,
@@ -747,7 +747,7 @@
             200
         ],
         [
-            5542,
+            9532,
             200
         ],
         [
@@ -956,7 +956,7 @@
         ],
         [
             13200,
-            200
+            199
         ],
         [
             998,
@@ -968,63 +968,63 @@
         ],
         [
             2946,
-            164
+            163
         ],
         [
             2978,
             164
         ],
         [
-            0,
-            0
+            1674,
+            200
         ],
         [
-            0,
-            0
+            2854,
+            200
         ],
         [
-            0,
-            0
+            3696,
+            200
         ],
         [
-            0,
-            0
+            4820,
+            200
         ],
         [
-            0,
-            0
+            5156,
+            200
         ],
         [
-            0,
-            0
+            6312,
+            200
         ],
         [
-            0,
-            0
+            7784,
+            200
         ],
         [
-            0,
-            0
+            8588,
+            200
         ],
         [
-            0,
-            0
+            9730,
+            200
         ],
         [
-            0,
-            0
+            11008,
+            200
         ],
         [
-            0,
-            0
+            11040,
+            200
         ],
         [
-            0,
-            0
+            12186,
+            200
         ],
         [
-            0,
-            0
+            13572,
+            200
         ],
         [
             0,
@@ -1808,26 +1808,26 @@
     "is_day": 0,
     "is_legend": false,
     "kit_level": 4,
-    "kit_xp": 1426,
+    "kit_xp": 1434,
     "la_wo": [
-        "CSN",
-        "AW",
-        "1W",
-        "START",
-        "DA",
-        "C",
         "X",
         "SOSIAL",
         "NOVA",
+        "BUYBAITS",
         "BUYBAIT",
-        "BUYBAITS"
+        "VENDS",
+        "VEND",
+        "VENDSS",
+        "DF",
+        "VENDSSQ",
+        "HONORS"
     ],
     "last_guild_contri": 0,
     "last_personal_contri": 0,
     "last_rank_guild": 0,
     "last_rank_per": 0,
     "legend": false,
-    "level": 1,
+    "level": 901,
     "lifegoals1": true,
     "lifegoals2": true,
     "lifegoals3": true,
@@ -1835,7 +1835,7 @@
     "lifegoals_2": false,
     "lifegoals_3": false,
     "lifegoals_reset_day": 0,
-    "lo": "7/31/2025 9:05:9",
+    "lo": "8/1/2025 5:04:6",
     "lr": [],
     "lvl125": 0,
     "lvlKit_S2": 0,
@@ -1859,7 +1859,7 @@
     "myou": false,
     "n": 1,
     "name": "Manzz",
-    "necklace": 0,
+    "necklace": 9730,
     "need_item_req_id": 0,
     "need_required": 0,
     "need_sumbit_req_id": 0,
@@ -1867,7 +1867,7 @@
     "next_guild_event": false,
     "note": "",
     "on": 0,
-    "opc": 8,
+    "opc": 10,
     "p1_1": 0,
     "p1_2": 0,
     "p_1": false,
@@ -1893,7 +1893,7 @@
     "pet_xp": 0,
     "pg_bank": 0,
     "pgl_bank_amount": 0,
-    "player_token": "90NiT087gu3aLAkcQ4mP",
+    "player_token": "upkCGm50DPISl1JiaQ0T",
     "playmods": [
         {
             "id": 125,
@@ -1906,9 +1906,9 @@
             "user": "Manzz"
         }
     ],
-    "playtime": 3255,
+    "playtime": 4133,
     "playtime_items": [],
-    "punch": 987,
+    "punch": 1035,
     "quest_number": 0,
     "quest_required": 0,
     "quest_text": "",
@@ -1917,7 +1917,7 @@
     "raw5_legendary_claim": false,
     "rb": 0,
     "received_recycle_prize": false,
-    "recovery_token": "ukfIz7iNLA",
+    "recovery_token": "sQPekbDQaC",
     "redeem_code": [],
     "requestedName": "VertionLabsLul",
     "reset_winterfest_quest_1": 0,
@@ -1984,20 +1984,20 @@
     "s_lvl": 0,
     "s_xp": 0,
     "santa": 0,
-    "sc": "0,0,0",
+    "sc": "250,250,250",
     "sd": 0,
-    "seed_goal": 70,
+    "seed_goal": 89,
     "sew1": "",
     "sew2": "",
     "sew3": "",
     "sewtype": "",
     "sewunlocked": 0,
     "sgt": 255,
-    "shirt": 0,
+    "shirt": 11008,
     "show_location": true,
     "show_notifications": true,
     "show_pets": false,
-    "skin": -2104114177,
+    "skin": -84215041,
     "skl": 0,
     "sm1": 0,
     "sm2": 0,
@@ -2009,7 +2009,7 @@
     "spr3": 6,
     "spring_token": 0,
     "staged": 0,
-    "starglitter_break": 12,
+    "starglitter_break": 14,
     "starglitter_combine": 0,
     "starglitter_crystal": 0,
     "starglitter_email": 0,
@@ -2017,7 +2017,7 @@
     "starglitter_fish": 0,
     "starglitter_geiger": 0,
     "starglitter_geiger2": 0,
-    "starglitter_place": 308,
+    "starglitter_place": 309,
     "starglitter_points": 10,
     "starglitter_provider": 0,
     "starglitter_provider2": 343,
@@ -2057,7 +2057,7 @@
     "vip_daily_day": 0,
     "vip_day": 0,
     "vou": 0,
-    "w_w": 6,
+    "w_w": 7,
     "winter_power": false,
     "winter_seal": 0,
     "winter_seal_branch_1": 0,
@@ -2076,12 +2076,12 @@
     "worlds_owned": [
         "X",
         "HONOR",
-        "HONORS",
         "BUYBAIT",
-        "DA"
+        "DA",
+        "HONORS"
     ],
     "wrench_custom": 0,
     "wrench_foreground_custom": 0,
-    "xp": 140,
+    "xp": 178,
     "xpKit_S2": 0
 }

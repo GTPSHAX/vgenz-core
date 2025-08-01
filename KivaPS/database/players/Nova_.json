@@ -11,7 +11,22 @@
     "Account_Notes": [
         "`o01.08.2025 01:03: >> Flagged for Spam (in NGULI) Type: (FLAGGED AS: SPAM PACKET) (Code 3)",
         "`o01.08.2025 01:04: >> Flagged for Spam (in NGULI) Type: (FLAGGED AS: SPAM PACKET) (Code 3)",
-        "`o01.08.2025 01:07: >> Flagged for Spam (in NGULI) Type: (FLAGGED AS: SPAM PACKET) (Code 3)"
+        "`o01.08.2025 01:07: >> Flagged for Spam (in NGULI) Type: (FLAGGED AS: SPAM PACKET) (Code 3)",
+        "`o01.08.2025 05:33: >> Flagged for Spam (in DF) Type: (FLAGGED AS: SPAM PACKET) (Code 3)",
+        "`o01.08.2025 05:45: >> Flagged for Spam (in DF) Type: (FLAGGED AS: SPAM PACKET) (Code 3)",
+        "`o01.08.2025 05:45: >> Flagged for Spam (in DF) Type: (FLAGGED AS: SPAM PACKET) (Code 3)",
+        "`o01.08.2025 05:46: >> Flagged for Spam (in DF) Type: (FLAGGED AS: SPAM PACKET) (Code 3)",
+        "`o01.08.2025 05:47: >> Flagged for Spam (in DF) Type: (FLAGGED AS: SPAM PACKET) (Code 3)",
+        "`o01.08.2025 05:48: >> Flagged for Spam (in DF) Type: (FLAGGED AS: SPAM PACKET) (Code 3)",
+        "`o01.08.2025 05:49: >> Flagged for Spam (in DF) Type: (FLAGGED AS: SPAM PACKET) (Code 3)",
+        "`o01.08.2025 05:50: >> Flagged for Spam (in DF) Type: (FLAGGED AS: SPAM PACKET) (Code 3)",
+        "`o01.08.2025 05:51: >> Flagged for Spam (in DF) Type: (FLAGGED AS: SPAM PACKET) (Code 3)",
+        "`o01.08.2025 05:52: >> Flagged for Spam (in DF) Type: (FLAGGED AS: SPAM PACKET) (Code 3)",
+        "`o01.08.2025 05:53: >> Flagged for Spam (in DF) Type: (FLAGGED AS: SPAM PACKET) (Code 3)",
+        "`o01.08.2025 05:55: >> Flagged for Spam (in DF) Type: (FLAGGED AS: SPAM PACKET) (Code 3)",
+        "`o01.08.2025 05:55: >> Flagged for Spam (in DF) Type: (FLAGGED AS: SPAM PACKET) (Code 3)",
+        "`o01.08.2025 06:41: >> Flagged for Spam (in ITEM) Type: (FLAGGED AS: SPAM PACKET) (Code 3)",
+        "`o01.08.2025 07:33: >> Flagged for Spam (in DF) Type: (FLAGGED AS: SPAM PACKET) (Code 3)"
     ],
     "Acquaint_Fate": 0,
     "Already_Tried_Gob": false,
@@ -50,7 +65,288 @@
     "EarnFreeGems.Quest_2": 60,
     "EarnFreeGems.Quest_3": 0,
     "EarnFreeGems.Time": 0,
-    "Gacha_History": [],
+    "Gacha_History": [
+        "Blue Geiger V-Neck `wat 3:59 on 8/1",
+        "Purple Geiger V-Neck `wat 3:59 on 8/1",
+        "Heart Necklace `wat 3:59 on 8/1",
+        "Parrot Wings `wat 3:59 on 8/1",
+        "Glowy Cape `wat 3:59 on 8/1",
+        "Melody Necklace `wat 3:59 on 8/1",
+        "Golden Sunset Cape `wat 3:59 on 8/1",
+        "Patent Leather Shoes `wat 3:59 on 8/1",
+        "Leprechaun Shoes `wat 3:59 on 8/1",
+        "Rayman's Fist `wat 3:59 on 8/1",
+        "Heart Necklace `wat 3:59 on 8/1",
+        "Angel Wings `wat 3:59 on 8/1",
+        "Super Cape `wat 3:59 on 8/1",
+        "Bouncer Shoes `wat 3:59 on 8/1",
+        "Leprechaun Shoes `wat 3:59 on 8/1",
+        "Fairy Wings `wat 3:59 on 8/1",
+        "Snowflake Wings of Winter `wat 3:59 on 8/1",
+        "Leprechaun Shoes `wat 3:59 on 8/1",
+        "Black Shoes `wat 3:59 on 8/1",
+        "Super Cape `wat 3:59 on 8/1",
+        "Super Cape `wat 4:0 on 8/1",
+        "Patent Leather Shoes `wat 4:0 on 8/1",
+        "Brown Pet Apatoceratops `wat 4:0 on 8/1",
+        "Orange Geiger V-Neck `wat 4:0 on 8/1",
+        "Heart Necklace `wat 4:0 on 8/1",
+        "Brown Pet Apatoceratops `wat 4:0 on 8/1",
+        "Cosmic Cape `wat 4:0 on 8/1",
+        "Rainbow Hair `wat 4:0 on 8/1",
+        "Patent Leather Shoes `wat 4:0 on 8/1",
+        "Angel Wings `wat 4:0 on 8/1",
+        "Super Cape `wat 4:0 on 8/1",
+        "Super Cape `wat 4:0 on 8/1",
+        "Super Cape - Black `wat 4:0 on 8/1",
+        "Ripper Wings `wat 4:0 on 8/1",
+        "Super Cape - Black `wat 4:0 on 8/1",
+        "Rainbow Wings `wat 4:0 on 8/1",
+        "Blazing Electro Wings `wat 4:0 on 8/1",
+        "Heart Necklace `wat 4:0 on 8/1",
+        "Super Cape `wat 4:0 on 8/1",
+        "Angel Wings `wat 4:0 on 8/1",
+        "Green Pet Apatoceratops `wat 4:0 on 8/1",
+        "Brown Shoes `wat 4:0 on 8/1",
+        "Green Pet Apatoceratops `wat 4:0 on 8/1",
+        "Parrot Wings `wat 4:0 on 8/1",
+        "Red Pet Apatoceratops `wat 4:0 on 8/1",
+        "Angel Wings `wat 4:0 on 8/1",
+        "Blue Geiger V-Neck `wat 4:0 on 8/1",
+        "Patent Leather Shoes `wat 4:0 on 8/1",
+        "Green Pet Apatoceratops `wat 4:0 on 8/1",
+        "Leprechaun Shoes `wat 4:0 on 8/1",
+        "Blue Geiger V-Neck `wat 4:0 on 8/1",
+        "Golden Razor Wings `wat 4:0 on 8/1",
+        "Ripper Wings `wat 4:0 on 8/1",
+        "Brown Pet Apatoceratops `wat 4:0 on 8/1",
+        "Purple Geiger V-Neck `wat 4:0 on 8/1",
+        "Red Pet Apatoceratops `wat 4:0 on 8/1",
+        "Patent Leather Shoes `wat 4:0 on 8/1",
+        "Leprechaun Shoes `wat 4:0 on 8/1",
+        "Super Cape - Black `wat 4:0 on 8/1",
+        "Patent Leather Shoes `wat 4:0 on 8/1",
+        "Super Cape `wat 4:0 on 8/1",
+        "Prismatic Aura `wat 4:0 on 8/1",
+        "Crimson Eagle Wings `wat 4:0 on 8/1",
+        "Green Pet Apatoceratops `wat 4:0 on 8/1",
+        "Super Cape `wat 4:0 on 8/1",
+        "Rainbow Wings `wat 4:0 on 8/1",
+        "Fairy Wings `wat 4:0 on 8/1",
+        "Pilgrim's Shoes `wat 4:0 on 8/1",
+        "Black Shoes `wat 4:0 on 8/1",
+        "Money Aura `wat 4:0 on 8/1",
+        "Butcher Knife `wat 4:0 on 8/1",
+        "Brown Pet Apatoceratops `wat 4:0 on 8/1",
+        "Brown Shoes `wat 4:0 on 8/1",
+        "Crimson Eagle Wings `wat 4:0 on 8/1",
+        "Ripper Wings `wat 4:0 on 8/1",
+        "Black Tie Baller Shoes `wat 4:0 on 8/1",
+        "Super Cape `wat 4:0 on 8/1",
+        "Angel Wings `wat 4:0 on 8/1",
+        "Super Cape `wat 4:0 on 8/1",
+        "Brown Pet Apatoceratops `wat 4:0 on 8/1",
+        "Ripper Wings `wat 7:20 on 8/1",
+        "Butcher Knife `wat 7:20 on 8/1",
+        "Crimson Eagle Wings `wat 7:20 on 8/1",
+        "Red Pet Apatoceratops `wat 7:20 on 8/1",
+        "Super Cape - Black `wat 7:20 on 8/1",
+        "The Traveler's Cape `wat 7:20 on 8/1",
+        "Blue Geiger V-Neck `wat 7:20 on 8/1",
+        "Leprechaun Shoes `wat 7:20 on 8/1",
+        "Pilgrim's Shoes `wat 7:20 on 8/1",
+        "Super Cape `wat 7:20 on 8/1",
+        "Green Pet Apatoceratops `wat 7:20 on 8/1",
+        "Glowy Cape `wat 7:20 on 8/1",
+        "Clown Shoes `wat 7:20 on 8/1",
+        "Green Geiger V-Neck `wat 7:20 on 8/1",
+        "Clown Shoes `wat 7:20 on 8/1",
+        "Rainbow Cape `wat 7:20 on 8/1",
+        "Fairy Wings `wat 7:20 on 8/1",
+        "Clown Shoes `wat 7:20 on 8/1",
+        "Parrot Wings `wat 7:20 on 8/1",
+        "Blazing Electro Wings `wat 7:20 on 8/1",
+        "Rainbow Hair `wat 7:20 on 8/1",
+        "Blue Geiger V-Neck `wat 7:20 on 8/1",
+        "Pilgrim's Shoes `wat 7:20 on 8/1",
+        "Cape of Shadows `wat 7:20 on 8/1",
+        "Super Cape `wat 7:20 on 8/1",
+        "Patent Leather Shoes `wat 7:20 on 8/1",
+        "Cosmic Cape `wat 7:20 on 8/1",
+        "Parrot Wings `wat 7:20 on 8/1",
+        "Rayman's Fist `wat 7:20 on 8/1",
+        "Super Cape - Black `wat 7:20 on 8/1",
+        "Heart Necklace `wat 7:20 on 8/1",
+        "Purple Geiger V-Neck `wat 7:20 on 8/1",
+        "Super Cape `wat 7:20 on 8/1",
+        "Leprechaun Shoes `wat 7:20 on 8/1",
+        "Ripper Wings `wat 7:20 on 8/1",
+        "Bouncer Shoes `wat 7:20 on 8/1",
+        "Blazing Electro Wings `wat 7:20 on 8/1",
+        "Blue Geiger V-Neck `wat 7:20 on 8/1",
+        "Rainbow Wings `wat 7:20 on 8/1",
+        "Leprechaun Shoes `wat 7:20 on 8/1",
+        "Blazing Electro Wings `wat 7:20 on 8/1",
+        "Pilgrim's Shoes `wat 7:20 on 8/1",
+        "Fairy Wings `wat 7:20 on 8/1",
+        "Orange Geiger V-Neck `wat 7:20 on 8/1",
+        "Brown Shoes `wat 7:20 on 8/1",
+        "Black Intergalactic Hair `wat 7:20 on 8/1",
+        "Super Cape `wat 7:20 on 8/1",
+        "Red Pet Apatoceratops `wat 7:20 on 8/1",
+        "Melody Necklace `wat 7:20 on 8/1",
+        "Black Shoes `wat 7:20 on 8/1",
+        "Fairy Wings `wat 7:20 on 8/1",
+        "Ripper Wings `wat 7:20 on 8/1",
+        "Green Pet Apatoceratops `wat 7:20 on 8/1",
+        "Snowflake Wings of Winter `wat 7:20 on 8/1",
+        "Clown Shoes `wat 7:20 on 8/1",
+        "Crimson Eagle Wings `wat 7:20 on 8/1",
+        "Cape of Shadows `wat 7:20 on 8/1",
+        "Parrot Wings `wat 7:20 on 8/1",
+        "Rainbow Cape `wat 7:20 on 8/1",
+        "Leprechaun Shoes `wat 7:20 on 8/1",
+        "Green Geiger V-Neck `wat 7:20 on 8/1",
+        "Parrot Wings `wat 7:20 on 8/1",
+        "Rayman's Fist `wat 7:20 on 8/1",
+        "Cape of Shadows `wat 7:20 on 8/1",
+        "Brown Shoes `wat 7:20 on 8/1",
+        "Ripper Wings `wat 7:20 on 8/1",
+        "Fairy Wings `wat 7:20 on 8/1",
+        "Melody Necklace `wat 7:20 on 8/1",
+        "Melody Necklace `wat 7:20 on 8/1",
+        "Super Cape `wat 7:20 on 8/1",
+        "Heart Necklace `wat 7:20 on 8/1",
+        "Super Cape `wat 7:20 on 8/1",
+        "Cape of Shadows `wat 7:20 on 8/1",
+        "Golden Razor Wings `wat 7:20 on 8/1",
+        "Bouncer Shoes `wat 7:20 on 8/1",
+        "Super Cape `wat 7:20 on 8/1",
+        "Angel Wings `wat 7:20 on 8/1",
+        "Super Cape `wat 7:20 on 8/1",
+        "Brown Pet Apatoceratops `wat 7:20 on 8/1",
+        "Green Geiger V-Neck `wat 7:20 on 8/1",
+        "Super Cape - Black `wat 7:21 on 8/1",
+        "Leprechaun Shoes `wat 7:21 on 8/1",
+        "Green Pet Apatoceratops `wat 7:21 on 8/1",
+        "Black Tie Baller Shoes `wat 7:21 on 8/1",
+        "Shamrock Wings `wat 7:21 on 8/1",
+        "The Traveler's Cape `wat 7:21 on 8/1",
+        "Red Pet Apatoceratops `wat 7:21 on 8/1",
+        "Black Tie Baller Shoes `wat 7:21 on 8/1",
+        "Parrot Wings `wat 7:21 on 8/1",
+        "Super Cape `wat 7:21 on 8/1",
+        "Prismatic Aura `wat 7:21 on 8/1",
+        "Golden Razor Wings `wat 7:21 on 8/1",
+        "Black Intergalactic Hair `wat 7:21 on 8/1",
+        "Ripper Wings `wat 7:21 on 8/1",
+        "Purple Geiger V-Neck `wat 7:21 on 8/1",
+        "Money Aura `wat 7:21 on 8/1",
+        "Black Tie Baller Shoes `wat 7:21 on 8/1",
+        "Cape of Shadows `wat 7:21 on 8/1",
+        "Super Cape `wat 7:21 on 8/1",
+        "Super Cape `wat 7:21 on 8/1",
+        "Angel Wings `wat 7:21 on 8/1",
+        "Green Geiger V-Neck `wat 7:21 on 8/1",
+        "Leprechaun Shoes `wat 7:21 on 8/1",
+        "Black Shoes `wat 7:21 on 8/1",
+        "Patent Leather Shoes `wat 7:21 on 8/1",
+        "Glowy Cape `wat 7:21 on 8/1",
+        "Red Pet Apatoceratops `wat 7:21 on 8/1",
+        "Angel Wings `wat 7:21 on 8/1",
+        "Super Cape - Black `wat 7:21 on 8/1",
+        "Super Cape `wat 7:21 on 8/1",
+        "Brown Pet Apatoceratops `wat 7:21 on 8/1",
+        "Cape of Shadows `wat 7:21 on 8/1",
+        "Pilgrim's Shoes `wat 7:21 on 8/1",
+        "Super Cape - Black `wat 7:21 on 8/1",
+        "Leprechaun Shoes `wat 7:21 on 8/1",
+        "Orange Geiger V-Neck `wat 7:21 on 8/1",
+        "Golden Aura `wat 7:21 on 8/1",
+        "Purple Geiger V-Neck `wat 7:21 on 8/1",
+        "Green Pet Apatoceratops `wat 7:21 on 8/1",
+        "Angel Wings `wat 7:21 on 8/1",
+        "Black Tie Baller Shoes `wat 7:21 on 8/1",
+        "Super Cape - Black `wat 7:21 on 8/1",
+        "Orange Geiger V-Neck `wat 7:21 on 8/1",
+        "Parrot Wings `wat 7:21 on 8/1",
+        "`cAzraq Hair`` `wat 7:21 on 8/1",
+        "Money Aura `wat 7:21 on 8/1",
+        "Blazing Electro Wings `wat 7:21 on 8/1",
+        "Golden Aura `wat 7:21 on 8/1",
+        "Parrot Wings `wat 7:21 on 8/1",
+        "Black Shoes `wat 7:21 on 8/1",
+        "Brown Shoes `wat 7:24 on 8/1",
+        "Super Cape `wat 7:24 on 8/1",
+        "Super Cape `wat 7:24 on 8/1",
+        "Angel Wings `wat 7:24 on 8/1",
+        "Bouncer Shoes `wat 7:24 on 8/1",
+        "Super Cape `wat 7:24 on 8/1",
+        "`cAzraq Hair`` `wat 7:24 on 8/1",
+        "Purple Geiger V-Neck `wat 7:24 on 8/1",
+        "Parrot Wings `wat 7:24 on 8/1",
+        "Super Cape `wat 7:24 on 8/1",
+        "Super Cape `wat 7:25 on 8/1",
+        "Rayman's Fist `wat 7:25 on 8/1",
+        "Ripper Wings `wat 7:25 on 8/1",
+        "Neon Party Cape `wat 7:25 on 8/1",
+        "Green Pet Apatoceratops `wat 7:25 on 8/1",
+        "Rainbow Wings `wat 7:25 on 8/1",
+        "Butcher Knife `wat 7:25 on 8/1",
+        "Glowy Cape `wat 7:25 on 8/1",
+        "Green Geiger V-Neck `wat 7:25 on 8/1",
+        "The Diviner's Shoes `wat 7:25 on 8/1",
+        "Money Aura `wat 7:25 on 8/1",
+        "Green Geiger V-Neck `wat 7:25 on 8/1",
+        "Super Cape - Black `wat 7:25 on 8/1",
+        "The Traveler's Cape `wat 7:25 on 8/1",
+        "Parrot Wings `wat 7:25 on 8/1",
+        "Super Cape - Black `wat 7:25 on 8/1",
+        "Super Cape - Black `wat 7:25 on 8/1",
+        "Rainbow Hair `wat 7:25 on 8/1",
+        "Patent Leather Shoes `wat 7:25 on 8/1",
+        "Blue Geiger V-Neck `wat 7:25 on 8/1",
+        "Orange Geiger V-Neck `wat 7:25 on 8/1",
+        "Green Geiger V-Neck `wat 7:25 on 8/1",
+        "Bouncer Shoes `wat 7:25 on 8/1",
+        "Super Cape `wat 7:25 on 8/1",
+        "Brown Pet Apatoceratops `wat 7:25 on 8/1",
+        "Orange Geiger V-Neck `wat 7:25 on 8/1",
+        "Golden Razor Wings `wat 7:25 on 8/1",
+        "Blue Geiger V-Neck `wat 7:25 on 8/1",
+        "Green Pet Apatoceratops `wat 7:25 on 8/1",
+        "Super Cape `wat 7:25 on 8/1",
+        "Black Tie Baller Shoes `wat 7:25 on 8/1",
+        "Blazing Electro Wings `wat 7:25 on 8/1",
+        "Super Cape `wat 7:25 on 8/1",
+        "Brown Shoes `wat 7:25 on 8/1",
+        "Black Shoes `wat 7:25 on 8/1",
+        "Orange Geiger V-Neck `wat 7:25 on 8/1",
+        "Melody Necklace `wat 7:25 on 8/1",
+        "Burning Hands `wat 7:25 on 8/1",
+        "Super Cape `wat 7:25 on 8/1",
+        "Cape of Shadows `wat 7:25 on 8/1",
+        "Purple Geiger V-Neck `wat 7:25 on 8/1",
+        "Rainbow Wings `wat 7:25 on 8/1",
+        "Blazing Electro Wings `wat 7:25 on 8/1",
+        "Black Tie Baller Shoes `wat 7:25 on 8/1",
+        "Crimson Eagle Wings `wat 7:25 on 8/1",
+        "Angel Wings `wat 7:25 on 8/1",
+        "Money Aura `wat 7:25 on 8/1",
+        "Cape of Shadows `wat 7:25 on 8/1",
+        "Blazing Electro Wings `wat 7:25 on 8/1",
+        "Rainbow Wings `wat 7:25 on 8/1",
+        "Patent Leather Shoes `wat 7:25 on 8/1",
+        "Clown Shoes `wat 7:25 on 8/1",
+        "The Traveler's Cape `wat 7:25 on 8/1",
+        "Aquatic Volcanic Cape `wat 7:25 on 8/1",
+        "Super Cape - Black `wat 7:25 on 8/1",
+        "Black Tie Baller Shoes `wat 7:25 on 8/1",
+        "Cape of Shadows `wat 7:25 on 8/1",
+        "Golden Razor Wings `wat 7:25 on 8/1",
+        "Angel Wings `wat 7:25 on 8/1",
+        "Butcher Knife `wat 7:25 on 8/1"
+    ],
     "Gem_B_1": 255,
     "Gem_G_1": 0,
     "Gem_R_1": 255,
@@ -67,19 +363,19 @@
     "Intertwined_Fate": 0,
     "Kit": false,
     "KitPass_Prize": [],
-    "Legendary_Keys": 0,
+    "Legendary_Keys": 4,
     "LiyueHtouFly": true,
-    "Masterless_Starglitter": 65,
+    "Masterless_Starglitter": 838,
     "Mines_Score": 0,
     "Need_To_Required": 0,
     "Number_License": 1,
     "Pets_Builder_Lvl": 0,
-    "Pets_Dead": false,
-    "Pets_Death_Times": 0,
+    "Pets_Dead": true,
+    "Pets_Death_Times": 1,
     "Pets_Farmer_Lvl": 0,
-    "Pets_health": 55,
-    "Pets_hunger": 45,
-    "Pity": 0,
+    "Pets_health": 0,
+    "Pets_hunger": 55,
+    "Pity": 2800,
     "Pity_On": false,
     "Present_Goblin": 0,
     "Requiring": 1,
@@ -97,7 +393,7 @@
     "Slot_Credits": 0,
     "Slot_Far": 8,
     "Slot_Points": 0,
-    "St_Regen_Time": 1754038214,
+    "St_Regen_Time": 1754059097,
     "StarglitterTask_Prize": [],
     "Title.Award_Winning": false,
     "Title.ContentCBadge": false,
@@ -200,7 +496,7 @@
     "ability_xgems": 0,
     "ability_xxp": 0,
     "active_bluename": false,
-    "ances": 5078,
+    "ances": 5080,
     "anni_old": 0,
     "as": 8,
     "aw_winning": 0,
@@ -218,7 +514,7 @@
     "b_w": 0,
     "ba_f": 0,
     "ba_i": 0,
-    "back": 7084,
+    "back": 448,
     "balloon_prize": false,
     "bank_password": 123455,
     "bb": false,
@@ -257,7 +553,7 @@
     ],
     "c0rr": true,
     "c_c_t": 15,
-    "c_s": 35936,
+    "c_s": 35904,
     "c_t_c": true,
     "ca_c": 0,
     "card_level": 1,
@@ -361,9 +657,9 @@
     "epicq_stonefish": 0,
     "epicq_teddybear": 0,
     "epicq_woolcraft": 0,
-    "exp_goal": 3,
+    "exp_goal": 800,
     "fa_ip": "",
-    "face": 13930,
+    "face": 19966,
     "favitem": [],
     "feet": 3894,
     "ff_lvl": 0,
@@ -380,7 +676,7 @@
     "gb0": 64,
     "geiger": 0,
     "gem_goal": 1000,
-    "gems": 561717990,
+    "gems": 1437762287,
     "gg0": 0,
     "ghost": false,
     "glo": 0,
@@ -407,7 +703,7 @@
     "halloween_q7": 0,
     "halloween_q8": 0,
     "halloween_q9": 0,
-    "hand": 8440,
+    "hand": 4956,
     "has_claim_event_wls": false,
     "home_world": "",
     "hs": 0,
@@ -436,27 +732,27 @@
         ],
         [
             7188,
-            75
+            86
         ],
         [
             15,
-            11
+            72
         ],
         [
             278,
             1
         ],
         [
-            2,
-            165
+            19990,
+            1
         ],
         [
             596,
-            30
+            10
         ],
         [
-            5638,
-            2
+            5022,
+            1
         ],
         [
             6946,
@@ -483,12 +779,12 @@
             1
         ],
         [
-            3,
-            42
+            1796,
+            93
         ],
         [
-            1796,
-            95
+            242,
+            62
         ],
         [
             9352,
@@ -499,16 +795,16 @@
             1
         ],
         [
-            4956,
+            1966,
             1
         ],
         [
-            242,
-            36
+            6840,
+            1
         ],
         [
             5084,
-            2
+            1
         ],
         [
             216,
@@ -520,7 +816,7 @@
         ],
         [
             7416,
-            1
+            2
         ],
         [
             20090,
@@ -531,8 +827,8 @@
             1
         ],
         [
-            10,
-            3
+            1746,
+            75
         ],
         [
             14972,
@@ -544,15 +840,15 @@
         ],
         [
             4506,
-            1
+            5
         ],
         [
             9536,
             1
         ],
         [
-            2262,
-            1
+            7436,
+            106
         ],
         [
             13710,
@@ -576,7 +872,7 @@
         ],
         [
             14574,
-            2
+            1
         ],
         [
             2278,
@@ -588,23 +884,23 @@
         ],
         [
             19836,
-            1
+            2
         ],
         [
             5608,
             1
         ],
         [
-            10424,
+            10644,
             1
         ],
         [
             3564,
-            144
+            75
         ],
         [
             11050,
-            2
+            1
         ],
         [
             3042,
@@ -624,7 +920,7 @@
         ],
         [
             1536,
-            101
+            15
         ],
         [
             19874,
@@ -632,11 +928,11 @@
         ],
         [
             14566,
-            106
+            127
         ],
         [
             19838,
-            1
+            2
         ],
         [
             3838,
@@ -647,8 +943,8 @@
             1
         ],
         [
-            526,
-            176
+            5640,
+            1
         ],
         [
             10000,
@@ -720,11 +1016,11 @@
         ],
         [
             3300,
-            1
+            2
         ],
         [
             15068,
-            1
+            2
         ],
         [
             1944,
@@ -744,11 +1040,11 @@
         ],
         [
             14572,
-            1
+            2
         ],
         [
-            462,
-            1
+            7438,
+            192
         ],
         [
             448,
@@ -764,7 +1060,7 @@
         ],
         [
             14570,
-            1
+            2
         ],
         [
             11668,
@@ -816,15 +1112,15 @@
         ],
         [
             2946,
-            20
+            11
         ],
         [
             8470,
-            36
+            34
         ],
         [
             4104,
-            200
+            142
         ],
         [
             8618,
@@ -836,11 +1132,11 @@
         ],
         [
             3565,
-            15
+            17
         ],
         [
-            14,
-            8
+            0,
+            0
         ],
         [
             3894,
@@ -852,7 +1148,7 @@
         ],
         [
             4,
-            3
+            15
         ],
         [
             225,
@@ -860,7 +1156,7 @@
         ],
         [
             224,
-            2
+            1
         ],
         [
             19960,
@@ -868,11 +1164,11 @@
         ],
         [
             408,
-            1
+            2
         ],
         [
-            14084,
-            7
+            13408,
+            1
         ],
         [
             1278,
@@ -891,8 +1187,8 @@
             1
         ],
         [
-            5136,
-            8
+            14160,
+            1
         ],
         [
             3616,
@@ -907,12 +1203,412 @@
             99
         ],
         [
-            14596,
-            6
+            102,
+            179
         ],
         [
             1537,
+            9
+        ],
+        [
+            8276,
+            200
+        ],
+        [
+            5028,
+            12
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            98,
+            1
+        ],
+        [
+            8194,
+            4
+        ],
+        [
+            5202,
+            4
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            11,
+            5
+        ],
+        [
+            5,
+            20
+        ],
+        [
+            5480,
+            4
+        ],
+        [
+            4956,
+            1
+        ],
+        [
+            2,
+            56
+        ],
+        [
+            5178,
+            5
+        ],
+        [
+            5812,
+            1
+        ],
+        [
+            13026,
+            1
+        ],
+        [
+            9982,
+            2
+        ],
+        [
+            6286,
+            4
+        ],
+        [
+            6316,
+            1
+        ],
+        [
+            8002,
+            1
+        ],
+        [
+            10178,
+            1
+        ],
+        [
+            3144,
+            2
+        ],
+        [
+            6006,
+            3
+        ],
+        [
+            6156,
+            10
+        ],
+        [
+            14302,
+            1
+        ],
+        [
+            274,
+            1
+        ],
+        [
+            7190,
+            1
+        ],
+        [
+            6154,
+            10
+        ],
+        [
+            2204,
+            1
+        ],
+        [
+            9874,
+            1
+        ],
+        [
+            14964,
+            1
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            8774,
+            4
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            6296,
+            10
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            6772,
+            10
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            2166,
+            10
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            5652,
+            2
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            9998,
+            2
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            5902,
+            4
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            7412,
+            1
+        ],
+        [
+            362,
             7
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            9422,
+            1
+        ],
+        [
+            5020,
+            1
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            2722,
+            2
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            11300,
+            1
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            13432,
+            1
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
         ],
         [
             0,
@@ -1048,23 +1744,23 @@
         ]
     ],
     "invis": false,
-    "ip": "180.242.232.68",
+    "ip": "125.160.87.132",
     "is_day": 0,
     "is_legend": false,
-    "kit_level": 20,
-    "kit_xp": 7762,
+    "kit_level": 23,
+    "kit_xp": 36950,
     "la_wo": [
-        "GAC",
-        "VENDD",
-        "OE",
-        "GO",
-        "BFG",
-        "NGULIS",
-        "NGULI",
-        "KEBUN",
-        "VEND",
         "JUDOL",
-        "CSN"
+        "VES",
+        "KEBUN",
+        "FARM",
+        "VENDSS",
+        "VENDSSQ",
+        "DFS",
+        "VEND",
+        "GACHA",
+        "ITEM",
+        "DF"
     ],
     "last_guild_contri": 0,
     "last_personal_contri": 0,
@@ -1079,7 +1775,7 @@
     "lifegoals_2": false,
     "lifegoals_3": false,
     "lifegoals_reset_day": 0,
-    "lo": "8/1/2025 1:48:43",
+    "lo": "8/1/2025 7:35:40",
     "lr": [],
     "lvl125": 0,
     "lvlKit_S2": 0,
@@ -1091,7 +1787,7 @@
     "lw_4": [],
     "m_b": "",
     "m_h": 0,
-    "mask": 0,
+    "mask": 6006,
     "master_pet": false,
     "mentor": false,
     "mer": 0,
@@ -1103,15 +1799,15 @@
     "myou": true,
     "n": 1,
     "name": "Nova",
-    "necklace": 1454,
+    "necklace": 0,
     "need_item_req_id": 0,
     "need_required": 0,
     "need_sumbit_req_id": 0,
     "new_player": true,
-    "next_guild_event": false,
+    "next_guild_event": true,
     "note": "",
     "on": 0,
-    "opc": 48,
+    "opc": 71,
     "p1_1": 0,
     "p1_2": 0,
     "p_1": false,
@@ -1123,21 +1819,21 @@
     "p_lvl": 0,
     "p_p": [],
     "p_xp": 0,
-    "pants": 0,
+    "pants": 1944,
     "participated": 0,
     "participated_personal": false,
     "party_animal": 0,
     "pass": "Nova.",
     "pet_ClothesUpdated": false,
-    "pet_ID": 9502,
-    "pet_level": 8,
+    "pet_ID": 0,
+    "pet_level": 9,
     "pet_name": "`4@Liyue_HTouFly",
     "pet_netID": 21739529,
     "pet_type": 1,
-    "pet_xp": 536,
+    "pet_xp": 3376,
     "pg_bank": 0,
     "pgl_bank_amount": 0,
-    "player_token": "769pymT9bhU1toaf11MN",
+    "player_token": "ntGKeKWeQcodumYuwgxU",
     "playmods": [
         {
             "id": 125,
@@ -1160,9 +1856,9 @@
             "user": "Nova"
         }
     ],
-    "playtime": 20542,
+    "playtime": 32161,
     "playtime_items": [],
-    "punch": 14939,
+    "punch": 19197,
     "quest_number": 0,
     "quest_required": 0,
     "quest_text": "",
@@ -1171,7 +1867,7 @@
     "raw5_legendary_claim": false,
     "rb": 0,
     "received_recycle_prize": false,
-    "recovery_token": "9w9EXUu5OX",
+    "recovery_token": "Rn4VL4G1sh",
     "redeem_code": [],
     "requestedName": "VertionLabsLul",
     "reset_winterfest_quest_1": 0,
@@ -1199,31 +1895,31 @@
     "role_quest": false,
     "role_quest_type": "",
     "rolequest_reset_day": 0,
-    "row1_items1_claim": false,
-    "row1_items2_claim": false,
-    "row1_items3_claim": false,
-    "row1_items4_claim": false,
-    "row1_items5_claim": false,
-    "row1_items6_claim": false,
-    "row2_items1_claim": false,
-    "row2_items2_claim": false,
-    "row2_items3_claim": false,
-    "row2_items4_claim": false,
-    "row2_items5_claim": false,
-    "row2_items6_claim": false,
-    "row3_items1_claim": false,
-    "row3_items2_claim": false,
-    "row3_items3_claim": false,
-    "row3_items4_claim": false,
-    "row3_items5_claim": false,
-    "row3_items6_claim": false,
-    "row4_items1_claim": false,
-    "row4_items2_claim": false,
-    "row4_items3_claim": false,
-    "row4_items4_claim": false,
-    "row4_items5_claim": false,
-    "row4_items6_claim": false,
-    "rubble": 4,
+    "row1_items1_claim": true,
+    "row1_items2_claim": true,
+    "row1_items3_claim": true,
+    "row1_items4_claim": true,
+    "row1_items5_claim": true,
+    "row1_items6_claim": true,
+    "row2_items1_claim": true,
+    "row2_items2_claim": true,
+    "row2_items3_claim": true,
+    "row2_items4_claim": true,
+    "row2_items5_claim": true,
+    "row2_items6_claim": true,
+    "row3_items1_claim": true,
+    "row3_items2_claim": true,
+    "row3_items3_claim": true,
+    "row3_items4_claim": true,
+    "row3_items5_claim": true,
+    "row3_items6_claim": true,
+    "row4_items1_claim": true,
+    "row4_items2_claim": true,
+    "row4_items3_claim": true,
+    "row4_items4_claim": true,
+    "row4_items5_claim": true,
+    "row4_items6_claim": true,
+    "rubble": 14,
     "rw_1": 3356909055,
     "rw_10": "34,35,63",
     "rw_2": 4282965247,
@@ -1250,7 +1946,7 @@
     "shirt": 0,
     "show_location": true,
     "show_notifications": true,
-    "show_pets": true,
+    "show_pets": false,
     "skin": -1261502465,
     "skl": 0,
     "sm1": 0,
@@ -1286,7 +1982,7 @@
     "su1": 0,
     "su2": 0,
     "su3": 0,
-    "summer_token": 0,
+    "summer_token": 7600,
     "supp": 0,
     "surg_p": [],
     "t_h": [],
@@ -1311,7 +2007,7 @@
     "vip_daily_day": 0,
     "vip_day": 0,
     "vou": 0,
-    "w_w": 12,
+    "w_w": 15,
     "winter_power": false,
     "winter_seal": 0,
     "winter_seal_branch_1": 0,
@@ -1335,10 +2031,12 @@
         "END",
         "NGULI",
         "KEBUN",
-        "JUDOL"
+        "JUDOL",
+        "DF",
+        "ITEM"
     ],
     "wrench_custom": 0,
     "wrench_foreground_custom": 0,
-    "xp": 112248,
+    "xp": 215812,
     "xpKit_S2": 0
 }
