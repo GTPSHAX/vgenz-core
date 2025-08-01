@@ -8,7 +8,11 @@
     "7bans": [],
     "AbyssMageFly": false,
     "AccountSecured": false,
-    "Account_Notes": [],
+    "Account_Notes": [
+        "`o01.08.2025 01:03: >> Flagged for Spam (in NGULI) Type: (FLAGGED AS: SPAM PACKET) (Code 3)",
+        "`o01.08.2025 01:04: >> Flagged for Spam (in NGULI) Type: (FLAGGED AS: SPAM PACKET) (Code 3)",
+        "`o01.08.2025 01:07: >> Flagged for Spam (in NGULI) Type: (FLAGGED AS: SPAM PACKET) (Code 3)"
+    ],
     "Acquaint_Fate": 0,
     "Already_Tried_Gob": false,
     "Bank_History": [],
@@ -64,8 +68,8 @@
     "Kit": false,
     "KitPass_Prize": [],
     "Legendary_Keys": 0,
-    "LiyueHtouFly": false,
-    "Masterless_Starglitter": 39,
+    "LiyueHtouFly": true,
+    "Masterless_Starglitter": 65,
     "Mines_Score": 0,
     "Need_To_Required": 0,
     "Number_License": 1,
@@ -73,8 +77,8 @@
     "Pets_Dead": false,
     "Pets_Death_Times": 0,
     "Pets_Farmer_Lvl": 0,
-    "Pets_health": 100,
-    "Pets_hunger": 150,
+    "Pets_health": 55,
+    "Pets_hunger": 45,
     "Pity": 0,
     "Pity_On": false,
     "Present_Goblin": 0,
@@ -91,9 +95,9 @@
     "Role.Vip": false,
     "Silver_Donatur": false,
     "Slot_Credits": 0,
-    "Slot_Far": 1,
+    "Slot_Far": 8,
     "Slot_Points": 0,
-    "St_Regen_Time": 1754023415,
+    "St_Regen_Time": 1754038214,
     "StarglitterTask_Prize": [],
     "Title.Award_Winning": false,
     "Title.ContentCBadge": false,
@@ -196,9 +200,9 @@
     "ability_xgems": 0,
     "ability_xxp": 0,
     "active_bluename": false,
-    "ances": 7166,
+    "ances": 5078,
     "anni_old": 0,
-    "as": 1,
+    "as": 8,
     "aw_winning": 0,
     "awesomeness": 0,
     "b_b": "",
@@ -253,7 +257,7 @@
     ],
     "c0rr": true,
     "c_c_t": 15,
-    "c_s": 35904,
+    "c_s": 35936,
     "c_t_c": true,
     "ca_c": 0,
     "card_level": 1,
@@ -357,11 +361,11 @@
     "epicq_stonefish": 0,
     "epicq_teddybear": 0,
     "epicq_woolcraft": 0,
-    "exp_goal": 0,
+    "exp_goal": 3,
     "fa_ip": "",
-    "face": 19966,
+    "face": 13930,
     "favitem": [],
-    "feet": 0,
+    "feet": 3894,
     "ff_lvl": 0,
     "ff_p": [],
     "ff_xp": 0,
@@ -376,7 +380,7 @@
     "gb0": 64,
     "geiger": 0,
     "gem_goal": 1000,
-    "gems": 484829,
+    "gems": 561717990,
     "gg0": 0,
     "ghost": false,
     "glo": 0,
@@ -387,7 +391,7 @@
     "gp_silver": 0,
     "gr0": 255,
     "gr_w": [],
-    "grm": "(wl)|ā|0&(oops)|ą|0&(sleep)|Ċ|0&(punch)|ċ|0&(bheart)|Ĕ|0&(grow)|Ė|0&(gems)|ė|0&(gtoken)|ę|0&(cry)|ĝ|1&(vend)|Ğ|0&(bunny)|ě|0&(cactus)|ğ|0&(pine)|Ĥ|0&(peace)|ģ|0&(terror)|ġ|0&(troll)|Ġ|0&(evil)|Ģ|0&(fireworks)|Ħ|0&(football)|ĥ|0&(alien)|ħ|0&(party)|Ĩ|0&(pizza)|ĩ|0&(clap)|Ī|0&(song)|ī|1&(ghost)|Ĭ|0&(nuke)|ĭ|0&(halo)|Į|0&(turkey)|į|0&(gift)|İ|0&(cake)|ı|0&(heartarrow)|Ĳ|0&(lucky)|ĳ|0&(shamrock)|Ĵ|0&(grin)|ĵ|0&(ill)|Ķ|0&(eyes)|ķ|0&(weary)|ĸ|0&(moyai)|ļ|0&(plead)|Ľ|0&",
+    "grm": "(wl)|ā|0&(oops)|ą|0&(sleep)|Ċ|0&(punch)|ċ|0&(bheart)|Ĕ|0&(grow)|Ė|0&(gems)|ė|0&(gtoken)|ę|0&(cry)|ĝ|1&(vend)|Ğ|0&(bunny)|ě|0&(cactus)|ğ|0&(pine)|Ĥ|0&(peace)|ģ|0&(terror)|ġ|0&(troll)|Ġ|0&(evil)|Ģ|0&(fireworks)|Ħ|0&(football)|ĥ|0&(alien)|ħ|0&(party)|Ĩ|0&(pizza)|ĩ|0&(clap)|Ī|0&(song)|ī|1&(ghost)|Ĭ|0&(nuke)|ĭ|0&(halo)|Į|0&(turkey)|į|0&(gift)|İ|0&(cake)|ı|0&(heartarrow)|Ĳ|0&(lucky)|ĳ|0&(shamrock)|Ĵ|0&(grin)|ĵ|1&(ill)|Ķ|0&(eyes)|ķ|0&(weary)|ĸ|0&(moyai)|ļ|0&(plead)|Ľ|0&",
     "growpass_points": 0,
     "growpass_prizes": [],
     "growpass_quests": [],
@@ -431,12 +435,12 @@
             1
         ],
         [
-            1796,
-            158
+            7188,
+            75
         ],
         [
-            527,
-            3
+            15,
+            11
         ],
         [
             278,
@@ -444,11 +448,11 @@
         ],
         [
             2,
-            78
+            165
         ],
         [
             596,
-            34
+            30
         ],
         [
             5638,
@@ -480,11 +484,11 @@
         ],
         [
             3,
-            29
+            42
         ],
         [
-            7188,
-            82
+            1796,
+            95
         ],
         [
             9352,
@@ -500,7 +504,7 @@
         ],
         [
             242,
-            93
+            36
         ],
         [
             5084,
@@ -528,7 +532,7 @@
         ],
         [
             10,
-            2
+            3
         ],
         [
             14972,
@@ -539,7 +543,7 @@
             2
         ],
         [
-            9874,
+            4506,
             1
         ],
         [
@@ -547,8 +551,8 @@
             1
         ],
         [
-            7066,
-            199
+            2262,
+            1
         ],
         [
             13710,
@@ -595,8 +599,8 @@
             1
         ],
         [
-            5028,
-            2
+            3564,
+            144
         ],
         [
             11050,
@@ -619,8 +623,8 @@
             1
         ],
         [
-            3839,
-            1
+            1536,
+            101
         ],
         [
             19874,
@@ -628,7 +632,7 @@
         ],
         [
             14566,
-            46
+            106
         ],
         [
             19838,
@@ -795,8 +799,8 @@
             1
         ],
         [
-            5136,
-            24
+            5082,
+            1
         ],
         [
             6754,
@@ -816,99 +820,99 @@
         ],
         [
             8470,
+            36
+        ],
+        [
+            4104,
+            200
+        ],
+        [
+            8618,
+            1
+        ],
+        [
+            20,
+            1
+        ],
+        [
+            3565,
             15
         ],
         [
-            14084,
-            37
-        ],
-        [
-            14596,
-            29
-        ],
-        [
-            15,
+            14,
             8
         ],
         [
-            2914,
+            3894,
             1
         ],
         [
-            14,
+            5828,
             1
         ],
         [
-            0,
-            0
+            4,
+            3
         ],
         [
-            0,
-            0
+            225,
+            10
         ],
         [
-            0,
-            0
+            224,
+            2
         ],
         [
-            0,
-            0
+            19960,
+            1
         ],
         [
-            0,
-            0
+            408,
+            1
         ],
         [
-            0,
-            0
+            14084,
+            7
         ],
         [
-            0,
-            0
+            1278,
+            1
         ],
         [
-            0,
-            0
+            4884,
+            1
         ],
         [
-            0,
-            0
+            3072,
+            1
         ],
         [
-            0,
-            0
+            3750,
+            1
         ],
         [
-            0,
-            0
+            5136,
+            8
         ],
         [
-            0,
-            0
+            3616,
+            1
         ],
         [
-            0,
-            0
+            1404,
+            96
         ],
         [
-            0,
-            0
+            3560,
+            99
         ],
         [
-            0,
-            0
+            14596,
+            6
         ],
         [
-            0,
-            0
-        ],
-        [
-            0,
-            0
-        ],
-        [
-            0,
-            0
+            1537,
+            7
         ],
         [
             0,
@@ -1047,27 +1051,27 @@
     "ip": "180.242.232.68",
     "is_day": 0,
     "is_legend": false,
-    "kit_level": 15,
-    "kit_xp": 27823,
+    "kit_level": 20,
+    "kit_xp": 7762,
     "la_wo": [
-        "VENDSS",
-        "NOVA",
-        "DARK",
-        "DANAS",
-        "DANA",
-        "LOW",
-        "START",
+        "GAC",
+        "VENDD",
+        "OE",
+        "GO",
+        "BFG",
+        "NGULIS",
+        "NGULI",
+        "KEBUN",
         "VEND",
-        "END",
-        "KERJA",
-        "GAC"
+        "JUDOL",
+        "CSN"
     ],
     "last_guild_contri": 0,
     "last_personal_contri": 0,
     "last_rank_guild": 0,
     "last_rank_per": 0,
     "legend": false,
-    "level": 67,
+    "level": 68,
     "lifegoals1": true,
     "lifegoals2": true,
     "lifegoals3": true,
@@ -1075,7 +1079,7 @@
     "lifegoals_2": false,
     "lifegoals_3": false,
     "lifegoals_reset_day": 0,
-    "lo": "7/31/2025 21:44:28",
+    "lo": "8/1/2025 1:48:43",
     "lr": [],
     "lvl125": 0,
     "lvlKit_S2": 0,
@@ -1099,7 +1103,7 @@
     "myou": true,
     "n": 1,
     "name": "Nova",
-    "necklace": 0,
+    "necklace": 1454,
     "need_item_req_id": 0,
     "need_required": 0,
     "need_sumbit_req_id": 0,
@@ -1107,7 +1111,7 @@
     "next_guild_event": false,
     "note": "",
     "on": 0,
-    "opc": 30,
+    "opc": 48,
     "p1_1": 0,
     "p1_2": 0,
     "p_1": false,
@@ -1119,21 +1123,21 @@
     "p_lvl": 0,
     "p_p": [],
     "p_xp": 0,
-    "pants": 1944,
+    "pants": 0,
     "participated": 0,
     "participated_personal": false,
     "party_animal": 0,
     "pass": "Nova.",
     "pet_ClothesUpdated": false,
-    "pet_ID": 0,
-    "pet_level": 0,
-    "pet_name": "",
-    "pet_netID": 0,
-    "pet_type": -1,
-    "pet_xp": 0,
+    "pet_ID": 9502,
+    "pet_level": 8,
+    "pet_name": "`4@Liyue_HTouFly",
+    "pet_netID": 21739529,
+    "pet_type": 1,
+    "pet_xp": 536,
     "pg_bank": 0,
     "pgl_bank_amount": 0,
-    "player_token": "VnXuKBHbwfne44jvWKnX",
+    "player_token": "769pymT9bhU1toaf11MN",
     "playmods": [
         {
             "id": 125,
@@ -1156,9 +1160,9 @@
             "user": "Nova"
         }
     ],
-    "playtime": 11359,
+    "playtime": 20542,
     "playtime_items": [],
-    "punch": 9178,
+    "punch": 14939,
     "quest_number": 0,
     "quest_required": 0,
     "quest_text": "",
@@ -1167,7 +1171,7 @@
     "raw5_legendary_claim": false,
     "rb": 0,
     "received_recycle_prize": false,
-    "recovery_token": "ZTEIGLS1XC",
+    "recovery_token": "9w9EXUu5OX",
     "redeem_code": [],
     "requestedName": "VertionLabsLul",
     "reset_winterfest_quest_1": 0,
@@ -1183,8 +1187,8 @@
     "ri_10": "34,35,36",
     "ri_2": 2402849791,
     "ri_3": 723421695,
-    "ri_4": 1059267327,
-    "ri_5": 19451,
+    "ri_4": 606282495,
+    "ri_5": 18856,
     "ri_6": 30,
     "ri_7": "147,56,143",
     "ri_8": "137,30,43",
@@ -1246,7 +1250,7 @@
     "shirt": 0,
     "show_location": true,
     "show_notifications": true,
-    "show_pets": false,
+    "show_pets": true,
     "skin": -1261502465,
     "skl": 0,
     "sm1": 0,
@@ -1307,7 +1311,7 @@
     "vip_daily_day": 0,
     "vip_day": 0,
     "vou": 0,
-    "w_w": 8,
+    "w_w": 12,
     "winter_power": false,
     "winter_seal": 0,
     "winter_seal_branch_1": 0,
@@ -1328,10 +1332,13 @@
         "GACHE",
         "DARK",
         "DANA",
-        "END"
+        "END",
+        "NGULI",
+        "KEBUN",
+        "JUDOL"
     ],
     "wrench_custom": 0,
     "wrench_foreground_custom": 0,
-    "xp": 119146,
+    "xp": 112248,
     "xpKit_S2": 0
 }

@@ -764,13 +764,12 @@
         ]
     ],
     "invis": false,
-    "ip": "114.79.19.89",
+    "ip": "158.140.171.26",
     "is_day": 0,
     "is_legend": false,
     "kit_level": 3,
     "kit_xp": 676,
     "la_wo": [
-        "1",
         "BUY",
         "D",
         "A",
@@ -780,7 +779,8 @@
         "FRAM",
         "SELL",
         "BILA",
-        "START"
+        "START",
+        "VEND"
     ],
     "last_guild_contri": 0,
     "last_personal_contri": 0,
@@ -795,7 +795,7 @@
     "lifegoals_2": false,
     "lifegoals_3": false,
     "lifegoals_reset_day": 0,
-    "lo": "7/31/2025 20:26:37",
+    "lo": "7/31/2025 22:34:4",
     "lr": [],
     "lvl125": 0,
     "lvlKit_S2": 0,
@@ -853,7 +853,7 @@
     "pet_xp": 0,
     "pg_bank": 0,
     "pgl_bank_amount": 0,
-    "player_token": "lfN9aNm713cqr4CoVQoA",
+    "player_token": "IaAuXBMz3efLMyNhBltL",
     "playmods": [
         {
             "id": 125,
@@ -866,9 +866,9 @@
             "user": "Sewa"
         }
     ],
-    "playtime": 3675,
+    "playtime": 3707,
     "playtime_items": [],
-    "punch": 1567,
+    "punch": 1573,
     "quest_number": 0,
     "quest_required": 0,
     "quest_text": "",
@@ -877,7 +877,7 @@
     "raw5_legendary_claim": false,
     "rb": 0,
     "received_recycle_prize": false,
-    "recovery_token": "pcsg5WoMhq",
+    "recovery_token": "OhDpcHKxJI",
     "redeem_code": [],
     "requestedName": "VertionLabsLul",
     "reset_winterfest_quest_1": 0,
