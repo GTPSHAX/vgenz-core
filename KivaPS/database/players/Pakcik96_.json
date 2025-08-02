@@ -8,7 +8,9 @@
     "7bans": [],
     "AbyssMageFly": false,
     "AccountSecured": false,
-    "Account_Notes": [],
+    "Account_Notes": [
+        "`o01.08.2025 23:26: >> Flagged for Spam (in FRAM) Type: (FLAGGED AS: SPAM PACKET) (Code 3)"
+    ],
     "Acquaint_Fate": 0,
     "Already_Tried_Gob": false,
     "Bank_History": [],
@@ -65,7 +67,7 @@
     "KitPass_Prize": [],
     "Legendary_Keys": 0,
     "LiyueHtouFly": false,
-    "Masterless_Starglitter": 105,
+    "Masterless_Starglitter": 108,
     "Mines_Score": 0,
     "Need_To_Required": 0,
     "Number_License": 1,
@@ -93,7 +95,7 @@
     "Slot_Credits": 0,
     "Slot_Far": 4,
     "Slot_Points": 0,
-    "St_Regen_Time": 1754115557,
+    "St_Regen_Time": 1754116750,
     "StarglitterTask_Prize": [],
     "Title.Award_Winning": false,
     "Title.ContentCBadge": false,
@@ -376,7 +378,7 @@
     "gb0": 64,
     "geiger": 0,
     "gem_goal": 1000,
-    "gems": 3682123,
+    "gems": 4416823,
     "gg0": 0,
     "ghost": false,
     "glo": 0,
@@ -479,8 +481,8 @@
             2
         ],
         [
-            5640,
-            1
+            0,
+            0
         ],
         [
             13692,
@@ -508,7 +510,7 @@
         ],
         [
             1474,
-            196
+            195
         ],
         [
             8578,
@@ -523,8 +525,8 @@
             1
         ],
         [
-            3798,
-            9
+            0,
+            0
         ],
         [
             3550,
@@ -568,7 +570,7 @@
         ],
         [
             4604,
-            196
+            195
         ],
         [
             13240,
@@ -724,7 +726,7 @@
         ],
         [
             242,
-            114
+            200
         ],
         [
             7166,
@@ -788,7 +790,7 @@
         ],
         [
             263,
-            5
+            6
         ],
         [
             9320,
@@ -796,11 +798,11 @@
         ],
         [
             1008,
-            199
+            185
         ],
         [
             262,
-            177
+            155
         ],
         [
             3544,
@@ -1164,13 +1166,12 @@
         ]
     ],
     "invis": false,
-    "ip": "125.160.87.132",
+    "ip": "140.213.86.228",
     "is_day": 0,
     "is_legend": false,
     "kit_level": 22,
-    "kit_xp": 29078,
+    "kit_xp": 44463,
     "la_wo": [
-        "LEME",
         "KERJA",
         "ITEM",
         "BOJANG",
@@ -1180,14 +1181,15 @@
         "VEND",
         "K",
         "DJDJD",
-        "FRAM"
+        "FRAM",
+        "N"
     ],
     "last_guild_contri": 0,
     "last_personal_contri": 0,
     "last_rank_guild": 0,
     "last_rank_per": 0,
     "legend": false,
-    "level": 65,
+    "level": 69,
     "lifegoals1": true,
     "lifegoals2": true,
     "lifegoals3": true,
@@ -1195,7 +1197,7 @@
     "lifegoals_2": false,
     "lifegoals_3": false,
     "lifegoals_reset_day": 0,
-    "lo": "8/1/2025 23:23:40",
+    "lo": "8/1/2025 23:40:39",
     "lr": [],
     "lvl125": 0,
     "lvlKit_S2": 0,
@@ -1227,7 +1229,7 @@
     "next_guild_event": false,
     "note": "",
     "on": 0,
-    "opc": 65,
+    "opc": 66,
     "p1_1": 0,
     "p1_2": 0,
     "p_1": false,
@@ -1253,7 +1255,7 @@
     "pet_xp": 0,
     "pg_bank": 0,
     "pgl_bank_amount": 0,
-    "player_token": "11m3eHK8GQ98vKHVDNhz",
+    "player_token": "uOUXUmt7dFdftYuuU9xQ",
     "playmods": [
         {
             "id": 143,
@@ -1274,11 +1276,21 @@
             "id": 125,
             "time": 1756478250,
             "user": "Pakcik96"
+        },
+        {
+            "id": 53,
+            "time": 1754118003,
+            "user": "Pakcik96"
+        },
+        {
+            "id": 113,
+            "time": 1754118004,
+            "user": "Pakcik96"
         }
     ],
-    "playtime": 74519,
+    "playtime": 75369,
     "playtime_items": [],
-    "punch": 10813,
+    "punch": 10979,
     "quest_number": 0,
     "quest_required": 0,
     "quest_text": "",
@@ -1287,7 +1299,7 @@
     "raw5_legendary_claim": false,
     "rb": 0,
     "received_recycle_prize": false,
-    "recovery_token": "VX46A3Qbat",
+    "recovery_token": "wcflgoX9FI",
     "redeem_code": [],
     "requestedName": "VertionLabsLul",
     "reset_winterfest_quest_1": 0,
@@ -1339,7 +1351,7 @@
     "row4_items4_claim": false,
     "row4_items5_claim": false,
     "row4_items6_claim": false,
-    "rubble": 9,
+    "rubble": 15,
     "rw_1": 3356909055,
     "rw_10": "34,35,63",
     "rw_2": 4282965247,
@@ -1488,6 +1500,6 @@
     ],
     "wrench_custom": 0,
     "wrench_foreground_custom": 0,
-    "xp": 136484,
+    "xp": 67984,
     "xpKit_S2": 0
 }

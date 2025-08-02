@@ -524,7 +524,7 @@
         ]
     ],
     "invis": false,
-    "ip": "114.10.137.104",
+    "ip": "114.10.137.60",
     "is_day": 0,
     "is_legend": false,
     "kit_level": 1,
@@ -539,8 +539,8 @@
         "HAZE",
         "VEND",
         "BILQ",
-        "FRAM",
-        "BILA"
+        "BILA",
+        "FRAM"
     ],
     "last_guild_contri": 0,
     "last_personal_contri": 0,
@@ -555,7 +555,7 @@
     "lifegoals_2": false,
     "lifegoals_3": false,
     "lifegoals_reset_day": 0,
-    "lo": "7/30/2025 19:54:14",
+    "lo": "8/2/2025 4:24:28",
     "lr": [],
     "lvl125": 0,
     "lvlKit_S2": 0,
@@ -613,7 +613,7 @@
     "pet_xp": 0,
     "pg_bank": 0,
     "pgl_bank_amount": 0,
-    "player_token": "Nq6gswLFtRka0iBxuOO0",
+    "player_token": "BPayQt2Pj97UCbQbIrNV",
     "playmods": [
         {
             "id": 125,
@@ -626,9 +626,9 @@
             "user": "PakBean"
         }
     ],
-    "playtime": 4679,
+    "playtime": 4742,
     "playtime_items": [],
-    "punch": 489,
+    "punch": 491,
     "quest_number": 0,
     "quest_required": 0,
     "quest_text": "",
@@ -637,7 +637,7 @@
     "raw5_legendary_claim": false,
     "rb": 0,
     "received_recycle_prize": false,
-    "recovery_token": "sTAhYtQdw8",
+    "recovery_token": "IVtfBMYLcl",
     "redeem_code": [],
     "requestedName": "VertionLabsLul",
     "reset_winterfest_quest_1": 0,
