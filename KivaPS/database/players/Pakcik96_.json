@@ -65,7 +65,7 @@
     "KitPass_Prize": [],
     "Legendary_Keys": 0,
     "LiyueHtouFly": false,
-    "Masterless_Starglitter": 102,
+    "Masterless_Starglitter": 105,
     "Mines_Score": 0,
     "Need_To_Required": 0,
     "Number_License": 1,
@@ -93,7 +93,7 @@
     "Slot_Credits": 0,
     "Slot_Far": 4,
     "Slot_Points": 0,
-    "St_Regen_Time": 1754068268,
+    "St_Regen_Time": 1754115557,
     "StarglitterTask_Prize": [],
     "Title.Award_Winning": false,
     "Title.ContentCBadge": false,
@@ -196,7 +196,7 @@
     "ability_xgems": 0,
     "ability_xxp": 0,
     "active_bluename": false,
-    "ances": 0,
+    "ances": 5084,
     "anni_old": 0,
     "as": 1,
     "aw_winning": 0,
@@ -376,7 +376,7 @@
     "gb0": 64,
     "geiger": 0,
     "gem_goal": 1000,
-    "gems": 2170722,
+    "gems": 3682123,
     "gg0": 0,
     "ghost": false,
     "glo": 0,
@@ -428,11 +428,11 @@
         ],
         [
             7188,
-            118
+            200
         ],
         [
             1796,
-            25
+            200
         ],
         [
             12130,
@@ -479,8 +479,8 @@
             2
         ],
         [
-            5666,
-            166
+            5640,
+            1
         ],
         [
             13692,
@@ -716,15 +716,15 @@
         ],
         [
             2914,
-            6
+            7
         ],
         [
             5282,
             6
         ],
         [
-            5640,
-            1
+            242,
+            114
         ],
         [
             7166,
@@ -764,7 +764,7 @@
         ],
         [
             5028,
-            13
+            14
         ],
         [
             98,
@@ -796,11 +796,11 @@
         ],
         [
             1008,
-            200
+            199
         ],
         [
             262,
-            172
+            177
         ],
         [
             3544,
@@ -820,7 +820,7 @@
         ],
         [
             14596,
-            4
+            55
         ],
         [
             10188,
@@ -835,8 +835,8 @@
             9
         ],
         [
-            242,
-            200
+            7954,
+            1
         ],
         [
             8576,
@@ -880,7 +880,7 @@
         ],
         [
             5136,
-            1
+            59
         ],
         [
             3899,
@@ -923,12 +923,12 @@
             1
         ],
         [
-            0,
-            0
+            5178,
+            1
         ],
         [
-            0,
-            0
+            14084,
+            56
         ],
         [
             0,
@@ -1164,11 +1164,11 @@
         ]
     ],
     "invis": false,
-    "ip": "140.213.87.75",
+    "ip": "125.160.87.132",
     "is_day": 0,
     "is_legend": false,
     "kit_level": 22,
-    "kit_xp": 5433,
+    "kit_xp": 29078,
     "la_wo": [
         "LEME",
         "KERJA",
@@ -1187,7 +1187,7 @@
     "last_rank_guild": 0,
     "last_rank_per": 0,
     "legend": false,
-    "level": 58,
+    "level": 65,
     "lifegoals1": true,
     "lifegoals2": true,
     "lifegoals3": true,
@@ -1195,7 +1195,7 @@
     "lifegoals_2": false,
     "lifegoals_3": false,
     "lifegoals_reset_day": 0,
-    "lo": "8/1/2025 10:11:44",
+    "lo": "8/1/2025 23:23:40",
     "lr": [],
     "lvl125": 0,
     "lvlKit_S2": 0,
@@ -1227,7 +1227,7 @@
     "next_guild_event": false,
     "note": "",
     "on": 0,
-    "opc": 64,
+    "opc": 65,
     "p1_1": 0,
     "p1_2": 0,
     "p_1": false,
@@ -1253,7 +1253,7 @@
     "pet_xp": 0,
     "pg_bank": 0,
     "pgl_bank_amount": 0,
-    "player_token": "GB7WW15ms30mgZXpj5B3",
+    "player_token": "11m3eHK8GQ98vKHVDNhz",
     "playmods": [
         {
             "id": 143,
@@ -1274,26 +1274,11 @@
             "id": 125,
             "time": 1756478250,
             "user": "Pakcik96"
-        },
-        {
-            "id": 29,
-            "time": 1754069950,
-            "user": "Pakcik96"
-        },
-        {
-            "id": 53,
-            "time": 1754069997,
-            "user": "Pakcik96"
-        },
-        {
-            "id": 113,
-            "time": 1754069998,
-            "user": "Pakcik96"
         }
     ],
-    "playtime": 73683,
+    "playtime": 74519,
     "playtime_items": [],
-    "punch": 10658,
+    "punch": 10813,
     "quest_number": 0,
     "quest_required": 0,
     "quest_text": "",
@@ -1302,7 +1287,7 @@
     "raw5_legendary_claim": false,
     "rb": 0,
     "received_recycle_prize": false,
-    "recovery_token": "IAITaGjSGP",
+    "recovery_token": "VX46A3Qbat",
     "redeem_code": [],
     "requestedName": "VertionLabsLul",
     "reset_winterfest_quest_1": 0,
@@ -1503,6 +1488,6 @@
     ],
     "wrench_custom": 0,
     "wrench_foreground_custom": 0,
-    "xp": 83230,
+    "xp": 136484,
     "xpKit_S2": 0
 }
